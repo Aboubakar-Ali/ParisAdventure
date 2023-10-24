@@ -9,7 +9,7 @@
   </head>
   <body>
     <div class="s011">
-      <form onsubmit="submitForm(event)">
+      <form>
         <fieldset>
           <legend>A few criterias for an "itinéraire" !</legend>
         </fieldset>
@@ -51,6 +51,7 @@
               </div>
 
           </header>
+
           <div class="main-form" id="main-form">
             <div class="row">
               <div class="input-wrap">
@@ -125,39 +126,6 @@
           </div>
         </div>
       </form>
-    </div>
-    <script src="js/extention/choices.js"></script>
-    <script>
-      const choices = new Choices('[data-trigger]',
-      {
-        searchEnabled: false,
-        itemSelectText: '',
-      });
-
-    </script>
-    <script src="js/extention/flatpickr.js"></script>
-    <script>
-      flatpickr(".datepicker",
-      {
-        dateFormat: "m/d/y"
-      });
-      var btnTypes = document.querySelectorAll('.travel-type-wrap .item')
-      var mainForm = document.getElementById('main-form')
-      for (let i = 0; i < btnTypes.length; i++)
-      {
-        btnTypes[i].addEventListener('click', function()
-        {
-          for (let i = 0; i < btnTypes.length; i++)
-          {
-            btnTypes[i].classList.remove('active')
-          }
-          btnTypes[i].classList.add('active')
-          let className = 'type' + i
-          mainForm.className = `${className} main-form`
-        })
-      }
-
-    </script>
   </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
   <script src="js/hideForm.js"></script>
   <script>

@@ -9,7 +9,7 @@
   </head>
   <body>
     <div class="s011">
-      <form>
+      <form onsubmit="submitForm(event)">
         <fieldset>
           <legend>A few criterias for an "itinéraire" !</legend>
         </fieldset>
@@ -120,7 +120,7 @@
               </div>
             </div>
             <div class="row last">
-              <button class="btn-search" type="button">Search</button>
+              <button class="submit-input btn-search" type="button">Search</button>
             </div>
           </div>
         </div>
@@ -159,4 +159,10 @@
 
     </script>
   </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+  <script src="js/hideForm.js"></script>
+  <script>
+    function submitForm(event) {
+      event.preventDefault();
+    }
+  </script>
 </html>

@@ -1,9 +1,9 @@
-class Hackaton {
+class Fetcher {
   
     constructor() {
     }
-  
-    login(username, password) {
+
+    itinerary(position, hours, price, adults) {
       return new Promise((resolve, reject) => {
           fetch(`${window.CONFIG.API_URL}/itinerary`, {
             method: 'POST',
@@ -11,8 +11,10 @@ class Hackaton {
               'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-              username,
-              password,
+                position: position,
+                hours: hours,
+                price: price,
+                adults: adults
             }),
         }).then((response) => {
             response.json().then((data) => {
@@ -31,4 +33,4 @@ class Hackaton {
   }
   
   
-  const hackaton = new Hackaton();
+  const itinerary = new Fetcher();

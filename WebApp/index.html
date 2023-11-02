@@ -39,25 +39,37 @@
                 We have gathered a lot of data of all the best places in Paris and we will give you the best itinerary possible that fit your needs ! 
 							</p>
 						</div>
+            <div id="map">
+              <script>
+                  // On initialise la latitude et la longitude de Paris (centre de la carte)
+                  var lat = 48.852969;
+                  var lon = 2.349903;
+                  var macarte = null;
+
+                  // Fonction d'initialisation de la carte
+                  function initMap() {
+
+                  }
+
+                  window.onload = function(){
+                      // Fonction d'initialisation qui s'exécute lorsque le DOM est chargé
+                      initMap();
+                  };
+              </script>
+            </div>
 					</div>
 					<div class="col-md-4 col-md-pull-7">
 						<div class="booking-form">
 							<form>
 								<div class="form-group">
-									<span class="form-label">Your Destination</span>
-									<input class="form-control" type="text" placeholder="Enter a destination or hotel name">
+									<span class="form-label">Your position</span>
+									<input class="form-control" type="text" id="position" placeholder="Enter an address">
 								</div>
 								<div class="row">
 									<div class="col-sm-6">
 										<div class="form-group">
-											<span class="form-label">Check In</span>
-											<input class="form-control" type="date" required>
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form-group">
-											<span class="form-label">Check out</span>
-											<input class="form-control" type="date" required>
+											<span class="form-label">How many hours ?</span>
+											<input class="form-control" type="text" id="hours" required>
 										</div>
 									</div>
 								</div>
@@ -65,39 +77,26 @@
 									<div class="col-sm-4">
 										<div class="form-group">
 											<span class="form-label">Price</span>
-											<select class="form-control">
-												<option>1</option>
-												<option>2</option>
-												<option>3</option>
-											</select>
+                      <input class="form-control" type="text" id="price" required>
+
 											<span class="select-arrow"></span>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<div class="form-group">
 											<span class="form-label">Adults</span>
-											<select class="form-control">
+											<select class="form-control" id="adults">
 												<option>1</option>
 												<option>2</option>
 												<option>3</option>
+                        <option>4</option>
 											</select>
 											<span class="select-arrow"></span>
 										</div>
 									</div>
-									<!-- <div class="col-sm-4">
-										<div class="form-group">
-											<span class="form-label">Children</span>
-											<select class="form-control">
-												<option>0</option>
-												<option>1</option>
-												<option>2</option>
-											</select>
-											<span class="select-arrow"></span>
-										</div>
-									</div> -->
 								</div>
 								<div class="form-btn">
-									<button class="submit-btn">Check availability</button>
+									<button class="submit-btn">Get an itinerary !</button>
 								</div>
 							</form>
 						</div>
@@ -106,6 +105,15 @@
 			</div>
 		</div>
 	</div>
-</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</body>
+
+<script src="js/config.js"></script>
+<script src="js/fetcher.js"></script>
+<script src="js/itinerary.js"></script>
+<script>
+  function submitForm(event) {
+    event.preventDefault();
+  }
+</script>
 
 </html>

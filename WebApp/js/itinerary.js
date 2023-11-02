@@ -1,35 +1,41 @@
 try {
 
-    var username = "#username"
-    var password = "#password"
-    var button = ".submit-input"
+    var position = "#position"
+    var hours = "#hours"
+    var price = "#price"
+    var adults = "#adults"
+    var button = ".submit-btn"
   
-    var usernameSelector = document.querySelector(`${username}`)
-    var passwordSelector = document.querySelector(`${password}`)
+    var positionSelector = document.querySelector(`${position}`)
+    var hoursSelector = document.querySelector(`${hours}`)
+    var priceSelector = document.querySelector(`${price}`)
+    var adultsSelector = document.querySelector(`${adults}`)
     var buttonListener = document.querySelector(`${button}`)
   
     buttonListener.addEventListener('click', async function() {
         try {
             console.log("IN")
+
+            //hide class booking-cta
+            document.querySelector('.booking-cta').style.display = "none"
+
+            //display a google map 
+            document.querySelector('#map').style.display = "block"
   
-            const response = await Itinerary.itinerary(usernameSelector.value, passwordSelector.value)  
-            console.log(response)
-  
+            const response = await Fetcher.itinerary(positionSelector.value, hoursSelector.value, priceSelector.value, adultsSelector.value);
   
             if (response.status === 'error') {
                 console.log("ERROR")
-                document.querySelector('#error-login').innerHTML = response.message
                 return console.log('null');
             } else {
               console.log("OK")
-              localStorage.setItem('token', response.data.token);
-              setTimeout(() => {
-                window.location.href = '/index.html';
-            }, 100) 
+              console.log(response)
             }
             
-            usernameSelector.value = ""
-            passwordSelector.value = ""
+            positionSelector.value = ""
+            hoursSelector.value = ""
+            priceSelector.value = ""
+            adultsSelector.value = ""
         } catch (error) {
             console.log("IN HERE")
             console.error(error)

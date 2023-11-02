@@ -1,4 +1,6 @@
 import express from "express";
+import Restaurants from "../../database/models/Restaurants";
+import Activities from "../../database/models/Activities";
 
 export default {
     name: "/user/get",
@@ -10,8 +12,9 @@ export default {
 
             if (!position || !hours || !price || !adults || !button) throw "Badly formatted"
 
-            // get activities, restaurants from database
-
+            // get all activities, restaurants from database
+            const activities = await Activities.find({})
+            const restaurants = await Restaurants.find({})
             // calculate the best itinerary
 
 

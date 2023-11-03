@@ -1,0 +1,27 @@
+Name,Price,Time,Adress,Note,Open,Close
+Musée du Louvre,32.9,3.0,"99 Rue de Rivoli, 75001 Paris France",4.5,9.0,21.45
+Musée de l’Orangerie,18.7,0.0,"Jardin des Tuileries - Côté Seine Place de la Concorde, 75058 Paris France",4.5,9.0,18.0
+Montmartre,0.0,0.0,Tout afficher,4.5,9.0,21.0
+Petit Palais,0.0,3.0,"Avenue Winston Churchill, 75008 Paris France",4.5,10.0,18.0
+Musée des Arts Forains Paris XII,0.0,2.0,"53 Avenue des Terroirs de France, 75012 Paris France",4.5,9.0,21.0
+La Tour Eiffel,29.9,3.0,"5 Avenue, 75007 Paris France",4.5,9.0,23.45
+Parc des Buttes-Chaumont Paris XIX,0.0,2.0,"1 Rue Botzaris, 75019 Paris France",4.5,7.0,22.0
+Cathédrale Notre-Dame de Paris,0.0,2.0,"6 Parvis Notre-Dame Place Jean-Paul II, 75004 Paris France",4.5,9.0,21.0
+Champs-Élysées Paris VIII,0.0,0.0,"Avenue des Champs Elysees, 75008 Paris France",4.0,0.0,23.59
+Musée Rodin Paris VII,18.2,2.0,"79 Rue de Varenne close to Bois de Boulogne, 75007 Paris France",4.5,10.0,18.3
+Musée Marmottan Monet,0.0,2.0,"2 Rue Louis Boilly 16ème  Arrondissement, 75016 Paris France",4.5,10.0,18.0
+Cimetière du Père-Lachaise,0.0,3.0,"8 Boulevard de Menilmontant, 75020 Paris France",4.5,8.0,18.0
+Quartier Saint-Germain-des-Prés Paris VI,0.0,0.0,"Place St-Germain-des-Pres, 75006 Paris France",4.5,9.0,21.0
+Basilique du Sacré-Cœur de Montmartre,0.0,2.0,"35 Rue du Chevalier-De-La-Barre, 75018 Paris France",4.5,8.3,20.0
+Jardin des Tuileries Paris I,0.0,3.0,"Place de la Concorde, 75001 Paris France",4.5,7.0,21.3
+Pont Alexandre-III,0.0,0.0,"Pont Alexandre III Quai d'Orsay, 75008 Paris France",4.5,9.0,21.0
+Musée de l’Armée des Invalides,21.0,3.0,"129 Rue de Grenelle Hôtel National des Invalides, 75007 Paris France",4.5,10.0,18.0
+Musée d'Orsay,32.0,3.0,"1 Rue De La Légion d'Honneur, 75007 Paris France",4.5,9.3,18.0
+Sainte-Chapelle,15.5,0.0,"8 Boulevard du Palais, 75001 Paris France",4.5,9.0,17.0
+Place des Vosges Paris IV,0.0,2.0,"Place des Vosges 4th Arrondissement, 75004 Paris France",4.5,0.0,23.59
+Jardin du Luxembourg,0.0,3.0,"Rue de Médicis Rue de Vaugirard, 75006 Paris France",4.5,7.3,16.3
+Arc de Triomphe,17.5,0.0,"Place Charles de Gaulle Place de L'Étoile, 75008 Paris France",4.5,10.0,23.0
+Musée Nissim de Camondo Paris VIII,0.0,0.0,"63 Rue de Monceau, 75008 Paris France",4.5,10.0,17.3
+Île de la Cité,0.0,0.0,"Île de la Cité Palais de la Cité, 75001 Paris France",4.5,9.0,21.0
+Quartier Latin,0.0,3.0,"Quartier Latin, 75005 Paris France",4.5,0.0,23.59
+Librairie Shakespeare and Company Paris V,0.0,0.0,"37 Rue de la Bûcherie Latin Quarter, 75005 Paris France",4.5,12.3,20.0

@@ -9,7 +9,7 @@ export default {
     method: "POST",
     run: async (req: express.Request, res: express.Response) => {
         try {
-            const { adults, hours, position, price } = req.body;
+            var { adults, hours, position, price } = req.body;
 
             if (!position || !hours || !price || !adults) throw "Badly formatted";
 
@@ -27,9 +27,7 @@ export default {
             // TODO
 
             //sort activities and restaurants by rating (note)
-            activities.sort((a: Activities, b: Activities) => {
-                return b.note - a.note;
-            });
+            activities.sort((a, b) => (a.note < b.note ? -1 : 1));
 
             // restaurants.sort((a: Restaurants, b: Restaurants) => {
             //     return b.note - a.note;
@@ -42,13 +40,8 @@ export default {
                     continue;
                 }
 
-                // Check if the activity is already in the itinerary
-                if (bestItinerary.includes(activity)) {
-                    continue;
-                }
-
                 // Add the activity to the itinerary
-                bestItinerary.push(activity);
+                bestItinerary.push(activity as any);
 
                 // Calculate the remaining hours and price
                 hours -= activity.time;
@@ -67,7 +60,7 @@ export default {
             res.send(bestItinerary);
         } catch (err) {
             res.status(400);
-            res.send("Test route response");
+            res.send("An error occured");
         }
     }
 };

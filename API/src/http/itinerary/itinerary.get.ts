@@ -1,14 +1,15 @@
 import express from "express";
 import Restaurants from "../../database/models/Restaurants";
 import Activities from "../../database/models/Activities";
+import Logger from "../../logger";
 
 export default {
     name: "/itinerary/get",
-    description: "Get a user",
+    description: "Get an itinerary based on the user's preferences",
     method: "POST",
     run: async (req: express.Request, res: express.Response) => {
         try {
-            console.log("test route hit")
+            Logger.info("Test route hit")
             const {position, hours, price, adults, button} = req.body
 
             if (!position || !hours || !price || !adults || !button) throw "Badly formatted"

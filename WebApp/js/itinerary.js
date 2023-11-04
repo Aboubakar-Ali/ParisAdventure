@@ -16,6 +16,8 @@ try {
         try {
             console.log("IN")
 
+            console.log(positionSelector.value, hoursSelector.value, priceSelector.value, adultsSelector.value)
+
             //hide class booking-cta
             document.querySelector('.booking-cta').style.display = "none"
 
@@ -23,6 +25,7 @@ try {
             // document.querySelector('#map').style.display = "block"
   
             const response = await fetcher.itinerary(positionSelector.value, hoursSelector.value, priceSelector.value, adultsSelector.value);
+            console.log("x ", response)
   
             if (response.status === 'error') {
                 console.log("ERROR")
@@ -39,7 +42,6 @@ try {
         } catch (error) {
             console.log("IN HERE")
             console.error(error)
-            document.querySelector('#error-login').innerHTML = error.message
         }
     })
   } catch (error) {

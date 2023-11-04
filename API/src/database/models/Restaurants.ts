@@ -1,21 +1,21 @@
 import mongoose, {Document, Schema} from "mongoose";
 
 export interface Restaurants {
-    nom: string;
-    addresse: string;
-
-    note: string;
-    prix: string;
+    name: string;
+    address: string;
+    note: number;
+    price_min: number;
+    price_max: number;
 }
 
 export interface RestaurantsDocument extends Restaurants, Document {}
 
 const RestaurantsSchema = new Schema({
-    nom: {type: String, required: true, unique: true},
-    addresse: {type: String, required: true},
-
-    note: {type: String, required: true},
-    prix: {type: String, required: true},
+    name: {type: String, required: true},
+    address: {type: String, required: true},
+    note: {type: Number, required: true},
+    price_min: {type: Number, required: true},
+    price_max: {type: Number, required: true},
 });
 
 export default mongoose.model<RestaurantsDocument>("Restaurants", RestaurantsSchema);

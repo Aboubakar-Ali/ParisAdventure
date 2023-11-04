@@ -1,22 +1,25 @@
 import mongoose, {Document, Schema} from "mongoose";
 
 export interface Activities {
-    nom: string;
-    open: string;
-    addresse: string;
-
-    note: string;
-    prix: string;
+    name: string;
+    price: number;
+    time: number;
+    address: string;
+    note: number;
+    Open: number;
+    Close: number;
 }
 
 export interface ActivitiesDocument extends Activities, Document {}
 
 const ActivitiesSchema = new Schema({
-    nom: {type: String, required: true, unique: true},
-    addresse: {type: String, required: true},
-
-    note: {type: String, required: true},
-    prix: {type: String, required: true},
+    name: {type: String, required: true},
+    price: {type: Number, required: true},
+    time: {type: Number, required: true},
+    address: {type: String, required: true},
+    note: {type: Number, required: true},
+    Open: {type: Number, required: true},
+    Close: {type: Number, required: true},
 });
 
 export default mongoose.model<ActivitiesDocument>("Activities", ActivitiesSchema);

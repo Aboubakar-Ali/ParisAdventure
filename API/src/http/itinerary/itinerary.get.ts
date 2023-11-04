@@ -3,9 +3,9 @@ import Restaurants from "../../database/models/Restaurants";
 import Activities from "../../database/models/Activities";
 
 export default {
-    name: "/user/get",
+    name: "/itinerary/get",
     description: "Get a user",
-    method: "GET",
+    method: "POST",
     run: async (req: express.Request, res: express.Response) => {
         try {
             const {position, hours, price, adults, button} = req.body
@@ -17,8 +17,12 @@ export default {
             const restaurants = await Restaurants.find({})
             // calculate the best itinerary
 
-
+            console.log(activities)
+            console.log(restaurants)
             // return the best itinerary
+
+            
+
             res.status(200)
             res.send("Test route response");
 

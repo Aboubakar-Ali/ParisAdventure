@@ -9,17 +9,17 @@ export default {
     method: "POST",
     run: async (req: express.Request, res: express.Response) => {
         try {
-            Logger.info("Test route hit")
-            const {position, hours, price, adults, button} = req.body
+            const {adults, hours, position, price} = req.body
+            
+            if (!position || !hours || !price || !adults) throw "Badly formatted"
 
-            if (!position || !hours || !price || !adults || !button) throw "Badly formatted"
-
+            console.log(position, hours, price, adults)
             // get all activities, restaurants from database
             const activities = await Activities.find({})
             const restaurants = await Restaurants.find({})
             // calculate the best itinerary
 
-            console.log(activities)
+            // console.log(activities)
             console.log(restaurants)
             // return the best itinerary
 

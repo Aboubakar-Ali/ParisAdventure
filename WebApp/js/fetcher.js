@@ -5,7 +5,7 @@ class Fetcher {
 
     itinerary(position, hours, price, adults) {
       return new Promise((resolve, reject) => {
-          fetch(`${window.CONFIG.API_URL}/itinerary`, {
+          fetch(`${window.CONFIG.API_URL}/itinerary/get`, {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
@@ -33,4 +33,4 @@ class Fetcher {
   }
   
   
-  const itinerary = new Fetcher();
+const fetcher = new Fetcher();

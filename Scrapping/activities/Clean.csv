@@ -1,4 +1,4 @@
-Name,Price,Time,Adress,Note,Open,Close
+name,price,time,address,note,Open,Close
 Musée du Louvre,32.9,3.0,"99 Rue de Rivoli, 75001 Paris France",4.5,9.0,21.45
 Musée de l’Orangerie,18.7,0.0,"Jardin des Tuileries - Côté Seine Place de la Concorde, 75058 Paris France",4.5,9.0,18.0
 Montmartre,0.0,0.0,Tout afficher,4.5,9.0,21.0

@@ -20,9 +20,9 @@ try {
             document.querySelector('.booking-cta').style.display = "none"
 
             //display a google map 
-            document.querySelector('#map').style.display = "block"
+            // document.querySelector('#map').style.display = "block"
   
-            const response = await Fetcher.itinerary(positionSelector.value, hoursSelector.value, priceSelector.value, adultsSelector.value);
+            const response = await fetcher.itinerary(positionSelector.value, hoursSelector.value, priceSelector.value, adultsSelector.value);
   
             if (response.status === 'error') {
                 console.log("ERROR")

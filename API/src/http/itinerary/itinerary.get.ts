@@ -8,6 +8,7 @@ export default {
     method: "POST",
     run: async (req: express.Request, res: express.Response) => {
         try {
+            console.log("test route hit")
             const {position, hours, price, adults, button} = req.body
 
             if (!position || !hours || !price || !adults || !button) throw "Badly formatted"

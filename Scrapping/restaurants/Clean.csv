@@ -1,50 +1,51 @@
 name,address,note,price_min,price_max
-Orgueil,"6 rue Popincourt, 75011 Paris France",5.0,20.0,55.0
-Chez Nicos,"44 rue Mouffetard, 75005 Paris France",4.0,4.0,10.0
+Bao & ME,"89 Rue du Faubourg Poissonnière, 75009 Paris France",5.0,10.0,23.0
 L'Empreinte,"5 Rue Mouton Duvernet, 75014 Paris France",4.0,29.0,49.0
-L'Atelier Ramey,"23 Rue Ramey, 75018 Paris France",4.0,18.0,42.0
-Perlimpinpin,"121 Rue De Rome, 75017 Paris France",5.0,15.0,27.0
-Le 27 Gourmand,"27 boulevard des Batignolles, 75008 Paris France",4.0,0.0,0.0
-Bistrot Kinzo,"13 rue Rougemont, 75009 Paris France",5.0,18.0,49.0
-Le Comptoir Boutary,"32 Rue Catherine De La Rochefoucauld, 75009 Paris France",5.0,19.0,47.0
-CHEZ BOUBOULE,"0 Avenue Trudaine Angle avenue Trudaine et rue de Rochechouart, 75009 Paris France",4.0,5.0,50.0
-Da Giuseppe,"76 rue du Faubourg Poissonniere, 75010 Paris France",5.0,5.0,13.0
-Chez Cleopatre,"46 Rue Condorcet, 75009 Paris France",5.0,6.0,24.0
-Marche Ou Crêpe,"18 rue des Haies, 75020 Paris France",5.0,8.0,14.0
-Les Apotres de Pigalle,"2 Rue Germain Pilon, 75018 Paris France",5.0,5.0,25.0
-EatWith: Odile of Paris,Paris France,5.0,0.0,0.0
-Assanabel,"6 Rue Pierre Chausson, 75010 Paris France",5.0,30.0,60.0
-Assanabel Saint-Germain,"38 rue Jacob, 75006 Paris France",4.0,20.0,90.0
-Bao & ME,"89 Rue du Faubourg Poissonnière, 75009 Paris France",5.0,10.0,24.0
-Chez Arnaud,"16 rue Eugene Jumin, 75019 Paris France",4.0,17.0,24.0
-HABILE.,"16 Rue de Lancry À l'angle de la rue de Lancry et de la rue Château d'eau, 75010 Paris France",5.0,17.0,75.0
-Joyti Restaurant,"148, Rue de Vaugirard, 75015 Paris France",4.0,19.0,38.0
-La Réserve Du Terroir,"13 Rue Quincampoix, 75004 Paris France",5.0,15.0,35.0
-Bistrot Instinct,"19 Rue de Picardie, 75003 Paris France",5.0,35.0,63.0
-Au P'tit Curieux,"27 Rue de Sambre et  Meuse, 75010 Paris France",5.0,40.0,70.0
-Pastamore,"37 Boulevard du Montparnasse, 75006 Paris France",5.0,17.0,25.0
-Le Confidentiel,"6 rue Robert Estienne, 75008 Paris France",4.0,20.0,40.0
-Cook' n Saj,"5 Rue Bernard Palissy, 75006 Paris France",5.0,5.0,25.0
-Prik Thai Maine,"160 avenue du Maine, 75014 Paris France",4.0,24.0,48.0
-Pizzamore Paris,"121 Avenue Du Maine, 75014 Paris France",5.0,17.0,78.0
-Midi 12,"12, Rue La Fayette, 75009 Paris France",4.0,8.0,25.0
-Ya Bayte,"1 Rue Des Grands Degrés, 75005 Paris France",5.0,7.0,20.0
-Pizzeria Arrivederci,"47 rue Gay Lussac, 75005 Paris France",5.0,9.0,22.0
-Frog XVI,"110 Bis Avenue Kleber, 75116 Paris France",4.0,11.0,17.0
-Le Claque-Fromage,"49 Avenue Trudaine, 75009 Paris France",5.0,14.0,25.0
-Oriental Bowl - Bar à couscous,"13 rue de la Huchette Quartier latin, 75005 Paris France",5.0,7.0,14.0
-Petit Boutary,"16 rue Jacquemont, 75017 Paris France",5.0,46.0,60.0
-Alix et Mika,"37 Rue Lamarck, 75018 Paris France",5.0,15.0,35.0
-Verse toujours,"3 avenue des Gobelins, 75005 Paris France",5.0,11.0,25.0
-Savannah Cafe,"27 rue Descartes 75005, 75005 Paris France",4.0,15.0,19.0
 Pizza Presto,"avenue Paul Vaillant Couturier, 93330 Neuilly-sur-Marne France",5.0,10.0,30.0
 Hoppy Corner,"34 Rue des Petits Carreaux, 75002 Paris France",5.0,4.0,20.0
-Chefs a Table,"15 rue Trousseau, 75011 Paris France",5.0,25.0,65.0
-Nell'Arte,"58 Rue Marguerite De Rochechouart, 75009 Paris France",5.0,11.0,19.0
-The Frog at Bercy Village,"25 Cour Saint Emilion, 75012 Paris France",4.0,11.0,17.0
-Les Bariolés de Maud,"12 Rue Buffault, 75009 Paris France",5.0,10.0,30.0
-Frog Hop House,"10 rue des Capucines, 75002 Paris France",4.0,10.0,20.0
+Assanabel,"6 Rue Pierre Chausson, 75010 Paris France",5.0,30.0,60.0
+Bistrot Instinct,"19 Rue de Picardie, 75003 Paris France",5.0,35.0,63.0
+Pastamore,"37 Boulevard du Montparnasse, 75006 Paris France",5.0,17.0,25.0
+Cook' n Saj,"5 Rue Bernard Palissy, 75006 Paris France",5.0,5.0,25.0
+L'Atelier Ramey,"23 Rue Ramey, 75018 Paris France",4.0,18.0,42.0
 La Maison du Knafé,"5 Rue Paul Albert, 75018 Paris France",5.0,5.0,20.0
-Les Freres Bretons,"117, Boulevard de Grenelle Métro la motte picquet grenelle, 75015 Paris France",4.0,5.0,12.0
+Chez Nicos,"44 rue Mouffetard, 75005 Paris France",4.0,4.0,10.0
+Au P'tit Curieux,"27 Rue de Sambre et  Meuse, 75010 Paris France",5.0,40.0,70.0
+Chez Arnaud,"16 rue Eugene Jumin, 75019 Paris France",4.0,17.0,23.0
+Le Confidentiel,"6 rue Robert Estienne, 75008 Paris France",4.0,20.0,40.0
+EatWith: Odile of Paris,Paris France,5.0,0.0,0.0
+Frog Hop House,"10 rue des Capucines, 75002 Paris France",4.0,10.0,20.0
+CHEZ BOUBOULE,"0 Avenue Trudaine Angle avenue Trudaine et rue de Rochechouart, 75009 Paris France",4.0,5.0,50.0
+Pizzamore Paris,"121 Avenue Du Maine, 75014 Paris France",5.0,17.0,78.0
+Bistrot Kinzo,"13 rue Rougemont, 75009 Paris France",5.0,18.0,49.0
+Oriental Bowl - Bar à couscous,"13 rue de la Huchette Quartier latin, 75005 Paris France",5.0,7.0,14.0
+Le 27 Gourmand,"27 boulevard des Batignolles, 75008 Paris France",4.0,0.0,0.0
+Orgueil,"6 rue Popincourt, 75011 Paris France",5.0,20.0,55.0
+Il Grano,"212 B boulevard Pereire, 75017 Paris France",4.0,15.0,35.0
+Alix et Mika,"37 Rue Lamarck, 75018 Paris France",5.0,15.0,35.0
+Petit Boutary,"16 rue Jacquemont, 75017 Paris France",5.0,46.0,60.0
+Assanabel Saint-Germain,"38 rue Jacob, 75006 Paris France",4.0,20.0,90.0
 Grains Nobles et Plus,"8 rue Boutebrie, 75005 Paris France",4.0,19.0,43.0
+Les Apotres de Pigalle,"2 Rue Germain Pilon, 75018 Paris France",5.0,5.0,25.0
+Chefs a Table,"15 rue Trousseau, 75011 Paris France",5.0,25.0,65.0
+Verse toujours,"3 avenue des Gobelins, 75005 Paris France",5.0,11.0,24.0
+Frog XVI,"110 Bis Avenue Kleber, 75116 Paris France",4.0,11.0,17.0
+Joyti Restaurant,"148, Rue de Vaugirard, 75015 Paris France",4.0,19.0,37.0
 Miura,"15, rue de l'Arc de Triomphe, 75017 Paris France",5.0,59.0,85.0
+Le Comptoir Boutary,"32 Rue Catherine De La Rochefoucauld, 75009 Paris France",5.0,19.0,47.0
+Prik Thai Maine,"160 avenue du Maine, 75014 Paris France",4.0,23.0,48.0
+Ya Bayte,"1 Rue Des Grands Degrés, 75005 Paris France",5.0,7.0,20.0
+The Frog at Bercy Village,"25 Cour Saint Emilion, 75012 Paris France",4.0,11.0,17.0
+Marche Ou Crêpe,"18 rue des Haies, 75020 Paris France",5.0,8.0,14.0
+Pizzeria Arrivederci,"47 rue Gay Lussac, 75005 Paris France",5.0,9.0,22.0
+Midi 12,"12, Rue La Fayette, 75009 Paris France",4.0,8.0,25.0
+Perlimpinpin,"121 Rue De Rome, 75017 Paris France",5.0,15.0,27.0
+Les Bariolés de Maud,"12 Rue Buffault, 75009 Paris France",5.0,10.0,30.0
+La Réserve Du Terroir,"13 Rue Quincampoix, 75004 Paris France",5.0,15.0,35.0
+Nell'Arte,"58 Rue Marguerite De Rochechouart, 75009 Paris France",5.0,11.0,19.0
+Savannah Cafe,"27 rue Descartes 75005, 75005 Paris France",4.0,15.0,19.0
+HABILE.,"16 Rue de Lancry À l'angle de la rue de Lancry et de la rue Château d'eau, 75010 Paris France",5.0,17.0,75.0
+Le Claque-Fromage,"49 Avenue Trudaine, 75009 Paris France",5.0,14.0,25.0
+Les Freres Bretons,"117, Boulevard de Grenelle Métro la motte picquet grenelle, 75015 Paris France",4.0,5.0,12.0
+Chez Cleopatre,"46 Rue Condorcet, 75009 Paris France",5.0,6.0,23.0
+Da Giuseppe,"76 rue du Faubourg Poissonniere, 75010 Paris France",5.0,5.0,13.0

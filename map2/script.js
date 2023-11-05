@@ -1,8 +1,11 @@
 let map;
 let directionsService;
-let directionsRenderer1; // Pour le premier trajet
-let directionsRenderer2; // Pour le deuxième trajet
-let userPosition; // Variable globale pour stocker la position de l'utilisateur
+let directionsRenderer1; 
+let directionsRenderer2; 
+let userPosition;
+let adresse1= "35 Rue du Chevalier-De-La-Barre, 75018 Paris France";
+let adresse2= "121 Avenue Du Maine, 75014 Paris France";
+let time= 6;
 
 // Fonction d'initialisation de la carte appelée par l'API Google Maps
 function initMap() {
@@ -50,21 +53,22 @@ function initMap() {
         handleLocationError(false, map.getCenter());
     }
 }
+
+// Fonction calcul iti
 function calculateAndDisplayRoute() {
     var start = userPosition; // Utilisez la position de l'utilisateur comme point de départ
-    var via = document.getElementById('via').value;
-    var end = document.getElementById('end').value;
+    var via = adresse1;    //document.getElementById('via').value;
+    var end = adresse2; //document.getElementById('via').value;
     var departureTime1 = new Date();
     var departureTime2 = new Date();
 
     if (document.getElementById('departureTime1').value) {
         departureTime1.setHours(document.getElementById('departureTime1').value.split(":")[0]);
         departureTime1.setMinutes(document.getElementById('departureTime1').value.split(":")[1]);
-    }
-
-    if (document.getElementById('departureTime2').value) {
-        departureTime2.setHours(document.getElementById('departureTime2').value.split(":")[0]);
-        departureTime2.setMinutes(document.getElementById('departureTime2').value.split(":")[1]);
+    
+        // dependance de departureTime1
+        departureTime2 = new Date(departureTime1.getTime());
+        departureTime2.setHours(departureTime2.getHours() + time);
     }
 
     // Premier trajet

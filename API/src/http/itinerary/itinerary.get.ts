@@ -10,10 +10,8 @@ export default {
     run: async (req: express.Request, res: express.Response) => {
         try {
             var { adults, hours, position, price } = req.body;
-
             if (!position || !hours || !price || !adults) throw "Badly formatted";
 
-            console.log(position, hours, price, adults);
             // get all activities, restaurants from database
             const activities = await Activities.find({});
             const restaurants = await Restaurants.find({});
@@ -23,15 +21,11 @@ export default {
             // SORTING
             const bestItinerary: Array<typeof Activities | typeof Restaurants> = [];
 
-            // sort activities and restaurants by distance (position)
-            // TODO
-
             //sort activities and restaurants by rating (note)
             activities.sort((a, b) => (a.note < b.note ? 1 : -1));
 
-            // restaurants.sort((a: Restaurants, b: Restaurants) => {
-            //     return b.note - a.note;
-            // });
+            //randomize activities order that have the same rating OR CHOOSE THE ONE THAT ARE THE CLOSEST TO THE POSITION OF THE USER AT EACH STEP
+            activities.sort((a, b) => (a.note == b.note ? Math.random() - 0.5 : 0));
 
             // for each activity, check if it fits the user's preferences (hours, price)
             for (const activity of activities) {

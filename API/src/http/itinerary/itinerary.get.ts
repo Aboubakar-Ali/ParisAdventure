@@ -27,7 +27,7 @@ export default {
             // TODO
 
             //sort activities and restaurants by rating (note)
-            activities.sort((a, b) => (a.note < b.note ? -1 : 1));
+            activities.sort((a, b) => (a.note < b.note ? 1 : -1));
 
             // restaurants.sort((a: Restaurants, b: Restaurants) => {
             //     return b.note - a.note;
@@ -36,7 +36,7 @@ export default {
             // for each activity, check if it fits the user's preferences (hours, price)
             for (const activity of activities) {
                 // Check if the activity fits the user's preferences
-                if (activity.time > hours || activity.price > price) {
+                if (activity.time > hours || activity.price*adults > price || activity.time == 0) {
                     continue;
                 }
 
@@ -45,7 +45,7 @@ export default {
 
                 // Calculate the remaining hours and price
                 hours -= activity.time;
-                price -= activity.price;
+                price -= activity.price*adults;
 
                 // Break if the user has no more hours or price remaining
                 if (hours <= 0 || price <= 0) {

@@ -6,10 +6,14 @@ let userPosition; // Variable globale pour stocker la position de l'utilisateur
 
 // Fonction d'initialisation de la carte appelée par l'API Google Maps
 function initMap() {
+    // Création d'une instance de DirectionsService pour interagir avec l'API
     directionsService = new google.maps.DirectionsService();
+
+    // affichage
     directionsRenderer1 = new google.maps.DirectionsRenderer({ polylineOptions: { strokeColor: 'blue' } });
     directionsRenderer2 = new google.maps.DirectionsRenderer({ polylineOptions: { strokeColor: 'green' } });
 
+    // Options de la carte centrées sur Paris
     const mapOptions = {
         zoom: 7,
         center: { lat: 48.8566, lng: 2.3522 } // Coordonnées de Paris
@@ -19,6 +23,7 @@ function initMap() {
     directionsRenderer1.setMap(map);
     directionsRenderer2.setMap(map);
 
+    // panneau direction
     directionsRenderer1.setPanel(document.getElementById('directions-panel-1'));
     directionsRenderer2.setPanel(document.getElementById('directions-panel-2'));
 
@@ -95,4 +100,3 @@ function calculateAndDisplayRoute() {
     });
 }
 
-// Assurez-vous d'inclure la balise de script pour l'API Google Maps avec votre clé API dans votre HTML, et de l'appeler après votre code JavaScript pour initialiser la carte.

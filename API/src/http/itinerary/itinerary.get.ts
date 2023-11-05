@@ -27,10 +27,16 @@ export default {
             //randomize activities order that have the same rating OR CHOOSE THE ONE THAT ARE THE CLOSEST TO THE POSITION OF THE USER AT EACH STEP
             activities.sort((a, b) => (a.note == b.note ? Math.random() - 0.5 : 0));
 
+            //sort restaurants by rating (note)
+            restaurants.sort((a, b) => (a.note < b.note ? 1 : -1));
+
+            //randomize restaurants order that have the same rating OR CHOOSE THE ONE THAT ARE THE CLOSEST TO THE POSITION OF THE USER AT EACH STEP
+            restaurants.sort((a, b) => (a.note == b.note ? Math.random() - 0.5 : 0));
+
             // for each activity, check if it fits the user's preferences (hours, price)
             for (const activity of activities) {
                 // Check if the activity fits the user's preferences
-                if (activity.time > hours || activity.price*adults > price || activity.time == 0) {
+                if (activity.time > hours-2 || activity.price*adults > price || activity.time == 0) {
                     continue;
                 }
 
@@ -41,17 +47,32 @@ export default {
                 hours -= activity.time;
                 price -= activity.price*adults;
 
-                // Break if the user has no more hours or price remaining
-                if (hours <= 0 || price <= 0) {
-                    break;
+                break;
+            }
+
+            // Check if there is a restaurant that fits the user's preferences
+            for (const restaurant of restaurants) {
+                // Check if the restaurant fits the user's preferences
+                if (restaurant.price_min*adults > price) {
+                    continue;
                 }
+
+                // Add the restaurant to the itinerary
+                bestItinerary.push(restaurant as any);
+
+                // Calculate the remaining price
+                price -= restaurant.price_min*adults;
+                // Calculate the remaining hours
+                hours -= 2;
+
+                break;
             }
 
             if (!bestItinerary) throw "No best itinerary found";
 
             Logger.info(`Best itinerary found: ${bestItinerary}`);
             res.status(200);
-            res.send(bestItinerary);
+            res.send({bestItinerary, hours, price});
         } catch (err) {
             res.status(400);
             res.send("An error occured");

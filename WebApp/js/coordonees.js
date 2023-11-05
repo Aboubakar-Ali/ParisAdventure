@@ -1,28 +1,26 @@
 const fs = require('fs');
 const csv = require('csv-parser');
 
-const apiKey = 'YOUR_API_KEY';
+// const apiKey = 'YOUR_API_KEY';
 const addresses = [];
 
-fs.createReadStream('*.csv') // Remplacez 'votre_fichier.csv' par le chemin de votre fichier CSVs
+const files_csv = ['./Scrapping/activities/activities.csv','./Scrapping/hotels/hotels.csv','./Scrapping/restaurants/restaurants.csv','./Scrapping/restaurants/Clean.csv','./Scrapping/activities/Clean.csv'];
+
+fs.createReadStream(files_csv) // Remplacez 'votre_fichier.csv' par le chemin de votre fichier CSVs
   .pipe(csv())
   .on('data', (row) => {
-    // Assurez-vous que le nom de la colonne contenant les adresses est correct, par exemple, 'adresse' ici
-    const address = row.adresse; // Remplacez 'adresse' par le nom de la colonne dans votre fichier CSV
+    const address = [row.address,row.ADRESSE,row.adress,row.Adress];
     if (address) {
       addresses.push(address);
     }
   })
   .on('end', () => {
     console.log('Adresses extraites :', addresses);
-    // À ce stade, vous pouvez utiliser le tableau 'addresses' pour géocoder les adresses comme indiqué dans l'exemple précédent.
   });
 
 
-// Exemple de boucle pour géocoder chaque adresse
 Promise.all(addresses.map(geocodeAddress))
   .then(coordinatesArray => {
-    // Vous pouvez maintenant utiliser les coordonnées géocodées
     console.log(coordinatesArray);
   })
   .catch(error => {

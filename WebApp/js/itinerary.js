@@ -18,30 +18,7 @@ try {
 
             // console.log(positionSelector.value, hoursSelector.value, priceSelector.value, adultsSelector.value)
 
-            //hide class booking-cta
-            document.querySelector('.booking-cta').style.display = "none"
-
-            //display a google map 
-            // document.querySelector('#map').style.display = "block"
-
-            //get coordinates from address
-            var geocoder = new google.maps.Geocoder();
-            var address = positionSelector.value;
-            var latitude;
-            var longitude;
-
-            geocoder.geocode( { 'address': address}, function(results, status) {
-
-            if (status == google.maps.GeocoderStatus.OK) {
-                var latitude = results[0].geometry.location.lat();
-                var longitude = results[0].geometry.location.lng();
-                jQuery('#coordinates').val(latitude+', '+longitude);
-                } 
-            });
-  
-            console.log("LATITUDE: ", latitude, "LONGITUDE: ", longitude)
-
-            const response = await fetcher.itinerary([latitude, longitude], hoursSelector.value, priceSelector.value, adultsSelector.value);
+            const response = await fetcher.itinerary(["latitude", "longitude"], hoursSelector.value, priceSelector.value, adultsSelector.value);
   
             if (response.status === 'error') {
                 console.log("ERROR")
@@ -49,6 +26,18 @@ try {
             } else {
               console.log("OK")
               console.log(response)
+
+              //hide class booking-cta
+              document.querySelector('.booking-cta').style.display = "none"
+              //display class map-container
+              document.querySelector('.map-container').style.display = "block"
+
+              const address1 = response.bestItinerary[0].address
+              const address2 = response.bestItinerary[1].address
+              const depart = document.getElementById('depart').value
+
+              // add itinerary to map
+              calculateAndDisplayRoute(address1, address2, depart);
             }
             
             positionSelector.value = ""

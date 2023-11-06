@@ -5,6 +5,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="map.css">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
 	<title>ParisProject</title>
@@ -39,23 +41,18 @@
                 We have gathered a lot of data of all the best places in Paris and we will give you the best itinerary possible that fit your needs ! 
 							</p>
 						</div>
-            <div id="map">
-              <script>
-                  // On initialise la latitude et la longitude de Paris (centre de la carte)
-                  var lat = 48.852969;
-                  var lon = 2.349903;
-                  var macarte = null;
-
-                  // Fonction d'initialisation de la carte
-                  function initMap() {
-
-                  }
-
-                  window.onload = function(){
-                      // Fonction d'initialisation qui s'exécute lorsque le DOM est chargé
-                      initMap();
-                  };
-              </script>
+            <div class="map-container" style="display: none">
+				<div id="map" style="height: 400px;"></div>
+				<div id="input-container">
+					<!-- <input type="text" id="via" placeholder="Adresse intermédiaire">
+					<input type="text" id="end" placeholder="Adresse de destination"> -->
+					
+					<!-- <input type="time" id="departureTime1" placeholder="Heure de départ 1"> -->
+					<!-- <input type="time" id="departureTime2" placeholder="Heure de départ 2"> -->
+					<!-- <button id="submit">Obtenir l'itinéraire</button> -->
+				</div>
+				<div id="directions-panel-1"></div> 
+				<div id="directions-panel-2"></div> 
             </div>
 					</div>
 					<div class="col-md-4 col-md-pull-7">
@@ -70,6 +67,12 @@
 										<div class="form-group">
 											<span class="form-label">How many hours ?</span>
 											<input class="form-control" type="text" id="hours" required>
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form-group">
+											<span class="form-label">When ?</span>
+											<input class="form-control" type="time" id="depart" required>
 										</div>
 									</div>
 								</div>
@@ -108,7 +111,9 @@
 </body>
 
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmADJctRXXLpeFC6uL-kyQaCPD4jZMWgE&libraries=places&callback=initMap" async defer></script>
 <script src="js/config.js"></script>
+<script src="js/map.js"> </script>
 <script src="js/fetcher.js"></script>
 <script src="js/itinerary.js"></script>
 <script>

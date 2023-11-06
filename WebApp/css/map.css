@@ -1,0 +1,20 @@
+
+#input-container {
+    margin: 10px;
+}
+
+#directions-panel-1 {
+    margin-top: 10px;
+    background-color: #FFEE77;
+    padding: 10px;
+    overflow: scroll;
+    height: 200px;
+}
+#directions-panel-2 {
+    margin-top: 10px;
+    background-color: #ff7787;
+    padding: 10px;
+    overflow: scroll;
+    height: 200px;
+}
+  

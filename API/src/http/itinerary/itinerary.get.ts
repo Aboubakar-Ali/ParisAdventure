@@ -67,6 +67,7 @@ export default {
 
                 break;
             }
+            console.log(bestItinerary)
 
             if (!bestItinerary) throw "No best itinerary found";
 

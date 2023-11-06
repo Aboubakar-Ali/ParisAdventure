@@ -1,5 +1,5 @@
 Address,Geocode
-"89 Rue du Faubourg Poissonniï¿½re, 75009 Paris France","{""lat"": 48.8767672, ""lng"": 2.3486461}"
+"89 Rue du Faubourg Poissonnière, 75009 Paris France","{""lat"": 48.8767672, ""lng"": 2.3486461}"
 "5 Rue Mouton Duvernet, 75014 Paris France","{""lat"": 48.831505, ""lng"": 2.3291751}"
 "avenue Paul Vaillant Couturier, 93330 Neuilly-sur-Marne France","{""lat"": 48.865716, ""lng"": 2.5640689}"
 "34 Rue des Petits Carreaux, 75002 Paris France","{""lat"": 48.8677511, ""lng"": 2.3474256}"
@@ -15,7 +15,7 @@ Address,Geocode
 "6 rue Robert Estienne, 75008 Paris France","{""lat"": 48.8686746, ""lng"": 2.3050081}"
 Paris France,"{""lat"": 48.8588897, ""lng"": 2.320041}"
 "10 rue des Capucines, 75002 Paris France","{""lat"": 48.8688361, ""lng"": 2.3296197}"
-"0 Avenue Trudaine Angle avenue Trudaine et rue de Rochechouart, 75009 Paris France","{""lat"": 48.877439, ""lng"": 2.344689}"
+"0 Avenue Trudaine Angle avenue Trudaine et rue de Rochechouart, 75009 Paris France","{""lat"": 48.881357, ""lng"": 2.34334}"
 "121 Avenue Du Maine, 75014 Paris France","{""lat"": 48.835533, ""lng"": 2.323977}"
 "13 rue Rougemont, 75009 Paris France","{""lat"": 48.872013, ""lng"": 2.345903}"
 "13 rue de la Huchette Quartier latin, 75005 Paris France","{""lat"": 48.852892, ""lng"": 2.345919}"
@@ -34,7 +34,7 @@ Paris France,"{""lat"": 48.8588897, ""lng"": 2.320041}"
 "15, rue de l'Arc de Triomphe, 75017 Paris France","{""lat"": 48.8770819, ""lng"": 2.2935069}"
 "32 Rue Catherine De La Rochefoucauld, 75009 Paris France","{""lat"": 48.8791711, ""lng"": 2.3348244}"
 "160 avenue du Maine, 75014 Paris France","{""lat"": 48.8334146, ""lng"": 2.3243479}"
-"1 Rue Des Grands Degrï¿½s, 75005 Paris France","{""lat"": 48.851225, ""lng"": 2.350079}"
+"1 Rue Des Grands Degrés, 75005 Paris France","{""lat"": 48.851225, ""lng"": 2.350079}"
 "25 Cour Saint Emilion, 75012 Paris France","{""lat"": 48.8329642, ""lng"": 2.3862318}"
 "18 rue des Haies, 75020 Paris France","{""lat"": 48.852632, ""lng"": 2.400422}"
 "47 rue Gay Lussac, 75005 Paris France","{""lat"": 48.8417454, ""lng"": 2.3434754}"
@@ -44,33 +44,1054 @@ Paris France,"{""lat"": 48.8588897, ""lng"": 2.320041}"
 "13 Rue Quincampoix, 75004 Paris France","{""lat"": 48.8596175, ""lng"": 2.3497537}"
 "58 Rue Marguerite De Rochechouart, 75009 Paris France","{""lat"": 48.880562, ""lng"": 2.346519}"
 "27 rue Descartes 75005, 75005 Paris France","{""lat"": 48.8459423, ""lng"": 2.3491893}"
-"16 Rue de Lancry ï¿½ l'angle de la rue de Lancry et de la rue Chï¿½teau d'eau, 75010 Paris France","{""lat"": 48.869988, ""lng"": 2.360649}"
+"16 Rue de Lancry À l'angle de la rue de Lancry et de la rue Château d'eau, 75010 Paris France","{""lat"": 48.869988, ""lng"": 2.360649}"
 "49 Avenue Trudaine, 75009 Paris France","{""lat"": 48.880676, ""lng"": 2.341139}"
-"117, Boulevard de Grenelle Mï¿½tro la motte picquet grenelle, 75015 Paris France","{""lat"": 48.848981, ""lng"": 2.298192}"
+"117, Boulevard de Grenelle Métro la motte picquet grenelle, 75015 Paris France","{""lat"": 48.848981, ""lng"": 2.298192}"
 "46 Rue Condorcet, 75009 Paris France","{""lat"": 48.880267, ""lng"": 2.343546}"
 "76 rue du Faubourg Poissonniere, 75010 Paris France","{""lat"": 48.876382, ""lng"": 2.348598}"
 "99 Rue de Rivoli, 75001 Paris France","{""lat"": 48.862734, ""lng"": 2.334836}"
-"Jardin des Tuileries - Cï¿½tï¿½ Seine Place de la Concorde, 75058 Paris France","{""lat"": 14.610918, ""lng"": -61.083595}"
+"Jardin des Tuileries - Côté Seine Place de la Concorde, 75058 Paris France","{""lat"": 14.610918, ""lng"": -61.083595}"
 "Avenue Winston Churchill, 75008 Paris France","{""lat"": 48.8675162, ""lng"": 2.3139892}"
 "53 Avenue des Terroirs de France, 75012 Paris France","{""lat"": 48.832652, ""lng"": 2.389319}"
 "5 Avenue, 75007 Paris France","{""lat"": 48.8500163, ""lng"": 2.3077488}"
 "1 Rue Botzaris, 75019 Paris France","{""lat"": 48.876473, ""lng"": 2.381017}"
 "6 Parvis Notre-Dame Place Jean-Paul II, 75004 Paris France","{""lat"": 48.852974, ""lng"": 2.349908}"
 "Avenue des Champs Elysees, 75008 Paris France","{""lat"": 48.8683219, ""lng"": 2.3121977}"
-"79 Rue de Varenne close to Bois de Boulogne, 75007 Paris France","{""lat"": 48.8565, ""lng"": 2.321}"
-"2 Rue Louis Boilly 16ï¿½me  Arrondissement, 75016 Paris France","{""lat"": 48.859228, ""lng"": 2.267162}"
+"79 Rue de Varenne close to Bois de Boulogne, 75007 Paris France","{""lat"": 48.856016, ""lng"": 2.315423}"
+"2 Rue Louis Boilly 16ème  Arrondissement, 75016 Paris France","{""lat"": 48.859228, ""lng"": 2.267162}"
 "8 Boulevard de Menilmontant, 75020 Paris France","{""lat"": 48.868729, ""lng"": 2.393689}"
 "Place St-Germain-des-Pres, 75006 Paris France","{""lat"": 48.8539125, ""lng"": 2.333392}"
 "35 Rue du Chevalier-De-La-Barre, 75018 Paris France","{""lat"": 48.8871037, ""lng"": 2.3434393}"
 "Place de la Concorde, 75001 Paris France","{""lat"": 48.866374, ""lng"": 2.3233842}"
 "Pont Alexandre III Quai d'Orsay, 75008 Paris France","{""lat"": 48.8629614, ""lng"": 2.3143913}"
-"129 Rue de Grenelle Hï¿½tel National des Invalides, 75007 Paris France","{""lat"": 48.857037, ""lng"": 2.311878}"
-"1 Rue De La Lï¿½gion d'Honneur, 75007 Paris France","{""lat"": 48.859562, ""lng"": 2.328966}"
+"129 Rue de Grenelle Hôtel National des Invalides, 75007 Paris France","{""lat"": 48.857037, ""lng"": 2.311878}"
+"1 Rue De La Légion d'Honneur, 75007 Paris France","{""lat"": 48.859562, ""lng"": 2.328966}"
 "8 Boulevard du Palais, 75001 Paris France","{""lat"": 48.855037, ""lng"": 2.345356}"
 "Place des Vosges 4th Arrondissement, 75004 Paris France","{""lat"": 48.8555957, ""lng"": 2.3655335}"
-"Rue de Mï¿½dicis Rue de Vaugirard, 75006 Paris France","{""lat"": 48.848054, ""lng"": 2.330386}"
-"Place Charles de Gaulle Place de L'ï¿½toile, 75008 Paris France","{""lat"": 48.866615, ""lng"": 2.314882}"
+"Rue de Médicis Rue de Vaugirard, 75006 Paris France","{""lat"": 48.848054, ""lng"": 2.330386}"
+"Place Charles de Gaulle Place de L'Étoile, 75008 Paris France","{""lat"": 48.866615, ""lng"": 2.314882}"
 "63 Rue de Monceau, 75008 Paris France","{""lat"": 48.8788507, ""lng"": 2.3128807}"
-"ï¿½le de la Citï¿½ Palais de la Citï¿½, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"Île de la Cité Palais de la Cité, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
 "Quartier Latin, 75005 Paris France","{""lat"": 48.8487414, ""lng"": 2.3420502}"
-"37 Rue de la Bï¿½cherie Latin Quarter, 75005 Paris France","{""lat"": 48.8525876, ""lng"": 2.3471495}"
+"37 Rue de la Bûcherie Latin Quarter, 75005 Paris France","{""lat"": 48.8525876, ""lng"": 2.3471495}"
+"21 Rue de Rottembourg, 75012 Paris France","{""lat"": 48.838493, ""lng"": 2.406549}"
+"15 rue du Maine 14th, 75014 Paris France","{""lat"": 48.8405711, ""lng"": 2.3223132}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"1 Place du Canada, 75008 Paris France","{""lat"": 48.865003, ""lng"": 2.309747}"
+"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France","{""lat"": 48.844323, ""lng"": 2.335227}"
+"5 avenue Anatole France à proximité du pilier nord de la Tour Eiffel, 75007 Paris France","{""lat"": 48.85972, ""lng"": 2.328455}"
+"Place Pierre Lafue, 75006 Paris France","{""lat"": 48.8447513, ""lng"": 2.3290787}"
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France","{""lat"": 48.862492, ""lng"": 2.335972}"
+Tout afficher,Non géocodé
+Tout afficher,Non géocodé
+"Place Saint-Augustin, 75008 Paris France","{""lat"": 48.8754356, ""lng"": 2.3193897}"
+"6 Place de Bitche, 75019 Paris France","{""lat"": 48.889145, ""lng"": 2.379497}"
+"12 rue de Laborde, 75008 Paris France","{""lat"": 48.875801, ""lng"": 2.320944}"
+"Avenue des Champs-Élysées, 75008 Paris France","{""lat"": 48.8683219, ""lng"": 2.3121977}"
+"148 avenue Gambetta 20th Arrondissement, 75020 Paris France","{""lat"": 48.875414, ""lng"": 2.406164}"
+"57 rue de Grenelle, 75007 Paris France","{""lat"": 48.8546964, ""lng"": 2.3251441}"
+"1341 Quai de l'Hôtel de ville, 75004 Paris France","{""lat"": 48.8557923, ""lng"": 2.3514182}"
+"55 Boulevard de Menilmontant, 75011 Paris France","{""lat"": 48.861921, ""lng"": 2.387629}"
+"Parc de Saint-Cloud,Saint-Cloud Domaine national de Saint-Cloud, 92210 Paris France","{""lat"": 48.844491, ""lng"": 2.219865}"
+"8 rue Bernard de Clairvaux, 75003 Paris France","{""lat"": 48.862259, ""lng"": 2.3526688}"
+"Place du Trocadero, 75016 Paris France","{""lat"": 48.862963, ""lng"": 2.28714}"
+"8 Rue Léon Schwartzenberg, 75010 Paris France","{""lat"": 48.875626, ""lng"": 2.353756}"
+"56 rue d Aubervilliers rue Riquet, 75018 Paris France","{""lat"": 48.891155, ""lng"": 2.368731}"
+"57 rue de Varenne, 75007 Paris France","{""lat"": 48.8547142, ""lng"": 2.3207362}"
+Tout afficher,Non géocodé
+"3 Square Rapp, 75007 Paris France","{""lat"": 48.8588023, ""lng"": 2.301207}"
+"66 avenue du Maine, 75014 Paris France","{""lat"": 48.839213, ""lng"": 2.3215071}"
+"Rue de la Tombe Issoire, 75014 Paris France","{""lat"": 48.8303386, ""lng"": 2.3342216}"
+"14 rue du Mont-Cenis, 75108 Paris France","{""lat"": 48.8875669, ""lng"": 2.3415434}"
+"17 boulevard de Strasbourg, 75010 Paris France","{""lat"": 48.87047, ""lng"": 2.3546823}"
+adress,"{""lat"": 55.7542079, ""lng"": 37.6062406}"
+"7Bis Rue Girardon, 75018 Paris France","{""lat"": 48.8880356, ""lng"": 2.3377697}"
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France","{""lat"": 48.843335, ""lng"": 2.359261}"
+"117 rue Rambuteau Forum des Halles, 75001 Paris France","{""lat"": 48.863065, ""lng"": 2.345397}"
+"Square Santiago du Chili - 1 avenue de la Motte Picquet, 75007 Paris France","{""lat"": 48.857476, ""lng"": 2.310915}"
+"77 Place Felix Lobligeois, 75017 Paris France","{""lat"": 48.886824, ""lng"": 2.317581}"
+"39 boulevard de la Tour Maubourg, 75007 Paris France","{""lat"": 48.8590406, ""lng"": 2.3102693}"
+"23 Place Etienne Pernet, 75015 Paris France","{""lat"": 48.84298, ""lng"": 2.292399}"
+"45 rue Madame Sixth Arrondissement, 75006 Paris France","{""lat"": 48.848632, ""lng"": 2.331752}"
+"Rue de Valois Galerie d'Orléans, 75001 Paris France","{""lat"": 48.864849, ""lng"": 2.338422}"
+"3 rue de Lanneau, 75005 Paris France","{""lat"": 48.8482531, ""lng"": 2.3467131}"
+"Square Yorktown, 75016 Paris France","{""lat"": 48.8615727, ""lng"": 2.2864636}"
+"61 rue de Réaumur, 75002 Paris France","{""lat"": 48.866452, ""lng"": 2.350809}"
+"Cite Trevise, 75009 Paris France","{""lat"": 48.8747904, ""lng"": 2.3469593}"
+"32 Rue Édouard Pailleron 32 Rue Édouard Pailleron, 75019 Paris France","{""lat"": 48.880857, ""lng"": 2.377682}"
+"Place d'Iena, 75016 Paris France","{""lat"": 48.8648686, ""lng"": 2.294144}"
+"Rue Réaumur, 75003 Paris France","{""lat"": 48.8655232, ""lng"": 2.3558261}"
+"Avenue de Marigny Jardin des Champs Elysées, 75008 Paris France","{""lat"": 48.869472, ""lng"": 2.308573}"
+"127 Rue de Grenelle, 75007 Paris France","{""lat"": 48.8578029, ""lng"": 2.3158854}"
+"Place de la Concorde, 75008 Paris France","{""lat"": 48.8668476, ""lng"": 2.3208963}"
+"25 Quai Anatole, 75007 Paris France","{""lat"": 48.8618196, ""lng"": 2.3215318}"
+"78 Avenue de Suffren, 75015 Paris France","{""lat"": 48.8517143, ""lng"": 2.2997814}"
+"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France","{""lat"": 48.844323, ""lng"": 2.335227}"
+"8 rue Saint Just, 75017 Paris France","{""lat"": 48.8966207, ""lng"": 2.3139}"
+"47 rue de Varenne, 75343 Paris France","{""lat"": 48.8543524, ""lng"": 2.3221787}"
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France","{""lat"": 48.843335, ""lng"": 2.359261}"
+"22 Bis Rue Legendre, 75017 Paris France","{""lat"": 48.8828332, ""lng"": 2.3124327}"
+"Place de la Concorde, 75008 Paris France","{""lat"": 48.8668476, ""lng"": 2.3208963}"
+"3 Place de Menilmontant, 75020 Paris France","{""lat"": 48.8684976, ""lng"": 2.3877241}"
+"Jardin du Carrousel, 75001 Paris France","{""lat"": 48.8618772, ""lng"": 2.3332093}"
+"Quai de la Seine, 75013 Paris France","{""lat"": 48.8842854, ""lng"": 2.3694415}"
+"6 Rue Saint-Luc, 75018 Paris France","{""lat"": 48.8857058, ""lng"": 2.3545114}"
+"9 rue du Platre, 75004 Paris France","{""lat"": 48.859214, ""lng"": 2.354821}"
+"16 Rue Béranger, 75003 Paris France","{""lat"": 48.8661613, ""lng"": 2.3637451}"
+Tout afficher,Non géocodé
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"66 rue St André des Arts, 75006 Paris France","{""lat"": 48.8536132, ""lng"": 2.3389686}"
+"95 Boulevard Saint Michel, 75005 Paris France","{""lat"": 48.8445723, ""lng"": 2.3395375}"
+"5 rue la Bruyere 9th, 75009 Paris France","{""lat"": 48.8789228, ""lng"": 2.3363976}"
+"1 Square de Clignancourt, 75018 Paris France","{""lat"": 48.8924086, ""lng"": 2.3460804}"
+"47 rue de la Roquette, 75011 Paris France","{""lat"": 48.8557048, ""lng"": 2.3747182}"
+"1 Jardin des Tuileries Au Pied des Escaliers Menant au Jeu de Paume, 75001 Paris France","{""lat"": 49.108977, ""lng"": 6.945672}"
+"40 rue de Citeaux, 75012 Paris France","{""lat"": 48.8501044, ""lng"": 2.3813775}"
+"2 rue Gazan Parc Montsouris, 75014 Paris France","{""lat"": 48.82356, ""lng"": 2.33556}"
+"10 Place Edouard VII, 75009 Paris France","{""lat"": 48.87131, ""lng"": 2.329332}"
+"29 Galerie Vivienne 29/33 Galerie Vivienne, 75002 Paris France","{""lat"": 48.866713, ""lng"": 2.339696}"
+"Rue de l'Arbre Sec Rue Saint-Honoré, 75001 Paris France","{""lat"": 48.860246, ""lng"": 2.342264}"
+"Rue de Lille Parvis du Musée d'Orsay, 75007 Paris France","{""lat"": 48.859929, ""lng"": 2.326537}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"4 Place Jussieu, 75252 Paris France","{""lat"": 48.8475408, ""lng"": 2.3548406}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"Place du President Mithouard, 75007 Paris France","{""lat"": 48.8514532, ""lng"": 2.3138363}"
+"57 rue de Turbigo, 75003 Paris France","{""lat"": 48.8656247, ""lng"": 2.3563529}"
+"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France","{""lat"": 48.844323, ""lng"": 2.335227}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 14.607411, ""lng"": -61.063384}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"15-17 Rue d'Ulm, 75005 Paris France","{""lat"": 48.844192, ""lng"": 2.345227}"
+"Rue du Cloître-Notre-Dame, 75004 Paris France","{""lat"": 48.8527097, ""lng"": 2.3519614}"
+"Place de la Concorde, 75008 Paris France","{""lat"": 48.8668476, ""lng"": 2.3208963}"
+"1 Place Denys Cochin, 75007 Paris France","{""lat"": 48.858961, ""lng"": 2.294377}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 14.607411, ""lng"": -61.063384}"
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France","{""lat"": 48.862492, ""lng"": 2.335972}"
+"124, avenue d’Italie, 75013 Paris France","{""lat"": 48.8237445, ""lng"": 2.3577476}"
+"9 Place d'Iéna, 75116 Paris France","{""lat"": 48.865585, ""lng"": 2.294169}"
+"Place Saint Georges, 75009 Paris France","{""lat"": 48.8784748, ""lng"": 2.3376123}"
+"64 rue du Moulin des Pres, 75013 Paris France","{""lat"": 48.8261712, ""lng"": 2.3534897}"
+"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France","{""lat"": 48.844323, ""lng"": 2.335227}"
+"Rue du Faubourg Saint-Honore North of a Paris Metro station on Line 9 that bears the same name as the church, Saint-Philippe-du-Roule, 75008 Paris France",Non géocodé
+"2 Rue de Viarmes, 75001 Paris France","{""lat"": 48.862928, ""lng"": 2.342411}"
+"Jardin du Luxembourg cote Orangerie, 75006 Paris France","{""lat"": 48.8493, ""lng"": 2.33}"
+"75 boulevard du Montparnasse, 75006 Paris France","{""lat"": 48.8437385, ""lng"": 2.3249292}"
+"Square Felix Desruelles, 75006 Paris France","{""lat"": 48.8536912, ""lng"": 2.3347225}"
+"2 impasse de la Poissonnerie, 75004 Paris France","{""lat"": 48.8556337, ""lng"": 2.3634268}"
+"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France","{""lat"": 48.844323, ""lng"": 2.335227}"
+"Jardin des Tuilleries, 75001 Paris France","{""lat"": 48.864025, ""lng"": 2.337294}"
+"Avenue du Général Eisenhower, 75008 Paris France","{""lat"": 48.8672686, ""lng"": 2.3118917}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"Boulevard de Beauséjour, 75016 Paris France","{""lat"": 48.8567029, ""lng"": 2.2665349}"
+"11 Square Alban Satragne, 75010 Paris France","{""lat"": 48.875454, ""lng"": 2.355248}"
+"6 rue Gustave Geffroy, 75013 Paris France","{""lat"": 48.835114, ""lng"": 2.351105}"
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France","{""lat"": 48.843335, ""lng"": 2.359261}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"Jardin du Carrousel, 75001 Paris France","{""lat"": 48.8618772, ""lng"": 2.3332093}"
+"21 rue du Faubourg Montmartre, 75009 Paris France","{""lat"": 48.873125, ""lng"": 2.34294}"
+"1 Jardin des Tuileries, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"25 rue de la Lune, 75002 Paris France","{""lat"": 48.8697641, ""lng"": 2.3495588}"
+Tout afficher,Non géocodé
+"24 Bis Rue de Saint Petersbourg, 75008 Paris France","{""lat"": 48.881463, ""lng"": 2.32549}"
+Visiter le site web,Non géocodé
+"1 Place Georges Guillaumin, 75008 Paris France","{""lat"": 48.874704, ""lng"": 2.301498}"
+"Rond-Point des Champs-Élysées, 75008 Paris France","{""lat"": 48.8695713, ""lng"": 2.3085932}"
+Tout afficher,Non géocodé
+Tout afficher,Non géocodé
+"Quartier Latin, 75005 Paris France","{""lat"": 48.8487414, ""lng"": 2.3420502}"
+"Place Charles de Gaulle Place de L'Étoile, 75008 Paris France","{""lat"": 48.866615, ""lng"": 2.314882}"
+"8 Boulevard de Menilmontant, 75020 Paris France","{""lat"": 48.868729, ""lng"": 2.393689}"
+"Place des Vosges 4th Arrondissement, 75004 Paris France","{""lat"": 48.8555957, ""lng"": 2.3655335}"
+Tout afficher,Non géocodé
+"3e Arrondissement 3e Arrondissement, 75003 Paris France","{""lat"": 48.861613, ""lng"": 2.365866}"
+"Place St-Germain-des-Pres, 75006 Paris France","{""lat"": 48.8539125, ""lng"": 2.333392}"
+"129 Rue de Grenelle Hôtel National des Invalides, 75007 Paris France","{""lat"": 48.857037, ""lng"": 2.311878}"
+"Place de la Concorde, 75001 Paris France","{""lat"": 48.866374, ""lng"": 2.3233842}"
+"37 Rue de la Bûcherie Latin Quarter, 75005 Paris France","{""lat"": 48.8525876, ""lng"": 2.3471495}"
+"Jardin des Tuileries - Côté Seine Place de la Concorde, 75058 Paris France","{""lat"": 14.610918, ""lng"": -61.083595}"
+"79 Rue de Varenne close to Bois de Boulogne, 75007 Paris France","{""lat"": 48.856016, ""lng"": 2.315423}"
+"35 Rue du Chevalier-De-La-Barre, 75018 Paris France","{""lat"": 48.8871037, ""lng"": 2.3434393}"
+"1 Rue De La Légion d'Honneur, 75007 Paris France","{""lat"": 48.859562, ""lng"": 2.328966}"
+"8 Boulevard du Palais, 75001 Paris France","{""lat"": 48.855037, ""lng"": 2.345356}"
+"1 Rue Botzaris, 75019 Paris France","{""lat"": 48.876473, ""lng"": 2.381017}"
+"Place de l’Opéra entrance at the corner of Scribe and Auber streets, 75009 Paris France","{""lat"": 48.870901, ""lng"": 2.332195}"
+"Rue de Médicis Rue de Vaugirard, 75006 Paris France","{""lat"": 48.848054, ""lng"": 2.330386}"
+"6 Parvis Notre-Dame Place Jean-Paul II, 75004 Paris France","{""lat"": 48.852974, ""lng"": 2.349908}"
+"99 Rue de Rivoli, 75001 Paris France","{""lat"": 48.862734, ""lng"": 2.334836}"
+"2 Rue Louis Boilly 16ème  Arrondissement, 75016 Paris France","{""lat"": 48.859228, ""lng"": 2.267162}"
+"63 Rue de Monceau, 75008 Paris France","{""lat"": 48.8788507, ""lng"": 2.3128807}"
+"Pont Alexandre III Quai d'Orsay, 75008 Paris France","{""lat"": 48.8629614, ""lng"": 2.3143913}"
+"53 Avenue des Terroirs de France, 75012 Paris France","{""lat"": 48.832652, ""lng"": 2.389319}"
+"Île de la Cité Palais de la Cité, 75001 Paris France","{""lat"": 48.8592, ""lng"": 2.3417}"
+"Avenue des Champs Elysees, 75008 Paris France","{""lat"": 48.8683219, ""lng"": 2.3121977}"
+"5 Avenue, 75007 Paris France","{""lat"": 48.8500163, ""lng"": 2.3077488}"
+"Avenue Winston Churchill, 75008 Paris France","{""lat"": 48.8675162, ""lng"": 2.3139892}"
+"37 Quai Branly, 75007 Paris France","{""lat"": 48.860953, ""lng"": 2.297887}"
+"158 Boulevard Haussmann, 75008 Paris France","{""lat"": 48.8752531, ""lng"": 2.310789}"
+"Place de la Concorde, 75008 Paris France","{""lat"": 48.8668476, ""lng"": 2.3208963}"
+"Place du Trocadéro et du 11 Novembre, 75016 Paris France","{""lat"": 48.8628402, ""lng"": 2.287142}"
+"Boulevard Richard Lenoir, 75011 Paris France","{""lat"": 48.8609015, ""lng"": 2.372836}"
+"6 Place Sainte Geneviève, 75005 Paris France","{""lat"": 48.849326, ""lng"": 2.348507}"
+"35 Boulevard de Courcelles, 75008 Paris France","{""lat"": 48.875432, ""lng"": 2.308634}"
+"15 Rue de Vaugirard 6th arrondissement, 75006 Paris France","{""lat"": 48.8492162, ""lng"": 2.336455}"
+"33 Avenue Du Maine, 75015 Paris France","{""lat"": 48.84262, ""lng"": 2.321747}"
+"Rue du Cloître Notre-Dame, 75004 Paris France","{""lat"": 48.8527097, ""lng"": 2.3519614}"
+"9, Rue Scribe, 75009 Paris France","{""lat"": 48.8714648, ""lng"": 2.3302801}"
+"6 Rue de Montpensier, 75001 Paris France","{""lat"": 48.864332, ""lng"": 2.336754}"
+"16 rue des Francs-Bourgeois, 75003 Paris France","{""lat"": 48.85721, ""lng"": 2.362036}"
+"Pl. du Panthéon Mont Sainte Geneviève, 75005 Paris France","{""lat"": 48.846607, ""lng"": 2.347474}"
+"Place de la Madeleine, 75008 Paris France","{""lat"": 48.8701898, ""lng"": 2.3237589}"
+"1 Coulée Verte René-Dumont Gare de Lyon - Bercy, 75012 Paris France","{""lat"": 48.831738, ""lng"": 2.385354}"
+"Entre Rues Étienne Marcel, des Petits Champs, Daniele Casanova, des Capucines et Quais des Tuileries, François Miterrand, du Louvre, de La Mégisserie, 75001 Paris France","{""lat"": 48.857855, ""lng"": 2.344789}"
+"12 Rue Cortot, 75018 Paris France","{""lat"": 48.8877198, ""lng"": 2.340529}"
+"Place de l'Hôtel de Ville Entrée au 5 Rue Lobeau ou au 29 Rue de Rivoli, 75004 Paris France","{""lat"": 48.85672, ""lng"": 2.354917}"
+"6 Place d'Iéna, 75116 Paris France","{""lat"": 48.863404, ""lng"": 2.292972}"
+"Rue Cler Near Eiffel Tower, 75007 Paris France","{""lat"": 48.858262, ""lng"": 2.294496}"
+"60 Rue Réaumur, 75003 Paris France","{""lat"": 48.8657041, ""lng"": 2.3556111}"
+"Rue Montorgueil, 75001 Paris France","{""lat"": 48.8629391, ""lng"": 2.3462175}"
+"140 rue du Bac, 75007 Paris France","{""lat"": 48.8509524, ""lng"": 2.3237607}"
+"Place Georges Pompidou Quartier Beaubourg - Le Marais, 75004 Paris France","{""lat"": 48.86074, ""lng"": 2.353222}"
+"2 impasse Saint Eustache, 75001 Paris France","{""lat"": 48.8637288, ""lng"": 2.3454521}"
+"28 Rue du Sommerard, 75005 Paris France","{""lat"": 48.8504741, ""lng"": 2.343391}"
+"38 Rue Saint Maur, 75011 Paris France","{""lat"": 48.861647, ""lng"": 2.380766}"
+"17 Rue Geoffroy L'Asnier, 75004 Paris France","{""lat"": 48.854851, ""lng"": 2.356314}"
+"40 Boulevard Haussmann, 75009 Paris France","{""lat"": 48.873633, ""lng"": 2.332164}"
+Visiter le site web,Non géocodé
+Tout afficher,Non géocodé
+"11 Rue François 1er, 75008 Paris France","{""lat"": 48.8665329, ""lng"": 2.3069915}"
+"24 Rue de Sevres, 75007 Paris France","{""lat"": 48.850469, ""lng"": 2.324422}"
+"Cité de la Musique 221 Avenue Jean-Jaurès, 75019 Paris France","{""lat"": 48.8898937, ""lng"": 2.3940699}"
+"18 Rue Antoine Bourdelle 15e, 75015 Paris France","{""lat"": 48.842966, ""lng"": 2.318589}"
+"62 Rue des Archives Le Marais, 75003 Paris France","{""lat"": 48.861255, ""lng"": 2.358787}"
+"51 rue du Cardinal Lemoine, 75005 Paris France","{""lat"": 48.846816, ""lng"": 2.352126}"
+"Place Vendôme, 75001 Paris France","{""lat"": 48.8674634, ""lng"": 2.3294281}"
+"2 Rue Palatine, 75006 Paris France","{""lat"": 48.850994, ""lng"": 2.334844}"
+Tout afficher,Non géocodé
+"129, rue de Grenelle Hôtel national des Invalides, 75007 Paris France","{""lat"": 48.857037, ""lng"": 2.311878}"
+"11 Avenue du Président Wilson, 75116 Paris France","{""lat"": 48.8638502, ""lng"": 2.2905615}"
+En savoir plus sur le bien-être animal dans le tourisme,"{""lat"": 40.21667, ""lng"": 18.16667}"
+"23 Rue de Mogador, 75009 Paris France","{""lat"": 48.875183, ""lng"": 2.3312843}"
+"Rue des Prêtres Saint Séverin Quartier Latin, 75005 Paris France","{""lat"": 48.852024, ""lng"": 2.345178}"
+Tout afficher,Non géocodé
+"59 Rue de Rivoli Centre Artistique et Culturel, 75001 Paris France","{""lat"": 48.85923, ""lng"": 2.34567}"
+"Place d'Aligre, 75011 Paris France","{""lat"": 48.8488627, ""lng"": 2.3784356}"
+"107 Rue De La Croix-nivert, 75015 Paris France","{""lat"": 48.8424601, ""lng"": 2.2946166}"
+En savoir plus sur le bien-être animal dans le tourisme,"{""lat"": 40.21667, ""lng"": 18.16667}"
+Tout afficher,Non géocodé
+Tout afficher,Non géocodé
+Tout afficher,Non géocodé
+"8 Rue de Montpensier, 75001 Paris France","{""lat"": 48.864388, ""lng"": 2.336783}"
+"17 Rue Chapon, 75003 Paris France","{""lat"": 48.8633909, ""lng"": 2.3560246}"
+"24 rue Emile Lepeu, 75011 Paris France","{""lat"": 48.85586, ""lng"": 2.388329}"
+"3 Place Saint Germain des Prés, 75006 Paris France","{""lat"": 48.8539672, ""lng"": 2.3345203}"
+"2 Rue Gazan, 75014 Paris France","{""lat"": 48.824187, ""lng"": 2.339934}"
+"59 Rue du Cardinal Lemoine, 75005 Paris France","{""lat"": 48.8462297, ""lng"": 2.3512863}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+"293 Avenue Dausmenil, 75012 Paris France","{""lat"": 48.831631, ""lng"": 2.388061}"
+"35 Boulevard Richard Lenoir Ground floor, RDC, 75011 Paris France","{""lat"": 48.8579852, ""lng"": 2.3708922}"
+Tout afficher,Non géocodé
+"Place du Trocadéro, 75016 Paris France","{""lat"": 48.862963, ""lng"": 2.28714}"
+"Place de l'Opéra, 75009 Paris France","{""lat"": 48.8708799, ""lng"": 2.3324687}"
+"34 Av. des Champs-Élysées, 75008 Paris France","{""lat"": 48.8699573, ""lng"": 2.3081565}"
+"38 rue Croix des Petits Champs, 75001 Paris France","{""lat"": 48.8643735, ""lng"": 2.3403591}"
+"8Bis Rue de L'Arrivée, 75015 Paris France","{""lat"": 48.8435991, ""lng"": 2.3220839}"
+"30 Avenue Corentin Cariou Vill'Up à La Villette, 75019 Paris France","{""lat"": 48.896214, ""lng"": 2.389013}"
+En savoir plus sur le bien-être animal dans le tourisme,"{""lat"": 40.21667, ""lng"": 18.16667}"
+"139 Rue Mouffetard, 75005 Paris France","{""lat"": 48.839839, ""lng"": 2.349822}"
+"9 Rue Guenegaud, 75006 Paris France","{""lat"": 48.8561015, ""lng"": 2.3393989}"
+"40 Rue de Clichy, 75009 Paris France","{""lat"": 48.8794392, ""lng"": 2.3294409}"
+"Square de l'Île de France, 75004 Paris France","{""lat"": 48.852088, ""lng"": 2.3522269}"
+"134 rue de Vaugirard, 75015 Paris France","{""lat"": 48.8449832, ""lng"": 2.3195007}"
+"11 Rue Poulbot, 75018 Paris France","{""lat"": 48.886497, ""lng"": 2.339806}"
+"2 Place du Louvre 1er Arrondissement, 75001 Paris France","{""lat"": 48.8595727, ""lng"": 2.3408274}"
+"Place de la Concorde, 75008 Paris France","{""lat"": 48.8668476, ""lng"": 2.3208963}"
+Tout afficher,Non géocodé
+"10-12 Boulevard Montmartre, 75009 Paris France","{""lat"": 48.872342, ""lng"": 2.343276}"
+"10 Rue Servandoni, 75006 Paris France","{""lat"": 48.8501851, ""lng"": 2.3346911}"
+"Rue de Médicis Jardin du Luxembourg, 75006 Paris France","{""lat"": 48.848393, ""lng"": 2.339452}"
+"26 Rue Breguet, 75011 Paris France","{""lat"": 48.8576552, ""lng"": 2.3741114}"
+Visiter le site web,Non géocodé
+"1 Place Trocadéro et du 11 Novembre, 75116 Paris France","{""lat"": 48.862963, ""lng"": 2.28714}"
+"20 Avenue Rachel, 75018 Paris France","{""lat"": 48.885389, ""lng"": 2.331063}"
+Tout afficher,Non géocodé
+Tout afficher,Non géocodé
+Visiter le site web,Non géocodé
+"22 rue Dussoubs, 75002 Paris France","{""lat"": 48.8657104, ""lng"": 2.3489187}"
+"11 Rue Lamarck, 75018 Paris France","{""lat"": 48.8879413, ""lng"": 2.3442475}"
+"30 Av. Corentin Cariou, 75019 Paris Centre Vill'up, 75019 Paris France","{""lat"": 48.896214, ""lng"": 2.389013}"
+Visiter le site web,Non géocodé
+"17 Rue de la Pierre Levée, 75011 Paris France","{""lat"": 48.867853, ""lng"": 2.370062}"
+"76 Rue De La Victoire, 75009 Paris France","{""lat"": 48.8753074, ""lng"": 2.3328814}"
+"8 villa de saxe, 75007 Paris France","{""lat"": 48.8495807, ""lng"": 2.3097597}"
+Tout afficher,Non géocodé
+"53 Boulevard de la Tour Maubourg, 75007 Paris France","{""lat"": 48.8548922, ""lng"": 2.3098435}"
+"33 Quai D'Orsay, 75007 Paris France","{""lat"": 48.8625659, ""lng"": 2.3182938}"
+"61 Rue de Grenelle, 75007 Paris France","{""lat"": 48.8548016, ""lng"": 2.3249331}"
+"Rue de la Butte Aux Cailles, 75013 Paris France","{""lat"": 48.8280664, ""lng"": 2.3523301}"
+"14 Rue Catherine de la Rochefoucauld, 75009 Paris France","{""lat"": 48.8779149, ""lng"": 2.3344031}"
+"26 rue Richer, 75009 Paris France","{""lat"": 48.8740785, ""lng"": 2.3456206}"
+"5 Rue Stephenson, 75018 Paris France","{""lat"": 48.8853908, ""lng"": 2.3566542}"
+"82 Boulevard de Clichy, 75018 Paris France","{""lat"": 48.884011, ""lng"": 2.332622}"
+Visiter le site web,Non géocodé
+"129 Rue de Grenelle Les Invalides, 75007 Paris France","{""lat"": 48.857037, ""lng"": 2.311878}"
+"17 Rue Guersant, 75017 Paris France","{""lat"": 48.8805985, ""lng"": 2.2901271}"
+"25 rue Coquillière, 75001 Paris France","{""lat"": 48.8639412, ""lng"": 2.3420663}"
+"3 Boulevard Edgar Quinet 14ème Arrondissement, 75014 Paris France","{""lat"": 48.839956, ""lng"": 2.327684}"
+"2 Rue du Mont Cenis, 75018 Paris France","{""lat"": 48.896971, ""lng"": 2.3466}"
+"46 avenue daumesnil, 75012 Paris France","{""lat"": 48.832002, ""lng"": 2.388872}"
+Visiter le site web,Non géocodé
+"Rue de la Folie Méricourt, 75011 Paris France","{""lat"": 48.8649642, ""lng"": 2.3710458}"
+"Place du Carrousel Entre Le Louvre et Jardin des Tuileries, 75001 Paris France","{""lat"": 48.859846, ""lng"": 2.340611}"
+Visiter le site web,Non géocodé
+"44 Rue de Dunkerque, 75009 Paris France","{""lat"": 48.8813519, ""lng"": 2.3491108}"
+Visiter le site web,Non géocodé
+"8 avenue de la Porte Molitor Hôtel Molitor Paris, 75016 Paris France","{""lat"": 48.84501, ""lng"": 2.25342}"
+Tout afficher,Non géocodé
+"20 Rue Croix des Petits Champs, 75001 Paris France","{""lat"": 48.8637203, ""lng"": 2.3400065}"
+"16 rue Raymond Aron, 75013 Paris France","{""lat"": 48.8351547, ""lng"": 2.3741869}"
+"6 Rue Guillaume Bertrand, 75011 Paris France","{""lat"": 48.863261, ""lng"": 2.37994}"
+"28 Rue du Cardinal Lemoine, 75005 Paris France","{""lat"": 48.8479749, ""lng"": 2.3530374}"
+Tout afficher,Non géocodé
+"24 Boulevard Poissonniere Theatre des Nouveautes, 75009 Paris France","{""lat"": 48.871353, ""lng"": 2.3448935}"
+"18 Boulevard du Temple 11ème Arrondissement, 75011 Paris France","{""lat"": 48.864539, ""lng"": 2.366158}"
+"58 Rue des Garennes 92160 Antony, 92160 Paris France","{""lat"": 48.739653, ""lng"": 2.286144}"
+"51 Boulevard de la Chapelle ( Fond de la Cour a Gauche ), 75010 Paris France","{""lat"": 48.8709, ""lng"": 2.3561}"
+"15 Place Vendôme Hôtel Ritz, 75001 Paris France","{""lat"": 47.805273, ""lng"": 1.063263}"
+"40 Avenue de la République, 75011 Paris France","{""lat"": 48.865374, ""lng"": 2.373231}"
+"92 Rue Nollet, 75017 Paris France","{""lat"": 48.8880463, ""lng"": 2.3196196}"
+"17 Place De La Nation, 75011 Paris France","{""lat"": 48.848797, ""lng"": 2.397526}"
+"55 rue Traversière, 75012 Paris France","{""lat"": 48.832694, ""lng"": 2.389395}"
+"97 Boulevard Soult, 75012 Paris France","{""lat"": 48.842766, ""lng"": 2.409529}"
+"30, Rue Richer, 75009 Paris France","{""lat"": 48.87408, ""lng"": 2.345162}"
+"25 rue Pierre Fontaine 9th, 75009 Paris France","{""lat"": 48.8820208, ""lng"": 2.3337361}"
+"15 rue de la Grande Truanderie, 75001 Paris France","{""lat"": 48.862797, ""lng"": 2.348945}"
+"52 rue Mouffetard, 75005 Paris France","{""lat"": 48.8433209, ""lng"": 2.3494827}"
+"17 Rue Mayet, 75006 Paris France","{""lat"": 48.8464961, ""lng"": 2.3191973}"
+"32 rue Montorgueil, 75001 Paris France","{""lat"": 48.8638563, ""lng"": 2.3465274}"
+"102 boulevard Voltaire, 75011 Paris France","{""lat"": 48.8595816, ""lng"": 2.3768252}"
+"79 rue de Patay, 75013 Paris France","{""lat"": 48.8266411, ""lng"": 2.3728201}"
+"1 rue des Fosses Saint Bernard Institut du Monde Arabe, 75005 Paris France","{""lat"": 48.849172, ""lng"": 2.356212}"
+"127 Rue Jeanne d'Arc, 75013 Paris France","{""lat"": 48.835324, ""lng"": 2.360798}"
+"4 Rue des Petits Hôtels, 75010 Paris France","{""lat"": 48.8773877, ""lng"": 2.3544906}"
+"157 rue Vercingetorix, 75014 Paris France","{""lat"": 48.8322981, ""lng"": 2.3110797}"
+"62 rue Beaubourg, 75003 Paris France","{""lat"": 48.8633032, ""lng"": 2.3547527}"
+"94 Rue De Lourmel, 75015 Paris France","{""lat"": 48.8443811, ""lng"": 2.2866865}"
+"38 Rue de Sèvres, 75007 Paris France","{""lat"": 48.8499722, ""lng"": 2.3232975}"
+"7 Quai De La Seine, 75019 Paris France","{""lat"": 48.8845476, ""lng"": 2.3701347}"
+"18 Rue De Verdun, 91800 Paris France","{""lat"": 48.3981501, ""lng"": -4.463709}"
+"8 Bd Montmartre, 75009 Paris France","{""lat"": 48.872151, ""lng"": 2.343292}"
+"25 rue du Petit Musc, 75004 Paris France","{""lat"": 48.8528528, ""lng"": 2.3643376}"
+"40 bis rue du Faubourg Poissonière, 7510 Paris France","{""lat"": 50.120234, ""lng"": 3.696904}"
+Tout afficher,Non géocodé
+"80 Rue des Martyrs 18ème Arrondissement, 75018 Paris France","{""lat"": 48.883052, ""lng"": 2.339771}"
+Visiter le site web,Non géocodé
+"15 Place Vendôme, 75001 Paris France","{""lat"": 48.8679507, ""lng"": 2.328898}"
+"5 rue de Hanovre, 75002 Paris France","{""lat"": 48.870149, ""lng"": 2.3353567}"
+"3 Rue de Sévigné, 75004 Paris France","{""lat"": 48.855309, ""lng"": 2.361741}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+"rue Jean Pierre Timbaud, 75011 Paris France","{""lat"": 48.8671608, ""lng"": 2.375398}"
+"61 rue Chardon Lagache, 75016 Paris France","{""lat"": 48.8423457, ""lng"": 2.2645202}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+"57 rue de Maubeuge, 75009 Paris France","{""lat"": 48.879265, ""lng"": 2.347849}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+Visiter le site web,Non géocodé
+"161 Rue des Pyrénées, 75020 Paris France","{""lat"": 48.8595112, ""lng"": 2.4015096}"
+"92 rue du Cherche Midi, 75006 Paris France","{""lat"": 48.847412, ""lng"": 2.3223496}"
+"30 rue Saint Paul, 75004 Paris France","{""lat"": 48.8539096, ""lng"": 2.3621737}"
+"1 Rue du Pont Louis-Philippe, 75004 Paris France","{""lat"": 48.8547614, ""lng"": 2.3552119}"
+"3 cité Souzy, 75011 Paris France","{""lat"": 48.851719, ""lng"": 2.3889469}"
+"12 Avenue George V 8ème Arrondissement, 75008 Paris France","{""lat"": 48.865966, ""lng"": 2.301645}"
+"10 Rue Gambey, 75011 Paris France","{""lat"": 48.865259, ""lng"": 2.371938}"
+"Place Vendôme, 75001 Paris France","{""lat"": 48.8674634, ""lng"": 2.3294281}"
+Visiter le site web,Non géocodé
+"50 Rue d'Aboukir, 75002 Paris France","{""lat"": 48.867281, ""lng"": 2.345573}"
+"80 Rue De Vaugirard, 75006 Paris France","{""lat"": 48.8476552, ""lng"": 2.3287354}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+"2 Rue Française, 75001 Paris France","{""lat"": 48.8637393, ""lng"": 2.347537}"
+"39 Rue De Palestro, 75002 Paris France","{""lat"": 48.866912, ""lng"": 2.3522779}"
+"18 rue de Paradis, 75010 Paris France","{""lat"": 48.8747761, ""lng"": 2.3537222}"
+"30 rue des Saints-Peres, 75007 Paris France","{""lat"": 48.8553762, ""lng"": 2.3308358}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+Visiter le site web,Non géocodé
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+Visiter le site web,Non géocodé
+"18-20 Rue Coquillière Proche du Louvre, de l'Église Saint-Eustache, des Halles, 75001 Paris France","{""lat"": 48.859969, ""lng"": 2.346691}"
+"28 B boulevard Pereire, 75017 Paris France","{""lat"": 48.88805, ""lng"": 2.307995}"
+"6 Square de l Opera Louis Jouvet, 75009 Paris France","{""lat"": 48.871676, ""lng"": 2.328995}"
+"The Louvre, rue de Rivoli, 75001 Paris France","{""lat"": 48.860803, ""lng"": 2.341123}"
+"251 Rue Saint-Honoré, 75001 Paris France","{""lat"": 48.867118, ""lng"": 2.3270818}"
+"69 Avenue De Wagram, 75017 Paris France","{""lat"": 48.879013, ""lng"": 2.298599}"
+En savoir plus sur le bien-être animal dans le tourisme,"{""lat"": 40.21667, ""lng"": 18.16667}"
+"72 bd de Charonne, 75020 Paris France","{""lat"": 48.852814, ""lng"": 2.397597}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+"4 rue de Caumartin, 75009 Paris France","{""lat"": 48.8705594, ""lng"": 2.3281113}"
+Tout afficher,Non géocodé
+"110 Rue Amelot 11ème Arrondissement, 75011 Paris France","{""lat"": 48.863481, ""lng"": 2.367568}"
+Visiter le site web,Non géocodé
+"112 rue du Faubourg Saint Honore, 75008 Paris France","{""lat"": 48.8716714, ""lng"": 2.3147666}"
+Tout afficher,Non géocodé
+"1 Place du Marche Sainte Catherine, 75004 Paris France","{""lat"": 48.8553529, ""lng"": 2.3625784}"
+"244 Rue de Rivoli, 75001 Paris France","{""lat"": 48.8660444, ""lng"": 2.3253018}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+"147 rue de Vaugirard, 75015 Paris France","{""lat"": 48.8439523, ""lng"": 2.3163491}"
+"52 rue de l Arbre Sec, 75001 Paris France","{""lat"": 48.860935, ""lng"": 2.3425797}"
+"42 Rue Sedaine, 75011 Paris France","{""lat"": 48.85701, ""lng"": 2.374931}"
+"24 Rue du Temple, 75004 Paris France","{""lat"": 48.8588964, ""lng"": 2.3537137}"
+Appeler,"{""lat"": 53.2439303, ""lng"": 9.5217937}"
+Visiter le site web,Non géocodé
+"65 Rue Montmartre, 75002 Paris France","{""lat"": 48.8664533, ""lng"": 2.3442977}"
+"Place Saint Catherine, 75004 Paris France",Non géocodé
+"6 Rue Vivienne Passage Couvert de Luxe, 75002 Paris France",Non géocodé
+"19 boulevard Saint-Martin Théâtre BO Saint-Martin, 75003 Paris France",Non géocodé
+"103, rue Saint-Antoine Le Marais, 75004 Paris France",Non géocodé
+"2 Place de la Porte Maillot Palais des Congrès, 75017 Paris France",Non géocodé
+"4 rue de Castellane, 75008 Paris France",Non géocodé
+"26 Rue Paul Barruel, 75015 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+Visiter le site web,Non géocodé
+"21 Rue de la Victoire, 75009 Paris France",Non géocodé
+"5 rue du Cloître Saint-Merri, 75004 Paris France",Non géocodé
+"7 Rue des Francs Bourgeois, 75004 Paris France",Non géocodé
+"86 Rue Miromesnil Dans la 2ème Cour, 75008 Paris France",Non géocodé
+"5 Rue de la Huchette Le Club De Jazz Du Film La La Land, 75005 Paris France",Non géocodé
+"15 Rue Quincampoix, 75004 Paris France",Non géocodé
+"75 Boulevard De Montmorency, 75016 Paris France",Non géocodé
+"5 rue Henri Desgrange, 75012 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"32 Boulevard de la Bastille, 75012 Paris France",Non géocodé
+Tout afficher,Non géocodé
+Appeler,Non géocodé
+"40 Rue Sedaine L'Atelier Bastille, 75011 Paris France",Non géocodé
+"31-46 Rue St.-Louis-en-l'Île Île Saint Louis, 75004 Paris France",Non géocodé
+"37 Rue des Gravilliers, 75003 Paris France",Non géocodé
+"55 Boulevard Saint Martin Face à la Porte Saint Martin, 75003 Paris France",Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+"rue Louis Codet, 75007 Paris France",Non géocodé
+Envoyer un e-mail,Non géocodé
+Visiter le site web,Non géocodé
+Visiter le site web,Non géocodé
+"11 Bd Montmartre, 75002 Paris France",Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+"53 Avenue de la Grande Armée Métro ligne 1 Sortie Argentine, 75016 Paris France",Non géocodé
+Appeler,Non géocodé
+"130 rue du Faubourg Saint Martin, 75010 Paris France",Non géocodé
+"6 place des Vosges, 75004 Paris France",Non géocodé
+"82 rue de Charenton, 75012 Paris France",Non géocodé
+"100 avenue Philippe Auguste, 75011 Paris France",Non géocodé
+"11 B rue Amelie, 75007 Paris France",Non géocodé
+"8 avenue Raymond Poincare, 75116 Paris France",Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+"31 rue Sainte-Marthe Inside a beautiful cheese shop, 75005 Paris France",Non géocodé
+"12 rue du Pic de Barrette, 75015 Paris France",Non géocodé
+Appeler,Non géocodé
+"36 Rue du Faubourg Saint Martin, 75010 Paris France",Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+"70 rue Saint Denis, 75001 Paris France",Non géocodé
+Appeler,Non géocodé
+Tout afficher,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+"2 Rue Crillon, 75004 Paris France",Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Envoyer un e-mail,Non géocodé
+Envoyer un e-mail,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Envoyer un e-mail,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Envoyer un e-mail,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Envoyer un e-mail,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+Visiter le site web,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Appeler,Non géocodé
+Visiter le site web,Non géocodé
+"Quai de la Tournelle, 75005 Paris France",Non géocodé
+"4 route de la Pyramide, 75012 Paris France",Non géocodé
+"1910 Port des Champs-Élysées Cours la Reine, 75008 Paris France",Non géocodé
+"145 Rue Saint Honoré 160 Rue de Rivoli, 75001 Paris France",Non géocodé
+"36 rue Saint Bernard Paris 11, 75011 Paris France",Non géocodé
+"83 Rue Lepic, 75018 Paris France",Non géocodé
+"28 Rue de Croulebarbe, 75013 Paris France",Non géocodé
+"7 B Villa Seurat, 75014 Paris France",Non géocodé
+"place Paul Painleve rue des Ecoles, 75005 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"20 rue Cortambert, 75116 Paris France",Non géocodé
+"70 rue Georges Lardennois, 75019 Paris France",Non géocodé
+"Route de la Ferme, 75012 Paris France",Non géocodé
+"Place du Général Catroux, 75017 Paris France",Non géocodé
+"1 Place du Trocadéro, 75116 Paris France",Non géocodé
+"147 Rue Cardinet Rue Bernard Buffet, Rue Gilbert Cesbron, Allée Colette Heilbronner, 75017 Paris France",Non géocodé
+"55 Rue du Faubourg Saint-Honoré, 75008 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Boulevard d'Algérie, 75019 Paris France",Non géocodé
+"101 B quai Branly, 75015 Paris France",Non géocodé
+"92 rue Saint-Denis, 75001 Paris France",Non géocodé
+"20 avenue Rachel Cimetière de Montmartre, 75018 Paris France",Non géocodé
+"Place du Marché Saint Honoré, 75001 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"21 boulevard Morland, 75004 Paris France",Non géocodé
+"93 rue de Crimee, 75019 Paris France",Non géocodé
+"19 rue de Surene, 75008 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"17 Place du Trocadéro et du 11 Novembre, 75116 Paris France",Non géocodé
+"4 rue Saint Christophe, 75015 Paris France",Non géocodé
+"263 Rue Saint-Honoré, 75001 Paris France",Non géocodé
+"6 rue Pierre au Lard, 75004 Paris France",Non géocodé
+"14 rue Jean de la Fontaine, 75016 Paris France",Non géocodé
+"2 rue Saint Ambroise, 75011 Paris France",Non géocodé
+"26 Rue de Vaugirard Dans le Jardin du Luxembourg, 75006 Paris France",Non géocodé
+"23 Quai de Conti Place de l'Institut, 75006 Paris France",Non géocodé
+"78 Champs Elysées, 75008 Paris France",Non géocodé
+"34 Boulevard de Vaugirard, 75015 Paris France",Non géocodé
+"32 rue Berger Au-Dessus De La Dalle Du Forum Des Halles, 75001 Paris France",Non géocodé
+"2 avenue Gordon Bennett Stade Roland Garros, 75016 Paris France",Non géocodé
+"Carrefour des Cascades, 75016 Paris France",Non géocodé
+"2 B avenue Franklin Delano Roosevelt, 75008 Paris France",Non géocodé
+"31-33 rue du Château d'Eau, 75010 Paris France",Non géocodé
+"1 Place Alphonse Laveran, 75005 Paris France",Non géocodé
+"Rue de Rivoli, 75001 Paris France",Non géocodé
+"Cour Napoléon Dans La Pyramide du Louvre, 75010 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"92 Rue Saint-Dominique, 75007 Paris France",Non géocodé
+"73 avenue des Gobelins, 75013 Paris France",Non géocodé
+"33 rue de Sevres, 75006 Paris France",Non géocodé
+"1 Place du Palais Royal, 75100 Paris France",Non géocodé
+"Ile Saint-Louis, 75004 Paris France",Non géocodé
+"77 quai de la Corse 12 Quai de Gesvres, 75004 Paris France",Non géocodé
+"Rue Payenne, 75003 Paris France",Non géocodé
+"Rue de Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+"3 Rue Royale, 75008 Paris France",Non géocodé
+"Place Michel Debré Carrefour de la Croix-Rouge, 75006 Paris France",Non géocodé
+"Ave. de la Porte de Montreuil, 75020 Paris France",Non géocodé
+"24 rue Nungesser Et Coli, 75016 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"1 Rue du Faubourg Saint Martin, 75010 Paris France",Non géocodé
+"186 Avenue Daumesnil, 75012 Paris France",Non géocodé
+"19 Rue de la Poterne des Peupliers, 75013 Paris France",Non géocodé
+"76 Rue de Turenne 75003, 75003 Paris France",Non géocodé
+"5 rue des Vignes, 75016 Paris France",Non géocodé
+"Rue Maine/Rue Alesia, 75014 Paris France",Non géocodé
+"Boulevard Edgar Quinet Sur le terre-plein entre le numéro 36 et la Rue du Départ, 75014 Paris France",Non géocodé
+"180 boulevard Vincent Auriol, 75013 Paris France",Non géocodé
+"Rue Danton, 75006 Paris France",Non géocodé
+"Place du Général Koenig, 75017 Paris France",Non géocodé
+"rue Saint Denis, 75001 Paris France",Non géocodé
+"48 rue Vieille du Temple, 75004 Paris France",Non géocodé
+"Quai Francois Mitterrand, 75001 Paris France",Non géocodé
+"10 Avenue Pierre 1er de Serbie, 75116 Paris France",Non géocodé
+"160 rue de Rivoli, 75001 Paris France",Non géocodé
+"Parvis Notre-Dame - Place Jean-Paul II, 75004 Paris France",Non géocodé
+"40 rue Geoffroy Saint Hilaire Jardin des Plantes, 75005 Paris France",Non géocodé
+"Place de la Concorde s'étend jusqu'à la Place du Canada, 75008 Paris France",Non géocodé
+"12 rue des Blancs Manteaux, 75004 Paris France",Non géocodé
+"Quai Anatole France Parvis du Musée d'Orsay, 75007 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"63 rue de Caumartin, 75009 Paris France",Non géocodé
+"8 rue du Faubourg Montmartre Montmartre, 75009 Paris France",Non géocodé
+"14 boulevard de Strasbourg, 75010 Paris France",Non géocodé
+"79 rue des Archives, 75003 Paris France",Non géocodé
+"Place des Vosges, 75004 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Place de la Nation, 75011 Paris France",Non géocodé
+"7 Rue des Nonnains d'Hyères, 75004 Paris France",Non géocodé
+"143 Rue de la Roquette, 75011 Paris France",Non géocodé
+"195 rue du Temple, 75003 Paris France",Non géocodé
+"2 pl du Palais Royal, 75001 Paris France",Non géocodé
+"17 rue Rene Boulanger, 75010 Paris France",Non géocodé
+"Place Joffre, 75007 Paris France",Non géocodé
+"21 rue du Bourg Tibourg, 75004 Paris France",Non géocodé
+"800 Port de la Rapée, 75012 Paris France",Non géocodé
+"Place d'Italie, 75013 Paris France",Non géocodé
+"Rue Poncelet Metro: Place des Ternes, 75017 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"13 rue des Boulets 11th, 75011 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"29 rue de Dunkerque, 75010 Paris France",Non géocodé
+"Place de l'Opera Toit du Palais Garnier, 75009 Paris France",Non géocodé
+"11 Place des 5 Martyrs du Lycée Buffon Au-Dessus de la Gare Montparnasse, 75697 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Rue du commerce near Eiffel tower, 75015 Paris France",Non géocodé
+"55, Rue de Clichy, 75009 Paris France",Non géocodé
+"6 Pl Jean Paul II Parv Notre Dame, 75004 Paris France",Non géocodé
+"1 avenue des Champs Elysées, 75008 Paris France",Non géocodé
+"85 Quai d'Austerlitz, 75013 Paris France",Non géocodé
+"Boulevard de la Chapelle, 75010 Paris France",Non géocodé
+"Place de la République, 75011 Paris France",Non géocodé
+"69 B Rue de Richelieu, 75002 Paris France",Non géocodé
+"22 Rue Duperré, 75009 Paris France",Non géocodé
+"2 avenue Stephane Mallarme, 75017 Paris France",Non géocodé
+"2 Rue Général Blaise, 75011 Paris France",Non géocodé
+"Rue Dénoyez, 75020 Paris France",Non géocodé
+"Square du Ranelagh, 75016 Paris France",Non géocodé
+"Place René Cassin Face à l'Église Saint-Eustache, 75001 Paris France",Non géocodé
+"6 rue de la Folie Mericourt, 75011 Paris France",Non géocodé
+"252 rue Saint Jacques, 75005 Paris France",Non géocodé
+"24 rue des Archives, 75004 Paris France",Non géocodé
+"10 rue du General Camou 7th, 75007 Paris France",Non géocodé
+"1 Avenue Prudhon, 75016 Paris France",Non géocodé
+"11 rue Payenne, 75003 Paris France",Non géocodé
+"9 rue Drouot, 75009 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+Visiter le site web,Non géocodé
+"Cours la Reine, 75008 Paris France",Non géocodé
+"30 Avenue Corentin Cariou, 75019 Paris France",Non géocodé
+"Face au 9 Quai de l'Oise, 75019 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Angle Boulevard Haussmann Angle boulevard Haussmann et rue de Laborde, 75008 Paris France",Non géocodé
+"Rue De Levis 77 Place du Dr Felix Lobligeois, 75017 Paris France",Non géocodé
+"20 Rue Barbette, 75003 Paris France",Non géocodé
+"2 Rue de Viarmes, 75001 Paris France",Non géocodé
+"5 Boulevard des Italiens 97 Rue de Richelieu, 75002 Paris France",Non géocodé
+"37 B boulevard de la Chapelle, 75010 Paris France",Non géocodé
+"78 B boulevard des Batignolles 17th, 75017 Paris France",Non géocodé
+Tout afficher,Non géocodé
+Tout afficher,Non géocodé
+"18 Place des Vosges Place des Vosges, 75004 Paris France",Non géocodé
+"2 Passage de Dantzig, 75015 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Promenade Maurice Careme, 75004 Paris France",Non géocodé
+"Boulevard Richard Lenoir noordelijk van Metro station Richard Lenoir, 75016 Paris France",Non géocodé
+"Pl. Édouard VII, 75009 Paris France",Non géocodé
+"7 Place de Fontenoy Unesco, 75007 Paris France",Non géocodé
+"91 boulevard du Montparnasse, 75006 Paris France",Non géocodé
+"11 rue Royale, 75008 Paris France",Non géocodé
+"Jardin Tino Rossi, 75005 Paris France",Non géocodé
+"Place de Breteuil Sur l'emplacement de l'ancienne tour du puits artésien de Breteuil, 75007 Paris France",Non géocodé
+"66 Bis Avenue Raymond Poincare, 75116 Paris France",Non géocodé
+"3 Place Saint-Jean, 75017 Paris France",Non géocodé
+"79 rue Saint Maur Métro: Rue Saint-Maur, ligne 3, 75011 Paris France",Non géocodé
+"21 Rue Rottembourg Accessible from 21 Rue Rottembourg, 75012 Paris France",Non géocodé
+"58 Rue de Richelieu, 75002 Paris France",Non géocodé
+"14 Rue des Récollets, 75010 Paris France",Non géocodé
+"4 Place du Louvre, 75042 Paris France",Non géocodé
+"Avenue Charles Risler Champs de Mars, 75007 Paris France",Non géocodé
+"Rue Brillat-Savarin, 75013 Paris France",Non géocodé
+"Rue de Rambouillet, 75012 Paris France",Non géocodé
+"1 Rue de Lutèce Place Louis Lépine, 75004 Paris France",Non géocodé
+"50-56 Rue de Caumartin, 75009 Paris France",Non géocodé
+"38 boulevard de Bonne Nouvelle, 75010 Paris France",Non géocodé
+"2 Place Paul Painlevé, 75005 Paris France",Non géocodé
+"2 avenue de Tourville Pl. Vauban, 75007 Paris France",Non géocodé
+"154 ave de Clichy, 75017 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"30 rue Lhomond, 75005 Paris France",Non géocodé
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+"99 Boulevard Kellermann 17 Avenue Pierre de Coubertin, 75013 Paris France",Non géocodé
+"1 Place du Chatelet, 75001 Paris France",Non géocodé
+"23 rue Jean Goujon, 75008 Paris France",Non géocodé
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+"Rue Scribe Rampe de l'Opéra Garnier, 75009 Paris France",Non géocodé
+"Quai de l'Hotel de Ville, 75004 Paris France",Non géocodé
+"2, rue Saint-Éleuthère Accès Rue Azaïs, 75018 Paris France",Non géocodé
+"2 Boulevard Henri IV Ile Saint Louis, 75004 Paris France",Non géocodé
+"17 rue Saint Vincent, 75018 Paris France",Non géocodé
+"398 rue Saint Honore, 75001 Paris France",Non géocodé
+"17 rue Saint Antoine, 75004 Paris France",Non géocodé
+"Avenue de Tourville Boulevard de Latour Maubourg, 75007 Paris France",Non géocodé
+"Place du Trocadero, 75016 Paris France",Non géocodé
+"Rue des Tournelles, 75004 Paris France",Non géocodé
+En savoir plus sur le bien-être animal dans le tourisme,Non géocodé
+"5 rue Crespin du Gast, 75011 Paris France",Non géocodé
+"Quai d'Orsay. 5 Îles Péniches Bord de Seine Port du Gros Caillou, Berges de Seine, 75007 Paris France",Non géocodé
+"35 Boulevard Richard Lenoir Entre Bastille et L'avenue de la République, 75011 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"77 avenue de Versailles, 75016 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"16 rue de la Faisanderie, 75116 Paris France",Non géocodé
+"Rue Clovis, 75004 Paris France",Non géocodé
+"Place Clichy, 75008 Paris France",Non géocodé
+"96 Boulevard Bessières, 75017 Paris France",Non géocodé
+"2 rue de Seine Square Honore Champion, 75006 Paris France",Non géocodé
+"4 avenue de l Observatoire Faculté de Pharmacie de Paris, 75006 Paris France",Non géocodé
+"14 rue Saint Agustin, 75002 Paris France",Non géocodé
+"39 Rue de Rivoli, 75004 Paris France",Non géocodé
+"98Bbis Boulevard de Sébastopol, 75003 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"38 rue des Mathurins, 75008 Paris France",Non géocodé
+"Entre 120 Rue Saint-Denis et 3 Rue de Palestro, 75002 Paris France",Non géocodé
+"Port de la Gare Quai François Mauriac, 75013 Paris France",Non géocodé
+"5 rue des Irlandais, 75005 Paris France",Non géocodé
+"31 Avenue Marceau, 75116 Paris France",Non géocodé
+"Place de l'Opéra l’Opéra Garnier, 75009 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"25 rue de Caumartin, 75009 Paris France",Non géocodé
+"Place Gaillon, 75002 Paris France",Non géocodé
+"Quai Anatole France Musée d'Orsay, 75007 Paris France",Non géocodé
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",Non géocodé
+"15 rue des Blancs Manteaux, 75004 Paris France",Non géocodé
+"12 Rue de la Grange aux Belles, 75010 Paris France",Non géocodé
+"7 Port de la Gare, 75013 Paris France",Non géocodé
+"Quay d'Orsay, 75007 Paris France",Non géocodé
+"7 Rond-Point des Champs-Élysées, 75008 Paris France",Non géocodé
+"1 Avenue du Général Sarrail, 75016 Paris France",Non géocodé
+"70 Rue de Vaugirard, 75006 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"24 rue Louis Blanc Diva's Kabaret, 75004 Paris France",Non géocodé
+"7 Place de la Sorbonne, 75005 Paris France",Non géocodé
+"Rue de Lappe, 75011 Paris France",Non géocodé
+"1 Jardin des Tuileries, 75001 Paris France",Non géocodé
+"Place de la Concorde, 75008 Paris France",Non géocodé
+"6 rue Frochot, 75009 Paris France",Non géocodé
+"168 bis Boulevard Saint-Germain, 75006 Paris France",Non géocodé
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Place du Pantheon, 75005 Paris France",Non géocodé
+"Place Napoleon III Gare du Nord, 75010 Paris France",Non géocodé
+"128 R%ue de Bac, 75007 Paris France",Non géocodé
+"97 boulevard Saint Germain Place Henri Mondor, 75006 Paris France",Non géocodé
+"7 Bis Rue Girardon, 75018 Paris France",Non géocodé
+"Place des Vosges, 75004 Paris France",Non géocodé
+"1 Rue de Babylone, 75007 Paris France",Non géocodé
+"Place Vauban, 75007 Paris France",Non géocodé
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+"3, rue Michelet Université de Paris, 75006 Paris France",Non géocodé
+"Rue de Buci, 75006 Paris France",Non géocodé
+"31 Rue Notre Dame de Lorette, 75009 Paris France",Non géocodé
+Tout afficher,Non géocodé
+Tout afficher,Non géocodé
+"11 rue du Colonel Rozanoff, 75012 Paris France",Non géocodé
+"37 Bis Rue Montreuil, 75011 Paris France",Non géocodé
+"1 Place du Cardinal Amette, 75015 Paris France",Non géocodé
+"5, avenue Matignon, 75008 Paris France",Non géocodé
+"1 avenue Dutuit, 75008 Paris France",Non géocodé
+"5, rue Blainville, 75005 Paris France",Non géocodé
+"2 M Place Denfert Rochereau, 75014 Paris France",Non géocodé
+"1 Jardin des Tuileries, 75001 Paris France",Non géocodé
+"2 Route des Tribunes Hippodrome de Longchamp, 75016 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"7 Rue Louis le Grand, 75002 Paris France",Non géocodé
+"7 Rue Georges Bizet, 75116 Paris France",Non géocodé
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",Non géocodé
+"61 avenue de l'Observatoire, 75014 Paris France",Non géocodé
+"28 quai D Austerlitz, 75013 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"64 rue du Rocher, 75008 Paris France",Non géocodé
+"Place du Caire 239 Rue Saint Denis, 75002 Paris France",Non géocodé
+"36 boulevard de Clichy, 75018 Paris France",Non géocodé
+"9 rue Norvins, 75018 Paris France",Non géocodé
+"Place de la Concorde, 75008 Paris France",Non géocodé
+"6 rue Récamier, 75007 Paris France",Non géocodé
+"Rue des Petits-Carreaux, 75002 Paris France",Non géocodé
+"Place Felix Eboue, 75019 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"9 B rue Jean de Beauvais, 75005 Paris France",Non géocodé
+"Jardin des Tuileries, 75001 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"63 boulevard de Belleville, 75011 Paris France",Non géocodé
+"20 rue Cuvier, 75005 Paris France",Non géocodé
+"60 Rue Damesme, 75013 Paris France",Non géocodé
+"47 boulevard de l Hopital, 75013 Paris France",Non géocodé
+"6 Carr Gal J Paris Bollardiere, 75007 Paris France",Non géocodé
+"Quai François Mitterrand, 75001 Paris France",Non géocodé
+"Jardins du Trocadero, 75016 Paris France",Non géocodé
+"41 rue Mirabeau avenue de Versailles, 75016 Paris France",Non géocodé
+"Quai du Marché Neuf, 75004 Paris France",Non géocodé
+"34 quai D Austerlitz, 75013 Paris France",Non géocodé
+"Place de la Porte d'Auteuil, 75016 Paris France",Non géocodé
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",Non géocodé
+"Avenue Winston Churchill Cour La Reine, 75008 Paris France",Non géocodé
+"139 Rue de Belleville, 75019 Paris France",Non géocodé
+"Place Edouard-Renard, 75012 Paris France",Non géocodé
+En savoir plus sur le bien-être animal dans le tourisme,Non géocodé
+"6 rue Lucien Gaulard 18e, 75018 Paris France",Non géocodé
+"1 rue Saint Eleuthere Square Nadar, 75018 Paris France",Non géocodé
+"1 Jardin des Tuileries, 75001 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"3 Avenue du Général Eisenhower, 75008 Paris France",Non géocodé
+"2 Rue du Docteur Magnan, 75013 Paris France",Non géocodé
+"51 Rue Saint-Louis en l'Île, 75004 Paris France",Non géocodé
+"20 Rue Monge, 75005 Paris France",Non géocodé
+"56 Rue des Écoles Carré Paul Painlevé, 75005 Paris France",Non géocodé
+"Rue de Charonne, 75011 Paris France",Non géocodé
+"Boulevard Jules Ferry, 75011 Paris France",Non géocodé
+"78 rue de Lille, 75007 Paris France",Non géocodé
+"2 quai de Grenelle, 75732 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"105 Rue du Bac, 75007 Paris France",Non géocodé
+"110 rue de Turenne, 75003 Paris France",Non géocodé
+"1 Jardin des Tuileries, 75001 Paris France",Non géocodé
+"25 Rue des Francs Bourgeois, 75003 Paris France",Non géocodé
+"Cours La Reine, 75008 Paris France",Non géocodé
+Tout afficher,Non géocodé
+Visiter le site web,Non géocodé
+"9 Rue du Grand Veneur, 75003 Paris France",Non géocodé
+"Rue de Lille Parvis du Musée d'Orsay, 75007 Paris France",Non géocodé
+"12 Rue du Faubourg Saint Denis, 75010 Paris France",Non géocodé
+"36 rue Geoffroy Saint Hilaire, 75005 Paris France",Non géocodé
+"85 Quai d'Austerlitz, 75013 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"4 Place Jussieu Universite Pierre Et Marie Curie, 75005 Paris France",Non géocodé
+"1 Jardin des Tuileries, 75001 Paris France",Non géocodé
+"28 rue Buffault, 75009 Paris France",Non géocodé
+"6 Sq. de l'Opéra-Louis Jouvet, 75009 Paris France",Non géocodé
+"Quai Anatole France, 75007 Paris France",Non géocodé
+"7 rue Bachaumont, 75002 Paris France",Non géocodé
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+"7 Place André Honnorat, 75006 Paris France",Non géocodé
+Visiter le site web,Non géocodé
+"27 rue d Armaille, 75017 Paris France",Non géocodé
+"24 Rue Pavée, 75004 Paris France",Non géocodé
+"14 rue Desaix, 75015 Paris France",Non géocodé
+"94 rue Jean Pierre Timbaud, 75011 Paris France",Non géocodé
+"27 rue Gabrielle, 75018 Paris France",Non géocodé
+"Place des Etats-Unis, 75016 Paris France",Non géocodé
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+"avenue Gustave V de Suede, 75116 Paris France",Non géocodé
+"96 Boulevard Murat, 75016 Paris France",Non géocodé
+"Quai de l'Archeveche, 75004 Paris France",Non géocodé
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",Non géocodé
+"1 Place Denys Cochin, 75007 Paris France",Non géocodé
+"1 rue Victor Cousin, 75005 Paris France",Non géocodé
+"Square Rene Viviani, 75005 Paris France",Non géocodé
+"4 rue de Ponthieu, 75008 Paris France",Non géocodé
+"2 rue Mayran, 75009 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"148 rue de Bagnolet, 75020 Paris France",Non géocodé
+"6 rue de la Gaite, 75014 Paris France",Non géocodé
+"Fontaines des Jardins du Trocadéro, 75016 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Place Charles Dullin, 75018 Paris France",Non géocodé
+"Avenue du Marechal Fayolle, 75016 Paris France",Non géocodé
+"171 rue la Fayette 4 rue de l’Aqueduc, 75010 Paris France",Non géocodé
+"12 Avenue de Friedland, 75008 Paris France",Non géocodé
+"29 boulevard Haussmann, 75421 Paris France",Non géocodé
+"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",Non géocodé
+"4 rue Marie Stuart, 75002 Paris France",Non géocodé
+"19X Cours la Reine, 75008 Paris France",Non géocodé
+"10 Rue Pavée, 75004 Paris France",Non géocodé
+"14 rue des Filles du Calvaire, 75003 Paris France",Non géocodé
+"5 rue Boudreau 10 Bis rue Édouard VII, 75009 Paris France",Non géocodé
+"Place Camille Julian at the intersection of Boulevard Saint-Michel and the Avenue of the Observatory, 75006 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"11 Place du Tertre, 75018 Paris France",Non géocodé
+"110 Bis Avenue Kleber, 75116 Paris France",Non géocodé
+"1 Parvis Notre-Dame, 75004 Paris France",Non géocodé
+"Rue de rivoli Jardin des tuileries, 75001 Paris France",Non géocodé
+"3 Place Lucien Herr, 75005 Paris France",Non géocodé
+"1 Jardin des Tuileries, 75001 Paris France",Non géocodé
+"9 rue du Docteur Roux, 75015 Paris France",Non géocodé
+"188 Rue de Tolbiac, 75013 Paris France",Non géocodé
+"32 Avenue du Président Kennedy, 75016 Paris France",Non géocodé
+"128 quai de Bercy Parc de Bercy, 75012 Paris France",Non géocodé
+"Rue des Recollets Jardin Villemin, 75010 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"9 Place de la Madeleine, 75008 Paris France",Non géocodé
+"2 Place Valhubert, 75005 Paris France",Non géocodé
+"176 rue Saint Honore, 75001 Paris France",Non géocodé
+"4 rue du Pont Louis Philippe, 75004 Paris France",Non géocodé
+"19-23 rue Léon, 75018 Paris France",Non géocodé
+"intersection Rue des Ecoles et Rue Jean-de-Beauvais, 75005 Paris France",Non géocodé
+"16 rue des Belles Feuilles, 75116 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+"Square de la Tour Saint Jacques, 75004 Paris France",Non géocodé
+"Avenue Winston Churchill Sur le toit du Grand Palais, 75008 Paris France",Non géocodé
+"187 Rue de la Légion Étrangère, 75014 Paris France",Non géocodé
+"27 rue Lambert, 75018 Paris France",Non géocodé
+"14 rue Bergère, 75009 Paris France",Non géocodé
+"Place d'Italie, 75013 Paris France",Non géocodé
+"1 Jardin des Tuileries near rue de Rivoli at the entrance near the Tuileries metro station, 75001 Paris France",Non géocodé
+"47 Rue Vieille du Temple, 75004 Paris France",Non géocodé
+"136 Boulevard Raspail, 75006 Paris France",Non géocodé
+"55 rue des Francs Bourgeois, 75181 Paris France",Non géocodé
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",Non géocodé
+"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",Non géocodé
+"4, Boulevard de Strasbourg, 75010 Paris France",Non géocodé
+"14 rue d Abbeville, 75010 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"17 Cite Joly, 75011 Paris France",Non géocodé
+"2 Rue de Buzenval, 75020 Paris France",Non géocodé
+"Place Saint-Ferdinand, 75017 Paris France",Non géocodé
+"1 Place Igor Stravinsky, 75004 Paris France",Non géocodé
+"60 Rue des Francs Bourgeois, 75003 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Boulevard Auguste Blanqui Entre Place D'Italie et rue Barrault, 75013 Paris France",Non géocodé
+"Rue Geoffroy Saint-Hilaire Angle rue Cuvier, 75005 Paris France",Non géocodé
+"122 Rue de Bagnolet, 75020 Paris France",Non géocodé
+"214 Rue Lafayette, 75010 Paris France",Non géocodé
+"Rue do Rivoli Jardin des Tuileries, 75001 Paris France",Non géocodé
+"14 rue du Mont Cenis, 75018 Paris France",Non géocodé
+"61 Rue du Château d'Eau, 75010 Paris France",Non géocodé
+"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",Non géocodé
+"Place d'Italie Centre Commercial Italie 2, 75013 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"Palais Garnier  8 rue Scribe Accès Angle des Rues Scribe et Auber, 75009 Paris France",Non géocodé
+"1 Place de la Reine Astrid, 75008 Paris France",Non géocodé
+Tout afficher,Non géocodé
+Tout afficher,Non géocodé
+"2, rue Ambroise Paré, 75010 Paris France",Non géocodé
+Tout afficher,Non géocodé
+"7 impasse Marie Blanche, 75018 Paris France",Non géocodé
+"1 Jardin des Tuileries Terrasse du Bord de l'Eau, 75001 Paris France",Non géocodé
+"35 quai D Orsay, 75007 Paris France",Non géocodé
+"5 Passage Louis Philippe, 75011 Paris France",Non géocodé

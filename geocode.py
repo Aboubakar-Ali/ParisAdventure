@@ -3,7 +3,7 @@ import requests
 import json
 
 # Liste des fichiers CSV à traiter
-files_csv = ['./Scrapping/restaurants/Clean.csv', './Scrapping/activities/Clean.csv']
+files_csv = ['./Scrapping/restaurants/Clean.csv', './Scrapping/activities/Clean.csv', './Scrapping/activities/activitis_sans_doublons.csv']
 
 # Clé d'API OpenCage Data
 api_key = '6748e70e5b8344639705ca7125622a68'

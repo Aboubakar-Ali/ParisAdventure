@@ -1,11 +1,12 @@
 
 #input-container {
     margin: 10px;
+    background: #ff7787;
 }
 
 #directions-panel-1 {
     margin-top: 10px;
-    background-color: #FFEE77;
+    background: grey;
     padding: 10px;
     overflow: scroll;
     height: 200px;

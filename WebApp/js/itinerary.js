@@ -32,9 +32,21 @@ try {
               //display class map-container
               document.querySelector('.map-container').style.display = "block"
 
+              document.querySelector('.stats').style.display = "block"
+
               const address1 = response.bestItinerary[0].address
               const address2 = response.bestItinerary[1].address
               const depart = document.getElementById('depart').value
+
+              // set response.priceSpent to int
+                response.priceSpent = Math.round(response.priceSpent)
+
+              //set span with id total-price
+              document.getElementById('total-price').innerHTML = response.priceSpent
+
+              //set span with id total-time
+              document.getElementById('full-time').innerHTML = response.hoursSpent
+                
 
               var userPos = {lat: 48.856614, lng: 2.3522219}
               if (navigator.geolocation) {

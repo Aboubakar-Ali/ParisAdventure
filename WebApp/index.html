@@ -38,7 +38,7 @@
 						<div class="booking-cta">
 							<h1>In need of an "itinéraire" ?</h1>
 							<p>We got you covered ! You just need to fill the form below and we will take care of the rest !
-                We have gathered a lot of data of all the best places in Paris and we will give you the best itinerary possible that fit your needs ! 
+                			We have gathered a lot of data of all the best places in Paris and we will give you the best itinerary possible that fit your needs ! 
 							</p>
 						</div>
             <div class="map-container" style="display: none">
@@ -52,10 +52,12 @@
 					<!-- <button id="submit">Obtenir l'itinéraire</button> -->
 				</div>
 				<section class="sep">
-					<span class="price">Prix total : </span>
+					<!-- <span class="price">Prix total: </span>
 					<span id="total-price"></span>
-					<span class="time">Temps total du parcour :</span>
+					<span>€</span>
+					<span class="time">Temps total du parcours:</span>
 					<span id="full-time"></span>
+					<span>h</span> -->
 					<section>
 						<div id="directions-panel-1"></div> 
 						<div id="directions-panel-2"></div> 
@@ -76,7 +78,6 @@
 										<div class="form-group">
 											<span class="form-label">How many hours ?</span>
 
-											<label for="hours">Enter a number > 4</label>
 											<input class="form-control" type="number" id="hours" placeholder="4" min="4" required>
 										</div>
 									</div>
@@ -91,7 +92,7 @@
 									<div class="col-sm-4">
 										<div class="form-group">
 											<span class="form-label">Price</span>
-                      <input class="form-control" type="text" id="price" required>
+                      						<input class="form-control" type="text" id="price" required>
 
 											<span class="select-arrow"></span>
 										</div>
@@ -103,7 +104,7 @@
 												<option>1</option>
 												<option>2</option>
 												<option>3</option>
-                        <option>4</option>
+                        						<option>4</option>
 											</select>
 											<span class="select-arrow"></span>
 										</div>
@@ -115,6 +116,29 @@
 							</form>
 						</div>
 					</div>
+
+					<div class="stats col-md-4 col-md-pull-7 " style="display:none; top: 50px;">
+						<div class="booking-form">
+						  <!-- <div class="form-group">
+							<span class="form-label">Your position</span>
+							<input class="form-control" type="text" id="position" placeholder="Enter an address">
+						  </div> -->
+						  <div class="row" style="margin: bottom 50%;">
+							<div class="col-sm-6">
+							  <div class="form-group">
+								<span class="form-label">Time Spent</span>
+					  
+								<span class="form-control" type="number" id="full-time"></span>
+							  </div>
+							  <div class="form-group">
+								<span class="form-label">Money Spent</span>
+								<span class="form-control" type="text" id="total-price">
+							  </div>
+							</div>
+						  </div>
+						</div>
+					  </div>
+
 				</div>
 			</div>
 		</div>

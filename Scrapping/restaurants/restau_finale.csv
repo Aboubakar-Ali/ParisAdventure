@@ -1,0 +1,954 @@
+NOM,ADRESSE,NOTE,FOURCHETTE DE PRIX
+Derya,"16 Rue du Faubourg Saint Denis, 75010 Paris France","4,5",15€ - 25€
+Cinq-Mars,"De Verneuil 51 rue de Verneuil, 75007 Paris France","4,5",23€ - 43€
+Maoz Vegetarian,"8 rue Xavier Privas, 75005 Paris France","4,5","Restauration rapide, Méditerranéenne, Moyen-Orient"
+Murier,"42 rue Olivier de Serres Metro Convention, 75015 Paris France","4,5",21€ - 32€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+L'elfe assis,"48 rue Louise Michel, 92300 Levallois-Perret France","4,5",8€ - 20€
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France","4,0",10€ - 25€
+Pizza Di Gio,"48 Rue du Cherche Midi, 75006 Paris France","4,5","Italienne, Pizza, Européenne, Napolitaine, Campanie, Italie du Sud, Méditerranéenne"
+Bar à Iode - Saint Germain,"34 Boulevard Saint Germain, 75005 Paris France","4,5",5€ - 50€
+L'Atelier Roulière,"24 rue des Canettes, 75006 Paris France","4,5",30€ - 55€
+Bourgogne Sud,"14 Rue de Clichy, 75009 Paris France","4,5","Française, Européenne"
+Dalia,"93 Rue Montmartre, 75002 Paris France","4,5","Libanaise, Méditerranéenne, Moyen-Orient, Israélienne, Bars-restaurants, Saine"
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+L'Avant Comptoir,"3 carrefour de l'odéon Sixth Arrondissement, 75006 Paris France","4,5","Française, Bar à vins"
+20 Eiffel,"20 Rue De Monttessuy Paris, 75007 Paris France","4,5",24€ - 55€
+Restaurant New Dehli,"4 Passage Brady, 75010 Paris France","4,0",19€ - 37€
+Le Janissaire,"22 allee Vivaldi, 75012 Paris France","4,5","Méditerranéenne, Turque, Moyen-Orient"
+Archibon Bar à Vin,"13 rue Rougemont (Grand Rex, Grands Boulevards, Opéra), 75009 Paris France","4,5",10€ - 22€
+Canard & Champagne,"57 Passage des Panoramas, 75002 Paris France","4,5",12€ - 65€
+A Tavola,"23 rue d Aguesseau, 92100 Boulogne-Billancourt France","4,5",27€ - 34€
+Augusto Pizzeria,"14 Rue Victor Masse, 75009 Paris France","4,5",15€ - 35€
+Kitsmé,"76 Rue Des Vignoles, 75020 Paris France",,"Japonaise, Sushi, Asiatique, Brasserie gastronomique, Magasin de douceurs japonaises"
+La Table Des Oliviers,"4, Rue de l'eglise, 92200 Neuilly-sur-Seine France","4,5",40€ - 55€
+Happy Break Libanais,"6 Bis Rue Ernest Renan, 92130 Issy-les-Moulineaux France","4,5",5€ - 16€
+Pasco,"74 Boulevard De La Tour Maubourg, 75007 Paris France","4,5","Française, Européenne"
+L'Encrier by DO,"55 Rue Traversière, 75012 Paris France","4,5","Française, Européenne"
+Il Sorrentino,"4, rue de Montessuy, 75007 Paris France","4,5","Italienne, Méditerranéenne, Européenne"
+Café Francoeur,"129 Rue Caulaincourt, 75018 Paris France","4,5","Française, Bar, Café, Européenne"
+Pirouette,"5 Rue Mondetour, 75001 Paris France","4,5","Française, Européenne"
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Dulcinea,"41 Rue Pierre Fontaine, 75009 Paris France","4,5",9€ - 45€
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France","0,0",Française
+Pasqualina,"84 rue Jean le Galleu, 94200 Ivry-sur-Seine France","4,5","Italienne, Pizza, Méditerranéenne"
+Le George,"31, Avenue George V, 75008 Paris France","4,5",65€ - 110€
+7ème vin,"68 avenue Bosquet, 75007 Paris France","4,5",38€ - 58€
+Crêpe Avenue,"4 rue de Surene 75008, 75008 Paris France","4,5",5€ - 25€
+Le P'tit Barcelone,"10 Rue de La Boule Rouge, 75009 Paris France","4,5",15€ - 30€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Pouzenc,"67 rue de Charenton, 75012 Paris France","5,0","Française, Européenne"
+Matteo Pizza Paris 9 Grands Boulevards,"18 Rue Du Faubourg Montmartre, 75009 Paris France","4,5",14€ - 33€
+Comme à La Campagne,"41 Place Jeanne D'Arc, 75013 Paris France","4,5",15€ - 40€
+Le Picotin,"35 Rue Sibuet, 75012 Paris France","4,5",14€ - 30€
+Da Franco,"21 Rue Ruhmkorff, 75017 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+le Compas,"62 Rue Montorgueil, 75002 Paris France","4,0",14€ - 22€
+Pamela Popo,"15 rue Francois Miron, 75004 Paris France","4,5",30€ - 80€
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Vivre Ópera Garnier,"3 rue de la Michodière, 75002 Paris France","4,5",19€ - 39€
+Top Chef Le Bistrot,"29 Quai Gallieni, 92150 Suresnes France","4,5",13€ - 45€
+Top Chef Le Bistrot,"16 rue Princesse, 75006 Paris France","4,5","Française, Européenne"
+Bistrot Victoires,"6 rue de la Vrilliere, 75001 Paris France","4,5",9€ - 15€
+La Girafe,"6 rue de la République, 92170 Vanves France","4,5",10€ - 20€
+Thaï Nam,"23, rue des Vertus Arts Et Metiers Ou Temple Ou Republique, 75003 Paris France","4,5",10€ - 18€
+La Fresque,"100 rue Rambuteau, 75001 Paris France","4,5","Française, Européenne"
+Tamarind,"33 rue Francois Miron, 75004 Paris France","4,5",34€ - 48€
+Auberge Pyrénées Cévennes,"106 rue de la Folie Mericourt, 75011 Paris France","4,5",20€ - 70€
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+Le 14 Juillet,"99, Rue Didot, 75014 Paris France","4,5",10€ - 30€
+Comme Chai Toi - Notre Dame,"13 quai de Montebello, 75005 Paris France","4,5",25€ - 40€
+La Favorite Turbigo,"75 Rue de Turbigo, 75003 Paris France","4,5",13€ - 21€
+Spezia Piadina & Co,"23 Rue des Mathurins, 75008 Paris France","4,5",13€ - 30€
+Kitsmé,"76 Rue Des Vignoles, 75020 Paris France",,"Japonaise, Sushi, Asiatique, Brasserie gastronomique, Magasin de douceurs japonaises"
+Comme A Lisbonne,"37 rue du Roi de Sicile, 75004 Paris France","4,5","Européenne, Portugaise"
+Le Petit Chatelet,"39 Rue de la Bucherie, 75005 Paris France","4,5","Française, Européenne"
+Tzeferakos,"24 rue Monge, 75005 Paris France","4,5",Grecque
+Maison Binder,"43 Rue Hallé, 75014 Paris France","5,0",11€ - 28€
+Pleine Terre,"15 Rue de Bassano, 75116 Paris France","4,5",38€ - 95€
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Le Relais Louis XIII,"8 Rue Des Grands Augustins, 75006 Paris France","4,5","Française, Européenne"
+Braisenville,"36 rue Condorcet Proche de Montmartre et des Grands Magasins à Opéra, 75009 Paris France","4,5","Française, Européenne, Internationale, Moderne"
+Le New York,"48 Avenue De New York, 75116 Paris France","4,5",13€ - 75€
+La Cave Gourmande,"96 rue des Martyrs, 75018 Paris France","4,5","Française, Européenne"
+Blueberry Maki Bar,"6, Rue Du Sabot, 75006 Paris France","4,5",10€ - 77€
+Le cardinal,"6 Place du Cardinal Mercier, 95880 Enghien-les-Bains France","4,5","Française, Saine"
+Pouzenc,"67 rue de Charenton, 75012 Paris France","5,0","Française, Européenne"
+Matteo Pizza Paris 9 Grands Boulevards,"18 Rue Du Faubourg Montmartre, 75009 Paris France","4,5",14€ - 33€
+Comme à La Campagne,"41 Place Jeanne D'Arc, 75013 Paris France","4,5",15€ - 40€
+Le Picotin,"35 Rue Sibuet, 75012 Paris France","4,5",14€ - 30€
+le Compas,"62 Rue Montorgueil, 75002 Paris France","4,0",14€ - 22€
+Pamela Popo,"15 rue Francois Miron, 75004 Paris France","4,5",30€ - 80€
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Vivre Ópera Garnier,"3 rue de la Michodière, 75002 Paris France","4,5",19€ - 39€
+Top Chef Le Bistrot,"29 Quai Gallieni, 92150 Suresnes France","4,5",13€ - 45€
+Le Bistrot d'Henri,"16 rue Princesse, 75006 Paris France","4,5","Française, Européenne"
+Bistrot Victoires,"6 rue de la Vrilliere, 75001 Paris France","4,5",9€ - 15€
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France","4,0",10€ - 25€
+La Girafe,"6 rue de la République, 92170 Vanves France","4,5",10€ - 20€
+Thaï Nam,"23, rue des Vertus Arts Et Metiers Ou Temple Ou Republique, 75003 Paris France","4,5",10€ - 18€
+La Fresque,"100 rue Rambuteau, 75001 Paris France","4,5","Française, Européenne"
+Tamarind,"33 rue Francois Miron, 75004 Paris France","4,5",34€ - 48€
+Auberge Pyrénées Cévennes,"106 rue de la Folie Mericourt, 75011 Paris France","4,5",20€ - 70€
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+Le 14 Juillet,"99, Rue Didot, 75014 Paris France","4,5",10€ - 30€
+Restaurant New Dehli,"4 Passage Brady, 75010 Paris France","4,0",19€ - 37€
+Comme Chai Toi - Notre Dame,"13 quai de Montebello, 75005 Paris France","4,5",25€ - 40€
+La Favorite Turbigo,"75 Rue de Turbigo, 75003 Paris France","4,5",13€ - 21€
+Spezia Piadina & Co,"23 Rue des Mathurins, 75008 Paris France","4,5",13€ - 30€
+Comme A Lisbonne,"37 rue du Roi de Sicile, 75004 Paris France","4,5","Européenne, Portugaise"
+Le Petit Chatelet,"39 Rue de la Bucherie, 75005 Paris France","4,5","Française, Européenne"
+Tzeferakos,"24 rue Monge, 75005 Paris France","4,5",Grecque
+Maison Binder,"43 Rue Hallé, 75014 Paris France","5,0",11€ - 28€
+Pleine Terre,"15 Rue de Bassano, 75116 Paris France","4,5",38€ - 95€
+Le Relais Louis XIII,"8 Rue Des Grands Augustins, 75006 Paris France","4,5","Française, Européenne"
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France","0,0",Française
+Braisenville,"36 rue Condorcet Proche de Montmartre et des Grands Magasins à Opéra, 75009 Paris France","4,5","Française, Européenne, Internationale, Moderne"
+Le New York,"48 Avenue De New York, 75116 Paris France","4,5",13€ - 75€
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France","4,0",20€ - 47€
+La Cave Gourmande,"96 rue des Martyrs, 75018 Paris France","4,5","Française, Européenne"
+Blueberry Maki Bar,"6, Rue Du Sabot, 75006 Paris France","4,5",10€ - 77€
+Le cardinal,"6 Place du Cardinal Mercier, 95880 Enghien-les-Bains France","4,5","Française, Saine"
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+L'Atelier du Parc,"35 boulevard Lefebvre, 75015 Paris France","4,5",25€ - 83€
+Maihak,"102 Rue Jean Jaures Metro 7 Last Stop 2 Minuit Walk Maihak Indian Resto, 94800 Villejuif France","4,5",Indienne
+Bistrot Pas Parisien,"3 Place du Général Leclerc, 92700 Colombes France","4,0",15€ - 35€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France","4,0",10€ - 25€
+Atelier Cook And Thi,"35 Chemin De L'ariel, 78430 Louveciennes France","5,0",14€ - 45€
+Chez Jaafar,"22 rue du Sommerard Proche quartier Saint Germain, 75005 Paris France","4,5",6€ - 22€
+Prik Thai Maine,"160 avenue du Maine, 75014 Paris France","4,5",23€ - 48€
+Mouffetard Saigon's,"85 rue du Cardinal Lemoine rue des Rennes in this review should be rue de Rennes. Thank you for correcting, 75005 Paris France","4,5","Asiatique, Vietnamienne, Saine"
+Iovine's,"7Bis Rue du Colonel Driant, 75001 Paris France","4,5",20€ - 40€
+La Place Royale,"2 B Place des Vosges, 75004 Paris France","4,5",17€ - 49€
+L'Entracte Bistrot,"21 Rue Malte Brun, 75020 Paris France","4,5","Française, Européenne"
+La Grille,"13 Rue Michel Charaire, 92330 Sceaux France","4,5",22€ - 51€
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+Restaurant New Dehli,"4 Passage Brady, 75010 Paris France","4,0",19€ - 37€
+Kagayaki,"79 Boulevard Beaumarchais, 75003 Paris France","4,5",Japonaise
+L'Anvers du Décor,"32 BIS RUE D'ORSEL au pied du sacré coeur, 75018 Paris France","4,5",18€ - 45€
+La Passerelle,"172 Quai de Stalingrad, 92130 Issy-les-Moulineaux France","4,5","Française, Européenne"
+Le Moulin de la Galette,"15 rue des Moulins, 95110 Sannois France","4,5",60€ - 80€
+Bistro Volnay,"8 rue Volney, 75002 Paris France","4,5","Française, Européenne"
+Les 110 de Taillevent,"195 Rue du faubourg Saint-Honore, 75008 Paris France","4,5","Brasserie gastronomique, Française, Européenne"
+Le Petit Commines,"16 Rue Commines Le marais, 75003 Paris France","4,5","Française, Européenne, Saine"
+Fish La Boissonnerie,"69 rue de Seine, 75006 Paris, 75006 Paris France","4,5",18€ - 55€
+Le Cosy,"50 Avenue Saint-Mandé, 75012 Paris France","4,5",11€ - 22€
+Kitsmé,"76 Rue Des Vignoles, 75020 Paris France",,"Japonaise, Sushi, Asiatique, Brasserie gastronomique, Magasin de douceurs japonaises"
+Mensae,"23 rue Melingue, 75019 Paris France","4,5","Française, Européenne"
+Le Louis Vins,"9 Rue de la Montagne Sainte Genevieve, 75005 Paris France","4,5",20€ - 80€
+Mi Ranchito Paisa,"35, rue Monthlon, 75009 Paris France","4,0",6€ - 35€
+Pizzeria Le Capri,"17 Rue Fernand Combette, 93100 Montreuil France","5,0",13€ - 20€
+Le Temps des cerises,"Marais 31 rue de la Cerisaie, 75004 Paris France","4,5",9€ - 37€
+Xin Gainian,"55 rue Dauphine, 75006 Paris France","4,5","Chinoise, Asiatique, Vietnamienne"
+Restaurant Le Meurice Alain Ducasse,"228 Rue de Rivoli, 75001 Paris France","4,5",Française
+Le Christine,"1 rue Christine, 75006 Paris France","4,5",28€ - 65€
+Le Timgad,"37 rue de l Alma, 92400 Courbevoie, La Defense France","4,5","Marocaine, Méditerranéenne, Moyen-Orient, Tunisienne"
+Bistrot Richelieu,"45 rue de Richelieu, 75001 Paris France","4,5","Française, Européenne"
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+La Bauhinia,"10 avenue d'Iena Shangri-La Hotel Lobby Level and Mezzanine, 75116 Paris France","4,5",44€ - 120€
+Gloria Restaurant,"108 Rue Saint Dominique, 75007 Paris France","4,5","Italienne, Méditerranéenne, Européenne"
+Da Franco,"21 Rue Ruhmkorff, 75017 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+Brasserie Rosie,"53 rue du Faubourg Saint Antoine, 75011 Paris France","4,5",13€ - 25€
+Quinte & Sens,"11 Avenue de l'Arche, 92081 Courbevoie, La Defense France","4,5",Bar
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+La Cantine du Troquet Pernety,"101 Rue de L’Ouest, 75014 Paris France","4,5",25€ - 35€
+Salento Montmartre,"48 Rue Condorcet, 75009 Paris France","4,5",14€ - 35€
+Camélia,"251 rue Saint-Honoré Hôtel Mandarin Oriental, 75001 Paris France","4,5","Française, Européenne"
+Aux Anysetiers Du Roy Restaurant,"61 rue Saint Louis en L Ile, 75004 Paris France","4,5","Française, Européenne"
+BIANCA,"2 Rue du Quatre Septembre, 75002 Paris France","4,5","Italienne, Ligurienne, Italie du Nord, Européenne"
+Le Chef Thaï,"59, Rue des Gravilliers 75003 Paris, 75003 Paris France","4,5","Asiatique, Thaï"
+MERSEA Beaupassage,"53-57 Rue de Grenelle, 75007 Paris France","4,5",12€ - 20€
+Café Jean,"181 Avenue Jean Jaurès Near Cite de Sciences, 75019 Paris France","4,5","Café, Européenne, Diner, Française, Bar"
+Casa Vina,"6 rue Rampon, 75011 Paris France","4,5","Italienne, Pizza, Méditerranéenne, Européenne"
+Barock's,"25 rue Diderot 25 rue Diderot, 92140, Issy-les-Moulineaux, Hauts-de-Seine, Île-de-France, 92130 Issy-les-Moulineaux France","4,5","Française, Européenne"
+La robe de la Girafe,"5 rue Froment, 75011 Paris France","4,5",7€ - 16€
+Plantxa,"58 Rue Gallieni, 92100 Boulogne-Billancourt France","4,5",16€ - 45€
+La table de Cybèle,"38 rue de meudon, 92100 Boulogne-Billancourt France","4,0",24€ - 43€
+Monjul,"28 rue des Blancs Manteaux, 75004 Paris France","4,5",43€ - 43€
+Bonhomme,"58 Rue Du Faubourg Poissonnière, 75010 Paris France","4,5",10€ - 28€
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France","4,0",20€ - 47€
+Le Clarence,"31, Avenue Franklin D. Roosevelt, 75008 Paris France","4,5",130€ - 350€
+Shang Palace,"10 Avenue D'Iena, 75116 Paris France","4,5",66€ - 157€
+Le Hérisson,"78 Boulevard de Belleville, 75020 Paris France","5,0",9€ - 22€
+Le Jules Verne,"Avenue Gustave Eiffel Eiffel Tower - 2nd floor, 75007 Paris France","4,0",Française
+La Part des Anges,"10 Rue Garreau, 75018 Paris France","4,5",14€ - 30€
+Dandy Kitchen,"86 rue Saint Denis Dandy Hotel & Kitchen, 75001 Paris France","4,0",22€ - 51€
+Le Bon Georges,"45 rue Saint Georges, 75009 Paris France","4,5",17€ - 76€
+Fujiyaki japonais,"15 rue de la roquette Place bastille, 75011 Paris France","4,5",8€ - 25€
+Evi Evane,"10 Rue Guisarde, 75006 Paris France","4,5",21€ - 46€
+Fric Frac Montmartre,"4 Rue Des Trois Frères, 75018 Paris France","4,5",9€ - 23€
+L'imprevu,"94 avenue Anatole France, 94400 Vitry-sur-Seine France","4,5",Française
+Afaria,"15 rue Desnouettes, 75015 Paris France","4,0",22€ - 48€
+Sapristi,"20 Boulevard du Maréchal Foch, 92500 Rueil-Malmaison France","4,5",14€ - 33€
+Gandhi Ji's,"12 rue la Fayette, 75009 Paris France","4,0",14€ - 19€
+Le Marjolin,"46, Rue Marjolin, 92300 Levallois-Perret France","4,5",18€ - 29€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Le Medaillon,"85, Avenue Republique, 94800 Villejuif France","4,5",28€ - 50€
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+Le Papillon,"144 Rue de Bagnolet, 75020 Paris France","4,5",11€ - 27€
+Little Red Door,"60 rue Charlot, 75003 Paris France","4,5","Ouvert tard, Boissons"
+Soon Restaurant,"8e Arrondissement 20 rue Jean Mermoz, 75008 Paris France","4,5","Asiatique, Coréenne"
+Gabylou,"15 rue d Armaille, 75017 Paris France","4,5","Française, Européenne"
+Le Grand Restaurant Jean françois Piège,"7 Rue d'Aguesseau, 75008 Paris France","4,5",104€ - 146€
+Au Virage Lepic,"61 rue Lepic, 75018 Paris France","4,5","Française, Européenne"
+Le Speakeasy,"25 rue Jean Giraudoux, 75016 Paris France","4,0",18€ - 40€
+Kohyang,"6 rue Géneral Estienne, 75015 Paris France","4,5",19€ - 47€
+BLACK PINKY,"30 B rue de la Gaite, 75014 Paris France","4,5","Asiatique, Thaï, Vietnamienne, Indonésienne, cambodgienne"
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+La Cantine de Quentin,"90 Rue de Prony, 75017 Paris France","4,5",17€ - 43€
+Chameleon Restaurant,"70, rue René Boulanger Gare de l'Est ou Strasbourg Saint Denis, 75010 Paris France","4,5",17€ - 42€
+Asia Bo bun,"41 rue de Lappe, 75011 Paris France","4,5","Asiatique, Vietnamienne"
+Restaurant Cléo,"19 boulevard de la Tour Maubourg, 75007 Paris France","4,5",37€ - 140€
+Frenchie - Rue du Nil,"5 rue du Nil, 75002 Paris France","4,5",70€ - 125€
+Le Violon d'Ingres,"135 Rue Saint Dominique, 75007 Paris France","4,5",46€ - 140€
+LE RELAIS GASCON,"6 rue des Abesses Montmartre, 75018 Paris France","4,5",9€ - 27€
+Tesoro D'Italia,"65 boulevard Saint Marcel, 75013 Paris France","4,5",9€ - 25€
+Les Affranchis,"5 rue Henry Monnier, 75009 Paris France","4,5",75€ - 100€
+Kitsmé,"76 Rue Des Vignoles, 75020 Paris France",,"Japonaise, Sushi, Asiatique, Brasserie gastronomique, Magasin de douceurs japonaises"
+Simonetta Restaurant,"32 quai de la Marne, 75019 Paris France","4,5",8€ - 18€
+Brasserie Baroche,"101 rue la Boetie, 75008 Paris France","4,0",22€ - 72€
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Robert et Louise,"64 rue Vieille du Temple, 75003 Paris France","4,0","Française, Steakhouse, Européenne"
+Au Bougnat,"26 rue Chanoinesse, 75004 Paris France","4,5",19€ - 39€
+Dandy Kitchen,"86 rue Saint Denis Dandy Hotel & Kitchen, 75001 Paris France","4,0",22€ - 51€
+Certa,"5 rue de l Isly, 75008 Paris France","4,0","Française, Bar, Européenne"
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France","4,0",20€ - 47€
+La Bourgogne,"164 Rue Jean Jaurès, 94700 Maisons-Alfort France","4,5",40€ - 65€
+Les Tables d'Augustin,"44 rue Guy Moquet, 75017 Paris France","4,5",13€ - 39€
+Nonna et Nonno,"1 Centre Commercial les Arcades Centre Commercial Les Arcades Niveau 2, 93160 Noisy-le-Grand France","4,5",9€ - 15€
+Maison Pinsa,"8 rue du Faubourg Poissonnière, 75010 Paris France","5,0","Italienne, Saine, Pizza"
+Pause Bobun,"3 rue Buffon, 75005 Paris France","4,5",10€ - 22€
+Tra di Noi Vasco De Gama,"5 rue Vasco de Gama Restaurant, 75015 Paris France","4,5",20€ - 40€
+La Grotte de Chypre,"85 rue Mouffetard, 75005 Paris France","5,0",6€ - 10€
+Restaurant Akrame,"7 rue Tronchet, 75008 Paris France","4,5","Française, Européenne"
+Sur Mesure par Thierry Marx,"251 Rue Saint-Honoré, 75001 Paris France","4,5","Française, Européenne"
+Da Franco,"21 Rue Ruhmkorff, 75017 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+A l'Endroit,"9 rue du Tunnel, 75019 Paris France","4,5",40€ - 60€
+Le Bistrot de Charenton,"123 Rue de Paris, 94220 Charenton-le-Pont France","4,5",20€ - 40€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Ristorante Adaggio,"207 rue la Fayette, 75010 Paris France","4,5",15€ - 30€
+L'Apibo,"31, Rue Tiquetonne, 75002 Paris France","4,5",20€ - 55€
+Perchiana,"7 rue Mademoiselle, 75015 Paris France","4,5","Saine, Moyen-Orient, Perse, Grillades"
+Gemini Odéon,"9 rue Monsieur le Prince, 75006 Paris France","4,5",10€ - 18€
+Flottes,"2 Rue Cambon, 75001 Paris France","4,0",25€ - 50€
+Tesoro d'Italia,"41 rue de Paradis, 75010 Paris France","4,5",10€ - 35€
+Le Jourdain,"101, Rue Des Couronnes, 75020 Paris France","4,5",20€ - 40€
+L'Abreuvoir,"24 Rue du docteur Finlay, 75015 Paris France","4,5",17€ - 19€
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+Bien Bien,"30 bis, rue Bergère, 75009 Paris France","4,5",21€ - 28€
+Le Faubourg,"38 Boulevard De Pesaro, 92000 Nanterre, La Defense France","5,0",14€ - 35€
+Tour d'Argent,"15, Quai De La Tournelle, 75005 Paris France","4,5",85€ - 300€
+Tomy & Co,"22 rue Surcouf, 75007 Paris France","4,5","Française, Européenne"
+Fanfan,"18 Rue Bayen, 75017 Paris France","4,5",35€ - 95€
+Coin-OP Table,"17 Rue de Maubeuge, 75009 Paris France","5,0",9€ - 38€
+Sourire tapas françaises,"27 Rue Galande, 75005 Paris France","4,5",25€ - 40€
+L'Atelier Artisan Crêpier,"10 Rue Mabillon, 75006 Paris France","4,0",4€ - 21€
+Il Forno Di Napoli,"162 Boulevard du Montparnasse Ouvert Le Dimanche, 75014 Paris France","4,5","Italienne, Pizza, Méditerranéenne, Européenne, Napolitaine, Campanie, Italie du Sud"
+Le Soufflé,"36 rue du Mont Thabor, 75001 Paris France","4,5",15€ - 45€
+L’Ours,"10/12, rue de l’Église, 94300 Vincennes France","4,5",Française
+Le Carpaccio,"4 Rue de Berri, 75008 Paris France","4,5","Italienne, Européenne, Romana, Latium, Italie du Centre"
+Paris-Breizh Place d’Italie,"166 Boulevard Vincent Auriol, 75013 Paris France","4,5",15€ - 22€
+Les petites bouchées,"4 rue du Roi de Sicile, 75004 Paris France","4,5",14€ - 20€
+La Rughetta,"41 rue Lepic Montmartre, Abbeses, 75018 Paris France","4,5",12€ - 35€
+Le Bar de Jarente,"5 Rue de Jarente Marais, 75004 Paris France","4,5",25€ - 40€
+Le Petit Littré,"16 Rue Littre, 75006 Paris France","4,5","Française, Européenne"
+Kaplan Paris,"20 Rue Cherche Midi, 75006 Paris France","5,0",10€ - 25€
+Sur la route de Plouescat,"4 rue Lamarck, 75018 Paris France","4,5",10€ - 26€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Il Pomod'oro,"340 Rue Saint Jacques 340 rue saint Jacques, 75005 Paris France","4,5",10€ - 25€
+Les Poulettes Batignolles,"10 rue de Cheroy, 75017 Paris France","4,5","Française, Européenne, Espagnole"
+Bistrot de L'Oulette,"38 Rue des Tournelles Bastille, Place des Vosges, Chemin vert, Opera de Bastille, 75004 Paris France","4,5",17€ - 45€
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Anicia,"97 Rue du Cherche Midi, 75006 Paris France","4,5",29€ - 55€
+Le Coupe Gorge,"2, Rue de la Coutellerie, 75004 Paris France","4,5",18€ - 26€
+Papelli,"74 Rue du Faubourg Saint Denis, 75010 Paris France","4,5",12€ - 18€
+Papy aux Fourneaux,"70 rue de l ouest Montparnasse-Gaîté-Pernety, 75014 Paris France","4,5",19€ - 37€
+LES TANTES JEANNE,"42 rue Veron, 75018 Paris France","4,5",50€ - 160€
+La Maison du Jardin,"27 rue de Vaugirard, 75006 Paris France","4,5","Française, Européenne"
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+Chez Eugène,"17 Place du Tertre, 75018 Paris France","4,5","Française, Bar, Européenne"
+Il Farniente,"250 rue du Faubourg Saint Antoine, 75012 Paris France","4,5",15€ - 30€
+Brasserie Bellanger,"140 rue du Faubourg Poissonniere, 75010 Paris France","4,5",10€ - 22€
+My Noodles,"129 boulevard du Montparnasse, 75006 Paris France","4,5","Chinoise, Asiatique, Soupes"
+Il était une Oie dans le Sud Ouest,"8 rue Gustave Flaubert, 75017 Paris France","4,5","Française, Européenne"
+Bistrot l'Olivier,"88 rue Ordener, 75018 Paris France","4,5","Française, Européenne"
+Papa Poule,"23 rue des Taillandiers, 75011 Paris France","4,5","Française, Saine"
+Mamie Chérie,"16 Rue De Candie, 75011 Paris France","4,5",17€ - 26€
+La Forge,"26 avenue Mathurin Moreau, 75019 Paris France","4,5","Française, Européenne"
+Loufoque,"57 rue Galande, 75005 Paris France","5,0",11€ - 23€
+La Vittoria,"173 Rue du Temple, 75003 Paris France","5,0",12€ - 20€
+Bistrot des Vosges,"31 Boulevard Beaumarchais Bastille/Marais, 75004 Paris France","4,5",14€ - 45€
+L'Italien,"40 rue de Ponthieu, 75008 Paris France","4,5",14€ - 50€
+Fanfan,"18 Rue Bayen, 75017 Paris France","4,5",35€ - 95€
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Le Cornichon,"34 Rue Gassendi, 75014 Paris France","4,5",35€ - 55€
+Les Rupins,"35 boulevard de Magenta Angle Boulevard de Magenta et Rue de Nancy, 75010 Paris France","4,5",20€ - 40€
+Via Del Campo,"22 rue du Champ de Mars Numero de la suite, intersection, place, 75007 Paris France","5,0",25€ - 80€
+Sola,"12 Rue de l'Hotel Colbert, 75005 Paris France","4,5",98€ - 150€
+Pottoka,"4 Rue de l' Exposition, 75007 Paris France","4,5","Française, Européenne, Saine"
+Restaurant Karma,"24 rue Traversiere, 75012 Paris France","4,5",10€ - 20€
+IZU,"7 rue Véronèse, 75013 Paris France","4,5",8€ - 35€
+Maison Rostang,"20,Rue Rennequin, 75017 Paris France","4,5",90€ - 285€
+Kémia paris,"1 rue Bergere, 75009 Paris France","5,0",25€ - 45€
+L'Ange 20 Restaurant,"44 Rue des Tournelles, 75004 Paris France","4,5",38€ - 42€
+Astair,"19 Passage des Panoramas Intersection entre la Galerie des Variétés et le Passage des Panoramas, 75002 Paris France","4,5",20€ - 50€
+Palais du Bonheur,"131 Rue Michel-Ange, 75016 Paris France","4,5",15€ - 35€
+Le Barav,"6 rue Charles Francois Dupuis, 75003 Paris France","4,5","Française, Bar à vins"
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Le Sagittaire,"77 rue Lamarck, 75018 Paris France","4,5","Française, Européenne"
+Meriggio,"3 Rue Rougemont, 75009 Paris France","4,5",18€ - 45€
+Et Toque !,"7 rue Emile Duclaux, 92150 Suresnes France","4,5",19€ - 60€
+Baosian,"67 Rue du Faubourg Montmartre, 75009 Paris France","5,0",10€ - 20€
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+Le Ruisseau Burger Joint,"22 rue Rambuteau, 75003 Paris France","4,5",10€ - 15€
+Le Taillevent,"15 Rue Lamennais, 75008 Paris France","4,5",52€ - 110€
+Colvert,"30 Rue des Grands Augustins, 75006 Paris France","4,5",29€ - 60€
+Étude,"14 rue du Bouquet de Longchamp, 75116 Paris France","4,5",75€ - 160€
+A Côté,"16 Rue La Fayette, 75009 Paris France","4,5",70€ - 180€
+Papajazzclub,"3, Rue Saint Benoit, 75006 Paris France","4,5",26€ - 60€
+Kuccini,"165 Rue St Denis, 75002 Paris France","4,5",9€ - 29€
+Le Jeroboam,"72 rue Didot, 75014 Paris France","4,5",10€ - 30€
+Le Bayadère,"35 rue de Berri, 75008 Paris France","5,0",27€ - 34€
+Le Chefson,"17 rue Charles Chefson, 92270 Bois Colombes France","4,5","Française, Européenne"
+Redd,"28 rue Saint Sauveur, 75002 Paris France","4,5",3€ - 30€
+La Vittoria,"173 Rue du Temple, 75003 Paris France","5,0",12€ - 20€
+Neva Cuisine,"2 Rue de Berne, 75008 Paris France","4,5",Française
+Le Colimaçon,"44, rue Vieille du Temple Le Marais, 75004 Paris France","4,5",49€ - 79€
+Fanfan,"18 Rue Bayen, 75017 Paris France","4,5",35€ - 95€
+Le Petit Baigneur,"10 rue de la Sabliere, 75014 Paris France","4,5","Française, Européenne, Saine"
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Damigiana,"56 rue Jean Jacques Rousseau, 75001 Paris France","4,5",16€ - 50€
+Salento Marais,"6 rue de Jarente, 75004 Paris France","4,5",14€ - 35€
+Assanabel,"6 rue d Alesia, 75014 Paris France","4,5","Libanaise, Méditerranéenne, Moyen-Orient"
+Gelateria Verdi Pizza Parma,"1 rue du General Gallieni, 93110 Rosny-sous-Bois France","4,5","Italienne, Pizza"
+Les Bougresses,"6 rue de Jarente, 75004 Paris France","4,5","Française, Européenne"
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France","4,0",20€ - 47€
+Shiro,"168 Boulevard Saint-Germain, 75006 Paris France","4,5",Japonaise
+Tifinagh Restaurant,"17 avenue Rachel, 75018 Paris France","4,5","Française, Européenne"
+Il Modigliani,"172 rue du Faubourg Saint Antoine, 75012 Paris France","4,5","Italienne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud, Européenne"
+Racines Des Près,"1 rue de Gribeauval, 75007 Paris France","4,5","Française, Européenne"
+Le Pré Catelan,"Route De Suresnes - Bois De Boulogne, 75116 Paris France","4,5","Française, Européenne"
+Phillipe Excoffier,"18 Rue de l'Exposition, 75007 Paris France","4,5",29€ - 65€
+La Petite Auberge,"13 rue du Hameau, 75015 Paris France","4,5","Française, Européenne"
+Da Franco,"21 Rue Ruhmkorff, 75017 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+Restaurant Gastronomique Louis,"23 Rue de la Victoire, 75009 Paris France","4,5",45€ - 117€
+Chez Quyen-Chi,"53 avenue de la Division Leclerc A côté de la caserne des pompiers sur la nationale 20, 92160 Antony France","5,0",10€ - 30€
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France","4,0",10€ - 25€
+Les Saveurs d'Abyssinie,"1, Rue de L'Arbalete, 75005 Paris France","4,5",12€ - 17€
+CHEZ MAXENCE,"52 Rue Legendre, 75017 Paris France","4,5","Française, Européenne"
+Léandrés  Happy Food & Coffee,"78 Rue de Maubeuge Façade Bleu, 75009 Paris France","5,0",9€ - 19€
+Au Doux Raisin,"29 rue Descartes, 75005 Paris France","4,5","Française, Européenne, Bar à vins"
+Oi Sushi,"8 Rue Mouffetard, 75005 Paris France","4,5",8€ - 20€
+Freddy's,"54 Rue de Seine, 75006 Paris France","4,5","Française, Européenne, Bar à vins"
+Crêperie Gigi,"4 Rue de la Corderie, 75003 Paris France","4,5",15€ - 30€
+Le Vaisseau Vert,"10, Rue de Parme, 75009 Paris France","4,5",17€ - 50€
+Alléno Paris,"8 Avenue Dutuit Champs-Élysées, 75008 Paris France","4,5",275€ - 387€
+Il Farniente,"1 rue Paul Fort, 75014 Paris France","4,5",15€ - 30€
+La Vittoria,"173 Rue du Temple, 75003 Paris France","5,0",12€ - 20€
+Frederic Simonin,"25 rue Bayen, 75017 Paris France","4,5",75€ - 150€
+Les Embruns,"8 rue de Lyon, 75012 Paris France","4,5","Française, Européenne"
+Galette Café,"2 Rue de l'Université Saint Germain des Près, 75007 Paris France","4,5",7€ - 15€
+A La Maison,"128 Avenue du General de Gaulle ., 94500 Champigny-sur-Marne France","4,5",19€ - 33€
+L'Oiseau Blanc Restaurant,"19 avenue Kleber 6ème Etage, 75116 Paris France","4,5",75€ - 185€
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Auberge des Arcades,"134 Avenue du Général Leclerc, 78220 Viroflay, Versailles France","4,5","Française, Bar, Européenne"
+Lylee,"4 rue Beaugrenelle intersection Rue Linois, 75015 Paris France","5,0",10€ - 15€
+Circonstances,"174 rue Montmartre, 75002 Paris France","4,5","Française, Européenne"
+Le Physalis,"47, avenue Henri Ginoux, 92120 Montrouge France","4,0",27€ - 33€
+Le Potager de Charlotte,"12 Rue de la Tour d'Auvergne, 75009 Paris France","4,5","Française, Européenne, Saine"
+Don Giovanni,"11 Place du General de Gaulle, 92330 Sceaux France","4,0",21€ - 48€
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France","4,0",20€ - 47€
+Nossa Churrasqueira,"1 Rue de l'Ecole Polytechnique, 75005 Paris France","4,5",8€ - 15€
+Sizin,"47 rue Saint Georges, 75009 Paris France","4,5","Méditerranéenne, Turque, Moyen-Orient"
+Le Butcher,"36 Rue de Berri, 75008 Paris France","4,5",9€ - 17€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Le Saint Joseph,"100 boulevard de la Republique, 92250 La Garenne-Colombes France","4,5",20€ - 45€
+Le Refuge du Passé,"32 Rue du Fer A Moulin Les Gobelins, 75005 Paris France","4,5",17€ - 50€
+Le Concert de Cuisine,"14 rue Nelaton, 75015 Paris France","4,5","Japonaise, Asiatique"
+La Petite Bretonne,"48 rue Mouffetard Métro: Monge ou Cardinal Lemoine, 75005 Paris France","4,5",12€ - 20€
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Di Carla,"4, avenue Carnot, 75017 Paris France","4,5",15€ - 22€
+Bistro du terroir,"21 avenue de la Paix, 94260 Fresnes France","4,5",14€ - 29€
+Le Petit Marché,"9 Rue de Béarn, 75003 Paris France","4,5","Française, Européenne, Fusion"
+Le Petit Medicis,"13 Rue de Medicis Numero de la Suite, Intersection, Place, 75006 Paris France","4,5",15€ - 28€
+Chez Léon,"32 Rue Legendre, 75017 Paris France","4,5",17€ - 32€
+Siseng,"82 quai de Jemmapes, 75010 Paris France","4,5","Asiatique, Thaï, Saine"
+L'estrapade,"15 Rue Estrapade, 75005 Paris France","4,5",20€ - 55€
+Under The Sea Restaurant - Ephemera,"160 Avenue De France, 75013 Paris France","4,5",7€ - 14€
+Les Enfants Perdus,"9 Rue des Recollets, 75010 Paris France","4,5","Française, Européenne"
+Restaurant Chinois Di-Choulie A Paris,"11 rue Primatice A 2 Min. A Pied de la Place D'italie a Paris 13eme, 75013 Paris France","4,5","Chinoise, Asiatique"
+La Vittoria,"173 Rue du Temple, 75003 Paris France","5,0",12€ - 20€
+Hugo,"12 Rue Papillon, 75009 Paris France","4,5",16€ - 30€
+Magokoro,"33 Rue Lamartine, 75009 Paris France","4,5","Japonaise, Asiatique"
+Bien Eleve,"47 Rue Richer, 75009 Paris France","4,5",14€ - 50€
+Le Baudelaire,"6-8 Rue Duphot, 75001 Paris France","4,5",42€ - 145€
+Au Bon Coin,"21 Rue de la Collegiale Gobelins, 75005 Paris France","4,5",20€ - 37€
+Pizzawawa,"35 rue Saint Honore, 75001 Paris France","4,5",20€ - 38€
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Le Café de Mars,"11 Rue Augereau, 75007 Paris France","4,5",21€ - 35€
+Thai Papaya,"51 rue des 5 Diamants, 75013 Paris France","4,5","Asiatique, Thaï"
+Sanukiya,"9 rue d Argenteuil, 75001 Paris France","4,5","Japonaise, Asiatique"
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France","0,0",Française
+Le Saigon d'Antan,"rue Monsieur le Prince, 75006 Paris France","4,5",15€ - 25€
+Moustache,"3, rue Sainte-Beuve A côté du quartier Vavin et du théâtre du Lucernaire, proche Montparnasse et Jardin du Luxembourg, 75006 Paris France","4,5",25€ - 50€
+Restaurant Florina,"47 boulevard de Port Royal, 75013 Paris France","5,0",18€ - 44€
+Kaplan Paris,"20 Rue Cherche Midi, 75006 Paris France","5,0",10€ - 25€
+Les Botanistes,"11 B rue Chomel, 75007 Paris France","4,5","Française, Européenne"
+Au fil des saisons,"6, Rue des Fontaines du Temple, 75003 Paris France","4,5",25€ - 29€
+L'Antre Amis,"9 Rue Bouchut, 75015 Paris France","4,5",34€ - 50€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Da Franco,"21 Rue Ruhmkorff, 75017 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+L'Iliade,"59 rue de Belleville, 75019 Paris France","4,5","Méditerranéenne, Européenne, Turque, Grecque"
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Caius,"6 rue d Armaille, 75017 Paris France","4,5","Française, Européenne"
+Janna,"13 Rue Denis Poisson, 75017 Paris France","4,5","Libanaise, Méditerranéenne, Moyen-Orient"
+Restaurant David Toutain,"29 rue Surcouf, 75007 Paris France","4,5",150€ - 290€
+Elmer,"30 rue Notre Dame de Nazareth, 75003 Paris France","4,5",35€ - 65€
+Ayako Teppanyaki,"67 rue de l ouest, 75014 Paris France","4,5",Japonaise
+Le Pavillon de la Grande Cascade,"Allée de Longchamp Bois de Boulogne, 75116 Paris France","4,5",80€ - 237€
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+Au Petit Riche,"25 Rue le Peletier 75009, 75009 Paris France","4,0",26€ - 50€
+Karamna,"77 rue Boissiere, 75116 Paris France","5,0",6€ - 23€
+L'Astrance,"32 rue de Longchamp, 75016 Paris France","4,5",90€ - 370€
+Le Sens Unique,"47 Rue de Ponthieu, 75008 Paris France","4,5",20€ - 50€
+Le Hide,"10 Rue du General Lanrezac, 75017 Paris France","4,5",Française
+Les Climats,"41 Rue de Lille, 75007 Paris France","4,5",36€ - 150€
+6 New York,"6 Avenue de New York, 75016 Paris France","4,5",30€ - 70€
+Hugo&Co,"48 Rue Monge, 75005 Paris France","4,5",20€ - 42€
+Prive de dessert Aligre,"7 rue Theophile Roussel, 75012 Paris France","4,5",14€ - 35€
+Spiga,"4 rue Parrot, 75012 Paris France","4,5",6€ - 22€
+Caffe Stern,"47 Passage des Panoramas, 75002 Paris France","4,5","Italienne, Méditerranéenne, Européenne"
+Nomicos (ex- Les Tablettes),"16 avenue Bugeaud, 75116 Paris France","4,5","Française, Européenne"
+Verjus,"52 rue de Richelieu dans le passage Beaujolais, 75001 Paris France","4,5","Française, Européenne, Moderne"
+L'Ebauchoir,"43 rue Citeaux, 75012 Paris France","4,5",13€ - 45€
+Les Inséparables,"12, Rue Francoeur Metro Jules Joffrin ou Lamarck Caulaincourt, 75018 Paris France","4,5",25€ - 40€
+Oplato,"69 rue de Charonne, 75011 Paris France","4,5",9€ - 47€
+Restaurant Clémentine,"5, rue St.-Marc, 75002 Paris France","4,5",25€ - 50€
+Del Pozzo,"2 avenue de Paris, 94300 Vincennes France","4,5",Méditerranéenne
+New Balal,"25 rue Taitbout, 75009 Paris France","4,5",20€ - 25€
+Dandy Kitchen,"86 rue Saint Denis Dandy Hotel & Kitchen, 75001 Paris France","4,0",22€ - 51€
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France","0,0",Française
+Qui Plume La Lune,"50 Rue Amelot, 75011 Paris France","4,5",45€ - 130€
+Creperie Paris Breizh Daumesnil,"177 avenue Daumesnil, 75012 Paris France","4,5",15€ - 22€
+Le Coryllis,"85 Rue Martyrs 85 rue des Martyrs, 75018, Paris, Île-de-France, 75018 Paris France","4,5",13€ - 35€
+Distrito Frances,"10, Rue du Faubourg Saint Martin Restaurant Distrito Francés, 75010 Paris France","4,5",6€ - 24€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Rouge Bis,"7 Place Blanche 2 Rue de Bruxelles, 75009 Paris France","4,5",20€ - 25€
+La Cantina,"11 Rue Claude Terrasse, 75016 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Napolitaine, Campanie, Toscane, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+Kheak & Véro,"1 rue Alexandre Parodi, 75010 Paris France","4,5","Asiatique, Thaï, Vietnamienne"
+Cedars,"101 Avenue Jean Jaurès, 75019 Paris France","4,5",9€ - 14€
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Guibine,"44 rue Sainte Anne, 75002 Paris France","4,5",21€ - 62€
+A la Biche au bois,"45 Avenue Ledru-Rollin Metro Gare de Lyon sortie numero 1, 75012 Paris France","4,5",19€ - 37€
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France","4,0",10€ - 25€
+La Gazette,"28 Rue Duret, 75116 Paris France","4,5",22€ - 75€
+Le Triskell,"17, Avenue Albert 1er, 95600 Eaubonne France","4,5",10€ - 30€
+Le Refuge des Moines,"85 rue des Moines, 75017 Paris France","4,5",20€ - 26€
+Ty Galettes,"218 rue de Vaugirard, 75015 Paris France","5,0",9€ - 15€
+RoofTop Molitor,"6, avenue de la Porte Molitor, 75016 Paris France","4,0","Française, Européenne"
+Ristorante Pizzeria Doni,"45 avenue Paul Doumer, 93330 Neuilly-sur-Marne France","4,5",Italienne
+Wrap 'N Roll Sushi,"10 rue de Budapest, 75009 Paris France","4,5","Japonaise, Sushi, Asiatique"
+BAĀGAĀ Trocadéro,"54 rue de Longchamp, 75116 Paris France","4,5",12€ - 20€
+L'Escargot 1903,"18 Rue Charles Lorilleux, 92800 Puteaux, La Defense France","4,5",30€ - 80€
+La Vache Acrobate,"rue Amelot, 75011 Paris France","4,5",27€ - 34€
+Tentazioni,"86 Bis Rue Lepic métro ligne 12 : Abbesses, Lamarck-Caulaincourt ; métro ligne 2 : Blanche, Pigalle, 75018 Paris France","4,5",21€ - 34€
+Kitsmé,"76 Rue Des Vignoles, 75020 Paris France",,"Japonaise, Sushi, Asiatique, Brasserie gastronomique, Magasin de douceurs japonaises"
+Sorza,"51 Rue Saint Louis, 75004 Paris France","4,5",20€ - 50€
+Villa Verdi,"42 B avenue de Suffren, 75015 Paris France","4,5",10€ - 30€
+Bissac,"10, Rue de la Bourse 10, Rue de la Bourse, 75002 Paris France","4,5",19€ - 50€
+Melt Oberkampf,"74 Rue de la Folie Méricourt, 75011 Paris France","4,5",15€ - 35€
+The Hardware Societe Paris,"10 rue Lamarck, 75018 Paris France","4,5","Café, Internationale, Européenne, Australienne"
+Sesame & Sel,"11 B rue Roger Salengro 94270, 94270 Le Kremlin-Bicêtre France","4,5","Asiatique, Coréenne"
+Eggs & Co,"11 rue Bernard Palissy, 75006 Paris France","4,5","Française, Européenne, Saine"
+Obel Mamma,"5 Rue Carnot, 95160 Montmorency France","5,0","Italienne, Saine, Toscane, Italie du Centre"
+Paris Follie's,"74 avenue Kleber, 75116 Paris France","4,5","Française, Bar, Européenne, Brasserie gastronomique"
+Les Retrouvailles,"7 rue du Conservatoire Hotel de Nell, 75009 Paris France","4,5",39€ - 39€
+Kaplan Paris,"20 Rue Cherche Midi, 75006 Paris France","5,0",10€ - 25€
+Chez Germaine,"30 rue Pierre Leroux, 75007 Paris France","4,5",18€ - 50€
+Bistrot Chic,"54 Av. Félix Faure, 75015 Paris France","4,5","Française, Saine, Café, Européenne, Pub, Brasserie gastronomique, Bars-restaurants"
+L'Express de Lyon,"1 Rue de Lyon, 75012 Paris France","4,5",13€ - 20€
+Bonpot,"162 rue Montmartre, 75002 Paris France","4,5",15€ - 25€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Le Verre Galant,"256 rue de la Croix Nivert, 75015 Paris France","4,5",20€ - 30€
+L'Echoppe de Paris,"16 Rue Leon Frot, 75011 Paris France","4,5",10€ - 25€
+Le Petit Pontoise,"9 rue de Pontoise 9 rue de Pontoise, 75005 Paris France","4,5",29€ - 50€
+Da Franco,"21 Rue Ruhmkorff, 75017 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+Le Château des Îles,"85 Quai Winston Churchill La Varenne Saint Hilaire, 94210 Saint-Maur-des-Fossés France","4,5",48€ - 78€
+Creperie de Port-Manech,"52 Rue du Montparnasse, 75014 Paris France","4,5",9€ - 30€
+Dessance,"74 Rue des Archives Proche du Centre Pompidou, 75003 Paris France","4,5",65€ - 120€
+Le Pantruche,"3 Rue Victor Masse SouthPi district, 75009 Paris France","4,5",18€ - 35€
+Restaurant Thaï Moom Mam,"19 Rue de Mogador, 75009 Paris France","4,5",20€ - 68€
+Vice Versa,"71 rue des Voies du Bois, 92700 Colombes France","4,5","Italienne, Méditerranéenne, Européenne"
+Pratolina,"11 boulevard de Bonne Nouvelle Transports en commun Metro Bonne nouvelle M8 et M9 Sortie 5, 75002 Paris France","4,5",12€ - 21€
+Semilla,"54 Rue de Seine, 75006 Paris France","4,5","Française, Européenne, Saine"
+Les Deux Colombes,"4 rue de la Colombe, 75004 Paris France","5,0",12€ - 20€
+Tavola Di Gio,"210 boulevard Raspail, 75014 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Toscane, Sicilienne, Italie du Centre, Italie du Sud"
+Oh my french burger,"25 Rue Lavoisier, 75008 Paris France","5,0",5€ - 17€
+L'Atelier du Marche,"4 Rue Saussier Leroy, 75017 Paris France","4,5",24€ - 49€
+Les Fines Gueules,"43 rue croix des petits champs, 75001 Paris France","4,5",28€ - 34€
+Restaurant Will,"75 rue Crozatier, 75012 Paris France","4,5","Française, Européenne"
+Bensaï,"161, rue du Faubourg Saint-Honoré, 75008 Paris France","4,5",20€ - 50€
+Le Ruisseau,"65 rue du Ruisseau, 75018 Paris France","4,5",Américaine
+Restaurant Diwali,"21 Avenue de Colmar, 92500 Rueil-Malmaison France","4,5",28€ - 46€
+Via del Gusto,"344 Rue de Vaugirard, 75015 Paris France","4,5",10€ - 26€
+Café Bolivar,"31 avenue Secrétan, 75019 Paris France","4,5",18€ - 33€
+CORETTA,"151 Bis Rue Cardinet 151 Bis rue Cardinet, 75017 Paris France","4,5",29€ - 52€
+Chez Tony,"34 Rue Bois le Vent, 75016 Paris France","4,5",30€ - 60€
+Pedzouille La Grange,"4 Avenue De La Porte De La Plaine Rooftop - 8ème Étage Du Novotel Porte De Versailles, 75015 Paris France","4,5",Française
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+La Caspita,"8 Rue du Château Landon, 75010 Paris France","4,5",9€ - 21€
+Bon Bouquet Café,"29 Rue de Trevise, 75009 Paris France","4,5",8€ - 13€
+La Taverne de Montmartre,"25 rue Gabrielle, 75018 Paris France","4,0","Française, Européenne"
+L'Acanthe,"22 Rue Saint-Martin, 75004 Paris France","4,5","Française, Européenne"
+Les Artizans,"30 Rue Montorgueil, 75001 Paris France","4,5",25€ - 60€
+Pierre Sang on Gambey,"6 Rue Gambey, 75011 Paris France","4,5",25€ - 49€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Le Galopin de LuLu,"Bastille 24 rue des Taillandiers, 75011 Paris France","4,5","Française, Européenne"
+Da Franco,"21 Rue Ruhmkorff, 75017 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+Les Darons,"104 rue Caulaincourt, 75018 Paris France","4,5","Française, Bar à vins"
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France","4,5",20€ - 34€
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+La Petite Bouclerie,"33 rue de la Harpe, 75005 Paris France","4,5",Française
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France","4,0",10€ - 25€
+Bistrot 31,"31, Avenue Theophile Gautier, 75016 Paris France","4,5","Française, Européenne"
+L'Artisan Libanais,"91 rue de Belleville, 75019 Paris France","4,5",5€ - 20€
+Restaurant italien la gourmandise,"28 rue Augereau, 75007 Paris France","4,5","Italienne, Pizza, Méditerranéenne, Européenne"
+la Massara,"70 rue de Turbigo, 75003 Paris France","4,5",16€ - 35€
+Cocorico,"5 Rue du Bac, 75007 Paris France","4,5",20€ - 40€
+Aupa Caminito,"48-50 Rue du Dessous des Berges Angle 31 Rue Cantagrel, 75013 Paris France","4,5",5€ - 25€
+Chez Vincent,"56 rue Saint Georges, 75009 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Italie du Centre"
+Bistrotters,"9 rue Decres, 75014 Paris France","4,5",15€ - 45€
+L'Aller Retour,"5 rue Charles Francois Dupuis, 75003 Paris France","4,5",28€ - 55€
+Comptoir de La Gastronomie,"34, Rue Montmartre, 75001 Paris France","4,5",25€ - 40€
+Augustin Bistrot,"79 rue Daguerre, 75014 Paris France","4,5","Française, Européenne, Saine, Brasserie gastronomique"
+Le Bistrot Des Campagnes,"6 Rue Léopold Robert, 75014 Paris France","4,5",12€ - 32€
+Cocotte Et Vins,"1 Rue Fulton, 94210 Saint-Maur-des-Fossés France","4,5",16€ - 40€
+Les Antiquaires,"13 Rue du Bac, 75007 Paris France","4,5",11€ - 25€
+Chez Paolo,"21 rue Pierre Fontaine, 75009 Paris France","4,5","Italienne, Méditerranéenne, Européenne"
+Hanoi Cà Phê,"15 Parvis de la Defense Les 4 Temps, 92800 Puteaux, La Defense France","4,0","Asiatique, Thaï, Fusion, Indonésienne, Vietnamienne"
+Accents Table Bourse,"24 Rue Feydeau, 75002 Paris France","4,5","Française, Européenne, Fusion, Diner"
+Restaurant Issy Guinguette,"113 Bis Avenue de Verdun, 92130 Issy-les-Moulineaux France","4,5",27€ - 50€
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Café Varenne,"36 Rue de Varenne, 75007 Paris France","4,5","Française, Café, Européenne"
+Popu Bistro à Pizza,"12 rue du Champ de Mars, 75007 Paris France","4,5",7€ - 16€
+A l'Affiche,"48 rue de Moscou, 75008 Paris France","4,5",16€ - 35€
+Dandy Kitchen,"86 rue Saint Denis Dandy Hotel & Kitchen, 75001 Paris France","4,0",22€ - 51€
+La Promenade,"32 Avenue Daumesnil, 75012 Paris France","4,5",12€ - 30€
+Le Petit Nuage,"51 Rue Basfroi, 75011 Paris France","5,0","Française, Européenne, Saine"
+Chez Mademoiselle,"16 rue Charlemagne, 75004 Paris France","4,5",15€ - 30€
+tama-sushi,"19 rue d Antin, 75002 Paris France","4,5",14€ - 34€
+Massawa,"22 rue du Chateau Landon 75010, 75010 Paris France","4,5","Africaine, Éthiopienne"
+Bistro S,"7 rue Saint Nicolas, 75012 Paris France","4,5",20€ - 75€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Cafe de la Butte,"71 rue Caulaincourt, 75018 Paris France","4,5","Française, Européenne"
+Le Coq et l'Elephant,"1 rue des Fosses Saint Marcel, 75005 Paris France","5,0","Française, Européenne, Asiatique, Thaï, Saine"
+Don Camilo,"10, Rue des Saints-Peres Saint-Germain des Pres, 75007 Paris France","4,5",49€ - 146€
+Huitrerie Regis,"3 rue Montfaucon, 75006 Paris France","4,5",26€ - 35€
+IL Gigolo,"11 rue de la Huchette, 75005 Paris France","4,0","Italienne, Pizza, Européenne, Toscane, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France","5,0",25€ - 50€
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+Les Grillades de Buenos Aires,"54 rue du Montparnasse metro Edgard Quinet, 75014 Paris France","4,5",39€ - 155€
+Tesoro D'italia,"7 Rue Rougemont, 75009 Paris France","4,5",15€ - 30€
+Mondol Kiri,"159 avenue de Choisy, 75013 Paris France","4,5","Asiatique, cambodgienne"
+U Mulinu,"28 Boulevard de l'Hôpital, 75005 Paris France","4,5",9€ - 22€
+Restaurant Pourquoi Pas?,"52, Boulevard Alsace-Lorraine, 94170 Le Perreux-sur-Marne France","4,5",9€ - 120€
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+La Ferrandaise,"8 rue de Vaugirard, 75006 Paris France","4,5",15€ - 61€
+Black dog,"26, rue des Lombards, 75004 Paris France","4,5",13€ - 94€
+Aux Dés Calés 17,"181 Rue Legendre, 75017 Paris France","4,5",10€ - 25€
+142 Creperie Contemporaine,"59 rue Saint Charles, 75015 Paris France","4,5","Française, Européenne"
+Oh my french burger,"25 Rue Lavoisier, 75008 Paris France","5,0",5€ - 17€
+La Fine Mousse,"6 Avenue Jean Aicard, 75011 Paris France","4,5",24€ - 35€
+La Dame de Pic,"20 Rue du Louvre, 75001 Paris France","4,0",59€ - 135€
+Le Tournesol,"65 B avenue Gambetta, 92400 Courbevoie, La Defense France","4,5","Française, Européenne"
+Le Petit Gourmet,"59 B avenue du Bac, 94210 Saint-Maur-des-Fossés France","4,5",17€ - 39€
+Laïa,"226 Boulevard Voltaire, 75011 Paris France","4,5",15€ - 40€
+The Place to... Wagram,"47 Avenue De Wagram A 100 m de l'Arc de Triomphe, l'Etoile, 75017 Paris France","4,5",19€ - 26€
+Kitsmé,"76 Rue Des Vignoles, 75020 Paris France",,"Japonaise, Sushi, Asiatique, Brasserie gastronomique, Magasin de douceurs japonaises"
+Le P'tit Vélo,"24 Rue de Vintimille, 75009 Paris France","4,5",12€ - 30€
+Ao Izakaya,"12, rue de Caumartin, 75009 Paris France","4,5",19€ - 75€
+Les Petits Plats,"39 rue des Plantes, 75014 Paris France","4,5",15€ - 40€
+Le Carpaccio,"4 Rue de Berri, 75008 Paris France","4,5","Italienne, Européenne, Romana, Latium, Italie du Centre"
+Alleudium,"24 rue Rodier, 75009 Paris France","5,0",42€ - 100€
+Babalou,"4 rue Lamarck, 75018 Paris France","4,5",14€ - 22€
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Saucisson et beaujolais,"4 rue du Bel Air, 92500 Rueil-Malmaison France","4,5","Française, Européenne, Saine"
+Auberge Bressane,"16 avenue de la Motte Picquet, 75007 Paris France","4,5",19€ - 37€
+Louise Café,"8 Rue Croix des Petits Champs, 75001 Paris France","4,5","Française, Café, Européenne"
+Le Comptoir des Petits Champs,"17 rue des Petits Champs, 75001 Paris France","4,5","Française, Européenne, Internationale"
+Les Apotres de Pigalle,"2 Rue Germain Pilon, 75018 Paris France","5,0",5€ - 25€
+Poni,"24 rue Saint Lazare, 75009 Paris France","5,0",12€ - 45€
+Cook' n Saj,"5 Rue Bernard Palissy, 75006 Paris France","5,0",5€ - 25€
+Perlimpinpin,"121 Rue De Rome, 75017 Paris France","5,0",15€ - 27€
+Pizzamore Paris,"121 Avenue Du Maine, 75014 Paris France","5,0",17€ - 78€
+Les Freres Bretons,"117, Boulevard de Grenelle Métro la motte picquet grenelle, 75015 Paris France","4,5",5€ - 12€
+Marche Ou Crêpe,"18 rue des Haies, 75020 Paris France","5,0",8€ - 14€
+Ya Bayte,"1 Rue Des Grands Degrés, 75005 Paris France","5,0",7€ - 20€
+Boutary,"25 Rue Mazarine, 75006 Paris France","5,0",50€ - 120€
+Oriental Bowl - Bar à couscous,"13 rue de la Huchette Quartier latin, 75005 Paris France","5,0",7€ - 14€
+Pizzeria Arrivederci,"47 rue Gay Lussac, 75005 Paris France","5,0",9€ - 22€
+Verse toujours,"3 avenue des Gobelins, 75005 Paris France","5,0",11€ - 24€
+Il Etait Un Square,"54, Rue Corvisart, 75013 Paris France","5,0","Française, Steakhouse, Européenne"
+EatWith: Francoise of Paris,Paris France,"5,0","Française, Méditerranéenne"
+Azur Café,"63 rue de Ponthieu, 75008 Paris France","5,0","Française, Méditerranéenne, Turque, Moyen-Orient, Café, Saine"
+Bistrot Kinzo,"13 rue Rougemont, 75009 Paris France","5,0",18€ - 49€
+Chefs a Table,"15 rue Trousseau, 75011 Paris France","5,0",25€ - 65€
+Chez Arnaud,"16 rue Eugene Jumin, 75019 Paris France","4,5",17€ - 23€
+EatWith: Loly of Paris,Paris France,"4,5","Française, Asiatique"
+Au P'tit Curieux,"27 Rue de Sambre et  Meuse, 75010 Paris France","5,0",40€ - 70€
+Pur' - Jean-François Rouquette,"5 Rue de La Paix Park Hyatt Paris, 75002 Paris France","5,0",250€ - 490€
+Bao & ME,"89 Rue du Faubourg Poissonnière, 75009 Paris France","5,0",10€ - 23€
+Vale&Ale Restaurant Pinseria,"7 rue Geoffroy Marie Grands boulevards, Folies Berger, 75009 Paris France","5,0","Italienne, Méditerranéenne, Saine, Romana, Latium, Italie du Centre, Pizza"
+Le Ju',"16 rue des archives, 75004 Paris France","4,5",9€ - 22€
+EatWith: Jean Yves of Chef Jean-Yves' Table,75011 Paris France,"5,0",75€ - 289€
+Chez Nicos,"44 rue Mouffetard, 75005 Paris France","4,5",4€ - 10€
+Jozi Café,"3, rue Valette, 75005 Paris France","5,0",2€ - 15€
+ASPIC,"24 Rue de la Tour d’Auvergne, 75009 Paris France","5,0",119€ - 119€
+La Crêperie,"7 Rue Joseph de Maistre Quartier de Montmartre, 75018 Paris France","5,0",2€ - 6€
+Les Bariolés de Maud,"12 Rue Buffault, 75009 Paris France","5,0",10€ - 30€
+The Frog at Bercy Village,"25 Cour Saint Emilion, 75012 Paris France","4,0",11€ - 17€
+Da Giuseppe,"76 rue du Faubourg Poissonniere, 75010 Paris France","5,0",5€ - 13€
+Assanabel Saint-Germain,"38 rue Jacob, 75006 Paris France","4,5",20€ - 90€
+Miura,"15, rue de l'Arc de Triomphe, 75017 Paris France","5,0",59€ - 85€
+Assanabel,"6 Rue Pierre Chausson, 75010 Paris France","5,0",30€ - 60€
+Alliance,"5 Rue de Poissy, 75005 Paris France","5,0",75€ - 245€
+L'Empreinte,"5 Rue Mouton Duvernet, 75014 Paris France","4,5",29€ - 49€
+Frog XVI,"110 Bis Avenue Kleber, 75116 Paris France","4,5",11€ - 17€
+Le Confidentiel,"6 rue Robert Estienne, 75008 Paris France","4,5",20€ - 40€
+Il Grano,"212 B boulevard Pereire, 75017 Paris France","4,5",15€ - 35€
+Chez Cleopatre,"46 Rue Condorcet, 75009 Paris France","5,0",6€ - 23€
+Pizza Presto,"avenue Paul Vaillant Couturier, 93330 Neuilly-sur-Marne France","5,0",10€ - 30€
+New Jawad Longchamp,"30 rue de Longchamp, 75116 Paris France","5,0","Indienne, Pakistanaise"
+Bistrot Instinct,"19 Rue de Picardie, 75003 Paris France","5,0",35€ - 63€
+Midi 12,"12, Rue La Fayette, 75009 Paris France","4,5",8€ - 25€
+EatWith: Odile of Paris,Paris France,"5,0",Française
+Joyti Restaurant,"148, Rue de Vaugirard, 75015 Paris France","4,5",19€ - 37€
+La Veraison,"64 Rue de la Croix Nivert, 75015 Paris France","4,5",45€ - 60€
+Savannah Cafe,"27 rue Descartes 75005, 75005 Paris France","4,5",15€ - 19€
+Alix et Mika,"37 Rue Lamarck, 75018 Paris France","5,0",15€ - 35€
+Pastamore,"37 Boulevard du Montparnasse, 75006 Paris France","5,0",17€ - 25€
+Le Comptoir Boutary,"32 Rue Catherine De La Rochefoucauld, 75009 Paris France","5,0",19€ - 47€
+HABILE.,"16 Rue de Lancry À l'angle de la rue de Lancry et de la rue Château d'eau, 75010 Paris France","5,0",17€ - 75€
+La Réserve Du Terroir,"13 Rue Quincampoix, 75004 Paris France","5,0",15€ - 35€
+Orgueil,"6 rue Popincourt, 75011 Paris France","5,0",20€ - 55€
+114 Faubourg,"114 rue du Faubourg Saint Honore, 75008 Paris France","4,5","Française, Européenne"
+Petit Boutary,"16 rue Jacquemont, 75017 Paris France","5,0",46€ - 60€
+Bus Toqué,"67 Av. des Champs-Élysées, 75008 Paris France","5,0",65€ - 105€
+Grains Nobles et Plus,"8 rue Boutebrie, 75005 Paris France","4,5",19€ - 43€
+Nell'Arte,"58 Rue Marguerite De Rochechouart, 75009 Paris France","5,0",11€ - 19€
+Cavale,"40 Rue des Petites Écuries, 75010 Paris France","5,0","Française, Européenne, Saine"
+L'Atelier Ramey,"23 Rue Ramey, 75018 Paris France","4,5",18€ - 42€
+Le Bistrot de Madeleine,"4 avenue Trudaine, 75009 Paris France","5,0","Française, Moderne"
+Le 27 Gourmand,"27 boulevard des Batignolles, 75008 Paris France","4,5",Française
+Poni,"24 rue Saint Lazare, 75009 Paris France","5,0",12€ - 45€
+Pizzamore Paris,"121 Avenue Du Maine, 75014 Paris France","5,0",17€ - 78€
+Via Emilia,"22 Rue La Bruyere 22 rue la Bruyère, 75009 Paris France","5,0","Italienne, Méditerranéenne, Européenne, Émilienne, Italie du Nord"
+Verse toujours,"3 avenue des Gobelins, 75005 Paris France","5,0",11€ - 24€
+Mâche,"61 Rue Chabrol, 75010 Paris France","5,0",60€ - 100€
+Nectar,"7 rue Mayran Hôtel Maison mère, 75009 Paris France","5,0",15€ - 69€
+Azur Café,"63 rue de Ponthieu, 75008 Paris France","5,0","Française, Méditerranéenne, Turque, Moyen-Orient, Café, Saine"
+Pizza Du Chef,"11 rue George Marie, 92130 Issy-les-Moulineaux France","4,5","Française, Italienne, Pizza, Européenne"
+Bistro Chez Pradel,"3 rue du Pasteur Wagner, 75011 Paris France","5,0",12€ - 40€
+Le Village Russe,"21 quai D Austerlitz 1-2 Place Holmes, 75013 Paris France","4,5",25€ - 80€
+Can Alegria Paris,"73 rue Jean Baptiste Pigalle, 75009 Paris France","5,0",19€ - 33€
+Gosier,"27 rue Rodier, 75009 Paris France","5,0","Française, Saine"
+Chez Arnaud,"16 rue Eugene Jumin, 75019 Paris France","4,5",17€ - 23€
+Mây Bay,"Rue Des Laitières, 94300 Vincennes France","5,0",4€ - 30€
+Terra Mia,"118 Boulevard Montparnasse, 75014 Paris France","5,0",10€ - 30€
+Pardi,"85 B boulevard de Magenta Marché Saint Quentin, 75010 Paris France","5,0",15€ - 30€
+Milord,"12 rue Tolbiac, 75013 Paris France","5,0","Française, Saine, Brasserie gastronomique"
+ASPIC,"24 Rue de la Tour d’Auvergne, 75009 Paris France","5,0",119€ - 119€
+JJ Beaumarchais,"92 boulevard Beaumarchais, 75011 Paris France","5,0",18€ - 50€
+Alliance,"5 Rue de Poissy, 75005 Paris France","5,0",75€ - 245€
+Domenico's,"8 rue Saint Lazare, 75009 Paris France","5,0",20€ - 29€
+Chez Cleopatre,"46 Rue Condorcet, 75009 Paris France","5,0",6€ - 23€
+Granite,"6 Rue Bailleul, 75001 Paris France","5,0",Française
+Comptoir Gourmet,"51 Rue du Temple Metro Ligne 1 - Station Hotel de Ville, Metro Ligne 11 - Station Rambuteau, 75004 Paris France","4,5",10€ - 50€
+La Table de Colette,"17 rue Laplace La Table de colette, 75005 Paris France","5,0",39€ - 89€
+La Maison Du Boulevard,"40 Boulevard de l'Hôpital, 75005 Paris France","5,0",Française
+Crêperie du Landy,"3 rue du Landy, 92110 Clichy France","5,0",4€ - 10€
+Bus Toqué,"67 Av. des Champs-Élysées, 75008 Paris France","5,0",65€ - 105€
+Il Tronchetto,"22 rue de Lourmel, 75015 Paris France","5,0","Italienne, Pizza, Européenne, Napolitaine, Campanie, Italie du Sud"
+Perception,"53 Rue Blanche, 75009 Paris France","5,0","Française, Saine, Fusion"
+Le Bistrot d'Yves,"33,rue Cardinet, 75017 Paris France","5,0",20€ - 40€
+La Sorbonne,"78 Av. Du Dr Arnold Netter, 75012 Paris France","5,0",9€ - 19€
+Origines,"6 rue de Ponthieu, 75008 Paris France","5,0",100€ - 200€
+Marche Ou Crêpe,"18 rue des Haies, 75020 Paris France","5,0",8€ - 14€
+Ya Bayte,"1 Rue Des Grands Degrés, 75005 Paris France","5,0",7€ - 20€
+La Bonne Franquette,"18 Rue Saint Rustique Angle 2, Rue des Saules, 75018 Paris France","4,5",10€ - 60€
+Akira Back Paris,"33 Avenue George V, 75008 Paris France","5,0","Japonaise, Fusion japonaise, Saine"
+Didon.,"8 Rue Du Dragon, 75006 Paris France","5,0",80€ - 100€
+Maison Cluny,"3 Rue De Cluny, 75005 Paris France","5,0","Française, Brasserie gastronomique, Saine"
+La Grange Aux Canards,"23 rue Frederic Sauton, 75005 Paris France","5,0",18€ - 58€
+AlKaram,"15 Rue Ferdinand Fabre, 75015 Paris France","5,0",17€ - 32€
+TATA Burger,"54 Rue Sainte Croix de la Bretonnerie, 75004 Paris France","4,5",11€ - 17€
+MoSuke,"11 rue Raymond Losserand, 75014 Paris France","5,0","Française, Japonaise, Africaine, Saine"
+Issa Paris,"4 rue du petit Moine, 75005 Paris France","5,0",20€ - 40€
+Le Faham by Kelly Rangama,"108 rue Cardinet, 75017 Paris France","5,0",47€ - 61€
+Côté Sushi Enghien-les-Bains,"14 rue de Mora, 95880 Enghien-les-Bains France","5,0","Japonaise, Asiatique"
+Passione,"123 Avenue Parmentier, 75011 Paris France","5,0",Française
+Les Bariolés de Maud,"12 Rue Buffault, 75009 Paris France","5,0",10€ - 30€
+Selva,"22 Rue Du Sommerard, 75005 Paris France","5,0",20€ - 50€
+Restaurant L'INITIAL,"9 Rue de Bievre, 75005 Paris France","5,0",48€ - 98€
+Madito,"12 Rue De Candie, 75011 Paris France","5,0","Libanaise, Méditerranéenne, Moyen-Orient"
+Le Confidentiel,"6 rue Robert Estienne, 75008 Paris France","4,5",20€ - 40€
+Il Grano,"212 B boulevard Pereire, 75017 Paris France","4,5",15€ - 35€
+Diggity,"32 rue Saint Maur Diggity restaurant, 75011 Paris France","5,0",20€ - 55€
+Signature Montmartre,"12 Rue des Trois Frères, 75018 Paris France","5,0",38€ - 78€
+Midi 12,"12, Rue La Fayette, 75009 Paris France","4,5",8€ - 25€
+Frog & Underground,"176 Rue Montmartre, 75002 Paris France","5,0",12€ - 19€
+Le vent d'Armor,"25 Quai De La Tournelle, 75005 Paris France","5,0",30€ - 70€
+L'Atelier Ramey,"23 Rue Ramey, 75018 Paris France","4,5",18€ - 42€
+Ristorante Garum,"64 rue Sedaine, 75011 Paris France","5,0","Italienne, Méditerranéenne, Européenne, Saine, Sarde, Italie du Sud"
+Frog & Rosbif,"116 rue Saint Denis, 75002 Paris France","4,5",11€ - 17€
+Les Freres Bretons,"117, Boulevard de Grenelle Métro la motte picquet grenelle, 75015 Paris France","4,5",5€ - 12€
+XV Burger,"179 rue de Vaugirard, 75015 Paris France","5,0","Américaine, Restauration rapide"
+L'Arcane,"52 Rue Lamarck, 75018 Paris France","5,0","Française, Européenne, Saine"
+L'Annexe,"13 rue des Trois Frères, 75018 Paris France","4,5",20€ - 40€
+La Réserve des Initiés,"44 Rue Léon Frot, 75011 Paris France","4,5",15€ - 40€
+Publisher - Restaurant,"33 Rue de Constantinople, 75008 Paris France","4,5",24€ - 250€
+Desvouges,"6 Rue des Fossés Saint Marcel, 75005 Paris France","5,0",20€ - 32€
+Restaurant eels,"27 rue d Hauteville, 75010 Paris France","4,5","Française, Européenne"
+The Frog Revolution,"9 rue de la Bastille, 75004 Paris France","4,5",11€ - 20€
+Restaurant Biscotte,"22 rue Desnouettes, 75015 Paris France","5,0",45€ - 65€
+India StreEAT,"105 Rue Monge, 75005 Paris France","5,0",12€ - 15€
+Johana's FISH & CHIPS,"30 rue Saint Sauveur, 75002 Paris France","4,5","Française, Fruits de mer et poisson, Internationale, Cuisine de rue (street food)"
+Le 217 Brasserie Restaurant,"217 avenue Daumesnil, 75012 Paris France","4,5",11€ - 30€
+Le Reciproque,"14 Rue Ferdinand Flocon, 75018 Paris France","5,0",21€ - 47€
+Le Sergent Recruteur,"41 rue Saint Louis en l'île, 75004 Paris France","5,0",39€ - 179€
+Terronia,"11 Rue des Boulangers Pas de parking dans la rue, 75005 Paris France","5,0",13€ - 35€
+1000 & 1 Signes,"76 rue de Charonne, 75011 Paris France","5,0",6€ - 40€
+L'Oliveto,"38 rue de Buci, 75006 Paris France","4,5",20€ - 45€
+L'Atelier Saisonnier,"58 Rue La Fayette, 75009 Paris France","4,5",20€ - 32€
+Le Gabriel,"42, Avenue Gabriel La Réserve Hotel, Spa and Apartments, 75008 Paris France","5,0",138€ - 338€
+Joyti Restaurant,"148, Rue de Vaugirard, 75015 Paris France","4,5",19€ - 37€
+Oinari,"34 Rue la Bruyère, 75009 Paris France","5,0",16€ - 100€
+Le Cherine,"74, Rue de la Croix Nivert, 75015 Paris France","5,0",35€ - 60€
+Chez Pitou,"28 rue Tholoze, 75018 Paris France","5,0",10€ - 25€
+La Crète,"85 Rue Mouffetard, 75005 Paris France","4,5","Grecque, Saine"
+Le Florimond,"19 avenue de la Motte Picquet, 75007 Paris France","4,5","Française, Européenne"
+GRUPPOMIMO - Paris 2,"157 rue Montmartre, 75008 Paris France","4,5",Italienne
+Grains Nobles et Plus,"8 rue Boutebrie, 75005 Paris France","4,5",19€ - 43€
+Karavaki Au Jardin Du Luxembourg,"7 rue Gay Lussac metro Luxembourg, 75005 Paris France","5,0","Grecque, Méditerranéenne, Saine"
+Chez Abda,"77, Avenue Pierre Brossolette 77 Avenue Pierre Brossolette, 94170, Le Perreux-sur-Marne, Val-de-Marne, Île-de-France, 94170 Le Perreux-sur-Marne France","4,5",25€ - 35€
+Chez Gabrielle,"7 rue de l Etoile, 75017 Paris France","4,5","Française, Européenne"
+Le Bouclard,"1 Rue Cavallotti, 75018 Paris France","4,5",25€ - 75€
+Marclee,"10 Rue Saulnier, 75009 Paris France","4,5",69€ - 69€
+L'Escudella,"41 avenue de Segur, 75007 Paris France","4,5",24€ - 55€
+Mian Fan,"15 boulevard Montmartre, 75002 Paris France","4,5",9€ - 22€
+Sacrée fleur,"50 Rue de Clignancourt, 75018 Paris France","4,5",20€ - 40€
+Ristorante Al Caratello,"5 rue Audran, 75018 Paris France","4,5",15€ - 23€
+Chez Ajia,"4 Rue du Roi de Sicile Rez-de Chausee, 75004 Paris France","5,0",6€ - 30€
+La Trattoria dell'Isola,"40 rue Rodier, 75009 Paris France","4,5",15€ - 30€
+Bella Georgette,"3 Rue Auguste Daix, 94260 Fresnes France","4,5","Italienne, Pizza, Toscane, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+Flesh Restaurant Canal Saint Martin,"23 Rue Louis Blanc, 75010 Paris France","4,5",10€ - 40€
+Mayfair Garden,"33 Rue Longchamps Champs eylees trocadero, 75116 Paris France","5,0",30€ - 60€
+Buzkashi,"Rue des Dames, 75017 Paris France","4,5",11€ - 31€
+Le Bélisaire,"2 rue Marmontel, 75015 Paris France","4,5",Française
+FOODI Jia-Ba-Buay,"2, Rue Du Nil Entrée par 3 Rue Damiette, 75002 Paris France","4,5",14€ - 35€
+La Scène Par Stéphanie Le Quellec,"32 avenue Matignon, 75008 Paris France","4,5","Française, Saine"
+L'Himalaya,"22 Rue de la Gaîté, 75014 Paris France","4,0","Indienne, Pakistanaise"
+Les Passagers de Beyrouth,"18 Passage de la Bonne Graine Quartier Bastille, 75011 Paris France","4,5","Libanaise, Méditerranéenne, Moyen-Orient"
+Hebe,"15 rue Frederic Sauton, 75005 Paris France","4,5",16€ - 70€
+Bistro V,"56 Boulevard de Port Royal, 75005 Paris France","4,5",78€ - 78€
+Chantoiseau,"63 rue Lepic, 75018 Paris France","5,0","Française, Européenne, Saine, Fusion, Brasserie gastronomique"
+Picotte,"42 rue de Malte, 75011 Paris France","5,0",27€ - 40€
+L'Aubergeade,"17 rue Chaligny, 75012 Paris France","4,5","Française, Européenne, Saine"
+JJ Restaurant,"34 Rue de Penthièvre, 75008 Paris France","4,5","Saine, Brasserie gastronomique, Française"
+Le Bistrot d'Indochine,"49 Rue de Dantzig, 75015 Paris France","4,5",12€ - 35€
+Les Canailles,"25 rue La Bruyère, 75009 Paris France","4,5","Française, Européenne"
+Frog Hop House,"10 rue des Capucines, 75002 Paris France","4,5",10€ - 20€
+Restaurant Friends & Family,"St 18 Cité Bergère Entrée du passage via le 6 rue du Fbg Montmartre ou le 21-23 rue Bergère, 75009 Paris France","4,5",25€ - 50€
+Tadam Paris,"14 Rue du Jura, 75013 Paris France","5,0",25€ - 50€
+Bodega Potxolo,"7, rue de Forge Royale, 75011 Paris France","4,5",19€ - 35€
+Le Clos Y,"27 avenue du Maine, 75015 Paris France","4,5",42€ - 93€
+Chào bà,"14 Rue Coypel près de la place d'Italie, 75013 Paris France","4,5",11€ - 30€
+The Frog and Princess,"9 rue Princesse, 75006 Paris France","4,5",11€ - 17€
+Le Cinq,"31 Avenue George V Four Seasons Hôtel George V, 75008 Paris France","4,5",140€ - 466€
+L'Hommage,"36 avenue de Choisy, 75013 Paris France","4,5",27€ - 58€
+Phebe,"190 Rue de Courcelles, 75017 Paris France","4,5",20€ - 50€
+L'Acolyte de L'Insolite,"49 rue de la Folie-Méricourt, 75011 Paris France","4,5",17€ - 35€
+Au P'tit Zinc,"2 rue des Plantes Angle du 174 avenue du Maine, 75014 Paris France","4,5",Française
+Le Sanglier Bleu,"102 Boulevard de Clichy, 75018 Paris France","4,5",16€ - 45€
+RESTAURANT DE LA CORDONNERIE,"20 rue Saint Roch 20 Rue Saint Roch, 75001 Paris France","4,5",23€ - 30€
+Happy Caffe,"214 Rue de Rivoli, 75001 Paris France","4,5","Française, Café, Restauration rapide, Européenne"
+La Boite Aux Lettres,"108 Rue Lepic, 75018 Paris France","4,5",13€ - 39€
+TRADI,"4 Rue Du Mail, 75002 Paris France","4,5",35€ - 62€
+Figuig,"Rue Brey 13, 75017 Paris France","5,0",15€ - 25€
+B.Better,"26 Rue Beautreillis, 75004 Paris France","5,0",15€ - 30€
+Les Crêpes de Louis-Marie,"1, Rue de l'Arbalète, 75005 Paris France","4,5",4€ - 16€
+A-TABLE,"92 rue de la Reunion, 75020 Paris France","4,5",15€ - 20€
+Aux Délices du Liban,"3 rue de l'Estrapade, 75005 Paris France","4,5",17€ - 30€
+La Petite Rose des Sables,"6 rue de Lancry, 75010 Paris France","4,5",15€ - 30€
+Restaurant du Palais Royal,"110 Galerie De Valois Jardin du Palais Royal, 75001 Paris France","4,5",48€ - 120€
+Restaurant La Pie Noir,"5 Rue de la Montagne Sainte Genevieve, 75005 Paris France","4,5",20€ - 32€
+La Table Du Caviste Bio,"55 Rue de Prony, 75017 Paris France","4,5",35€ - 90€
+"Respiro, Trattoria - Pizzeria","18 rue Maitre Albert, 75005 Paris France","4,5",7€ - 43€
+24 Le Restaurant,"24 Rue Jean Mermoz Champs-Elysées, 75008 Paris France","5,0",39€ - 59€
+Pierre Gagnaire,"6 Rue Balzac, 75008 Paris France","4,5","Française, Européenne"
+Kei Restaurant,"5 rue Coq Heron, 75001 Paris France","4,5",58€ - 199€
+Pages,"4 Rue Auguste Vacquerie, 75116 Paris France","4,5",65€ - 240€
+La Bonne Excuse,"48 rue de Verneuil, 75007 Paris France","4,5","Française, Européenne, Saine"
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+The Grill Room,"73 rue de Monceau 103 Boulevard Malesherbes, 75008 Paris France","4,0","Française, Steakhouse, Barbecue/Grillades, Européenne"
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+La Puce,"17 rue Ernest Renan, 93400 Saint-Ouen France","4,5",15€ - 36€
+Sathees,"Marche Alimentaire Saint-Germain 4 - 8 rue Lobineau, 75006 Paris France","4,5",12€ - 17€
+Chez Trassoudaine,"3 Place Nationale, 75013 Paris France","4,5","Française, Européenne, Saine"
+Restaurant de la Tour,"6 Rue Desaix, 75015 Paris France","4,5",25€ - 50€
+Aux 2 Saveurs,"6 Rue Emile Gilbert, 75012 Paris France","4,5",30€ - 45€
+La Pépinière,"6 Place Saint Augustin 6 Place Saint-Augustin, 75008 Paris France","2,5",25€ - 35€
+La Cassolette,"44 Avenue du Mesnil, 94210 Saint-Maur-des-Fossés France","4,5",15€ - 30€
+Cantina Chic,"14 rue de l'Etoile 75017 Paris, 75017 Paris France","4,5",15€ - 25€
+Arnaud Nicolas,"46, Avenue de la Bourdonnais 46, Avenue de la Bourdonnais, 75007 Paris France","4,5",25€ - 50€
+Juveniles Wine Bar,"47 rue de Richelieu, 75001 Paris France","4,5","Française, Européenne, Bar à vins"
+Huîtres et Saumons de Passy,"17 Rue de l'Annonciation, 75016 Paris France","4,5",24€ - 65€
+Le 975,"185 Rue Marcadet, 75017 Paris France","4,5",23€ - 43€
+Zia,"22 Avenue de Tourville, 75007 Paris France","4,5",10€ - 35€
+Jackpot,"10 Rue des Haudriettes près du croisement , Rue des Haudriettes / Rue du Temple, 75003 Paris France","4,5",19€ - 31€
+Pop's,"38 Rue du Ranelagh, 75016 Paris France","4,5",12€ - 25€
+Pane olio e pomodoro,"46 rue de la Fontaine au Roi, 75011 Paris France","4,5",10€ - 25€
+La Bossue,"9 Rue Joseph de Maistre, 75018 Paris France","4,5","Française, Café, Européenne, Saine"
+Caramel Sarrasin,"47 rue du Faubourg Montmartre, 75009 Paris France","4,5","Française, Européenne"
+Mian Fan,"124 boulevard du Montparnasse, 75014 Paris France","4,5","Chinoise, Asiatique, Vietnamienne, Fusion"
+L'Escale Caraibéenne,"3 Galerie de la Fontaine, 92360, Meudon France","4,5",10€ - 18€
+Flesh Restaurant Pigalle,"25 Rue de Douai, 75009 Paris France","4,5",19€ - 37€
+Al Assil,"50 boulevard de Magenta, 75010 Paris France","5,0","Libanaise, Traiteur, Saine, Moyen-Orient, Méditerranéenne"
+Monterosso,"7 Rue Georges Bouzerait, 92120 Montrouge France","4,5",Italienne
+LaHaut,"70 avenue Franklin Roosevelt, 92150 Suresnes France","4,5",32€ - 33€
+Cabane,"8-10 rue du Dr Foucault, 92000 Nanterre, La Defense France","4,5",Française
+Lucette fait des Crepes,"4 Rue De Milan, 75009 Paris France","4,5",3€ - 24€
+Le Cherine,"74, Rue de la Croix Nivert, 75015 Paris France","5,0",35€ - 60€
+Il Padrino,"49 rue Custine, 75018 Paris France","4,5",Italienne
+Buddha Restaurant,"13 rue Saint Hippolyte, 75013 Paris France","4,5",10€ - 25€
+HABILE.,"16 Rue de Lancry À l'angle de la rue de Lancry et de la rue Château d'eau, 75010 Paris France","5,0",17€ - 75€
+Astair,"19 Passage des Panoramas Intersection entre la Galerie des Variétés et le Passage des Panoramas, 75002 Paris France","4,5",20€ - 50€
+Alan Geaam Restautant,"19 Rue Lauriston, 75116 Paris France","4,5",68€ - 148€
+Virtus,"29 rue de Cotte, 75012 Paris France","4,5",45€ - 125€
+Le Cabanon de la Butte,"6 Rue Lamarck, 75018 Paris France","4,5","Française, Européenne"
+Le Petit Amalfi,"29 rue de Turin, 75008 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Napolitaine, Campanie, Sicilienne, Italie du Sud"
+Mobster Diner,"20 rue des Boulangers 75005, 75005 Paris France","4,5",9€ - 13€
+La Bécane À Gaston,"24, Rue Lucien Sampaix, 75010 Paris France","4,5",19€ - 56€
+BMK Paris-Bamako,"14 Rue de la Fidélité, 75010 Paris France","4,5",10€ - 16€
+Le Lamarck,"8 rue Lamarck, 75018 Paris France","4,5","Française, Européenne"
+Olympe Sports Cafe,"46 avenue du General de Gaulle, 94300 Vincennes France","4,5",17€ - 27€
+Santa Carne,"3 boulevard Richard Lenoir, 75011 Paris France","4,5","Steakhouse, Latino, Barbecue/Grillades, Argentine"
+Ze Kitchen Galerie,"4, Rue Des Grands Augustins, 75006 Paris France","4,5",41€ - 98€
+Le Ju',"16 rue des archives, 75004 Paris France","4,5",9€ - 22€
+Le Petit Vendome,"8 rue des Capucines, 75002 Paris France","4,0",16€ - 32€
+BAFFO,"12 Rue Pecquay, 75004 Paris France","4,5",40€ - 130€
+46 & 3rd,"46 rue de Turbigo, 75003 Paris France","4,5",9€ - 17€
+Chez Marcel,"7 rue Stanislas, 75006 Paris France","4,5",25€ - 60€
+Bustronome PARIS,"2 avenue Kleber, 75116 Paris France","4,5",70€ - 150€
+Lilane,"8 rue Gracieuse, 75005 Paris France","4,5",Française
+Bellini,"140 Avenue de la République, 92120 Montrouge France","4,5",Italienne
+Bistrot Côté Seine,"12, Quai Georges Clemenceau, 78380 Bougival France","4,5",15€ - 30€
+La Table d'Hami,"5, rue Daubenton 5, rue Daubenton, 75005 Paris France","4,5","Asiatique, Coréenne, Saine"
+Eataly Paris Marais,"37 Rue Sainte-Croix de la Bretonnerie, 75004 Paris France","4,0",10€ - 40€
+Don Giovanni,"19 rue Francois Miron, 75004 Paris France","4,5","Italienne, Méditerranéenne, Européenne, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud"
+99 Haussmann,"99 Boulevard Haussmann Hôtel Bowmann, 75008 Paris France","4,5",41€ - 112€
+Le Sâotico,"96 Rue de Richelieu, 75002 Paris France","4,5",18€ - 50€
+Joe Burger,"49 rue Descartes, 75005 Paris France","4,5","Américaine, Restauration rapide"
+Les Cuivres,"68 avenue de la Republique, 75011 Paris France","4,5",12€ - 35€
+Sourire Le Restaurant,"15 rue de la Santé, 75013 Paris France","4,5",39€ - 69€
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France","4,5",20€ - 40€
+Beccuti Bar,"91 Rue de Rivoli, 75001 Paris France","4,5","Italienne, Café"
+Olive & Thym - Par Man'ouché,"60 rue Quincampoix, 75004 Paris France","4,5","Libanaise, Méditerranéenne, Saine, Moyen-Orient, Moderne"
+Lorette,"Rue Saint Lazare, 75009 Paris France","4,5",14€ - 40€
+Le Berkeley,"7 avenue Matignon, 75008 Paris France","4,0",19€ - 75€
+La Ripaille,"22 Place Louis XIII, 94150 Rungis France","4,5",Française
+Khajuraho,"14 Boulevard de la Tour-Maubourg, 75007 Paris France","4,5",45€ - 350€
+La Réserve Du Terroir,"13 Rue Quincampoix, 75004 Paris France","5,0",15€ - 35€
+Lea,"152 rue de Paris, 94220 Charenton-le-Pont France","4,5",14€ - 35€
+Pizza Pasta Cosy,"63 Boulevard Lefebvre, 75015 Paris France","4,0",14€ - 40€
+La Grande Ourse,"9 rue Georges Sache, 75014 Paris France","4,5","Française, Européenne"
+Bonpot,"162 rue Montmartre, 75002 Paris France","4,5",15€ - 25€
+Trois Crabes,"17 rue Claude Tillier, 75012 Paris France","4,5","Asiatique, Vietnamienne"
+L'Envie du Jour,"106 Rue Nollet, 75017 Paris France","4,5",16€ - 44€
+LE LOUIS,"31 Rue Coquilliere, 75001 Paris France","4,5",20€ - 50€
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France","5,0",14€ - 32€
+Petite fleur,"5 Rue Damrémont, 75018 Paris France","4,5",23€ - 50€
+Les Trublions,"34 Rue De La Montagne Sainte Genevieve, 75005 Paris France","4,5",19€ - 34€
+Brutus - Batignolles,"99 rue des Dames, 75017 Paris France","4,5",12€ - 20€
+Habesha,"19 rue Copreaux, 75015 Paris France","4,5","Africaine, Éthiopienne"
+Jeongane,"60 rue des Morillons, 75015 Paris France","4,5","Barbecue/Grillades, Asiatique, Coréenne"
+Chez Toinette,"20, rue Germain Pilon, 75018 Paris France","4,5",19€ - 40€
+Le Vin Coeur,"4 Avenue Carnot, 75017 Paris France","4,5","Française, Bar, Européenne"
+LOCO,"31 bis Rue du Faubourg Montmartre, 75009 Paris France","4,5",16€ - 30€
+Chez Madeleine,"39 rue de Paris, 92100 Boulogne-Billancourt France","4,5","Libanaise, Méditerranéenne, Saine, Moyen-Orient"
+A modo mio,"4 rue de Turenne, 75004 Paris France","4,5",13€ - 35€
+Restaurant Japonais La Marina,"18 Rue de la Michodière, 75002 Paris France","4,5",8€ - 28€
+Oh my french burger,"25 Rue Lavoisier, 75008 Paris France","5,0",5€ - 17€
+Café Blanche,"79 Rue Blanche, 75009 Paris France","4,5","Française, Européenne, Saine"
+Kitchen Galerie Bis,"25 Rue des Grands Augustins, 75006 Paris France","4,5",29€ - 66€
+Korus,"73 Rue Amelot, 75011 Paris France","4,5","Française, Européenne"
+La Vittoria,"173 Rue du Temple, 75003 Paris France","5,0",12€ - 20€
+Desi Road,"14, Rue Dauphine, 75006 Paris France","4,0",14€ - 37€
+Neige d'été,"12 rue de l Amiral Roussin, 75015 Paris France","4,5","Française, Européenne"
+La Scène Thélème,"18 Rue Troyon, 75017 Paris France","4,5",49€ - 149€
+Rajpoot,"31 rue Charles de Gaulle, 94140 Alfortville France","4,5","Indienne, Pakistanaise"
+L'Atelier Artisan Crêpier,"10 Rue Mabillon, 75006 Paris France","4,0",4€ - 21€
+Lakshmi Bhavan,"57 rue Rodier, 75009 Paris France","4,5",Indienne
+La Vie d'Ange,"41 boulevard Saint Jacques Montparnasse, 75014 Paris France","4,5",28€ - 66€
+La Jacobine,"59-61 Rue Saint-André des Arts Passage du commerce saint andré des arts, 75006 Paris France","4,5",13€ - 34€
+La Pause Libanaise,"8 Rue De L'Isly, 75008 Paris France","4,5",20€ - 45€
+Substance,"18 rue de Chaillot, 75116 Paris France","4,5",39€ - 110€
+Vale&Ale Restaurant Pinseria,"7 rue Geoffroy Marie Grands boulevards, Folies Berger, 75009 Paris France","5,0","Italienne, Méditerranéenne, Saine, Romana, Latium, Italie du Centre, Pizza"
+Little Breizh,"11 rue Gregoire de Tours Métro Odéon, 75006 Paris France","4,5",10€ - 16€
+Loubnane,"29 Rue Galande, 75005 Paris France","4,5",25€ - 45€
+Tonkatsu Tombo,"14 rue de l Arrivee, 75015 Paris France","4,5","Japonaise, Asiatique"
+Pizza Pasta Cosy,"63 Boulevard Lefebvre, 75015 Paris France","4,0",14€ - 40€
+Crêpe Avenue,"4 rue de Surene 75008, 75008 Paris France","4,5",5€ - 25€
+La Forge,"14 Rue Pascal Métro Censier Daubenton, 75005 Paris France","4,5",18€ - 60€
+Café de l'Homme,"17 place du Trocadéro, 75116 Paris France","3,5",85€ - 350€
+Yakigushi,"42/44 avenue Henri Ginoux, 92120 Montrouge France","4,5","Japonaise, Sushi, Asiatique"
+Racina,"43 rue Descartes, 75005 Paris France","4,5",6€ - 20€
+MARDI - Crêperie Urbaine,"137 Rue Montmartre, 75002 Paris France","4,5",2€ - 15€
+Guy Savoy,"Monnaie De Paris, 11 Quai De Conti, 75006 Paris France","4,5","Française, Européenne"
+Auguste,"54 rue de Bourgogne, 75007 Paris France","4,5","Française, Européenne"
+De l'Autre Cote,"7 rue Leon Jouhaux, 75010 Paris France","4,5","Française, Européenne"
+Au Petit Tonneau,"20 rue Surcouf, 75007 Paris France","4,5",35€ - 200€
+Bistrot Paul Chêne,"123 rue Lauriston, 75116 Paris France","4,5",18€ - 60€
+Pedzouille,"66 Rue du Faubourg Poissonniere Près du métro Poissonnière, 75010 Paris France","4,5","Française, Européenne"
+Jeannot et Colin,"51 Boulevard Voltaire, 75011 Paris France","4,5",15€ - 45€
+Les Mignardises,"1 rue du Progres, 94350 Villiers-sur-Marne France","4,5","Française, Européenne"
+Les Petits Crus,"13 rue Saint Sabin, 75011 Paris France","4,5","Française, Européenne, Bar à vins"
+La Perle De L'ecailler,"46 Rue Voltaire, 92800 Puteaux, La Defense France","4,5","Française, Fruits de mer et poisson, Européenne"
+Café de Paris-Friedland,"45 Avenue De Friedland, 75008 Paris France","4,5","Française, Bar, Café, Européenne"
+Rajpoot,"210 bd de Créteil, 94100 Saint-Maur-des-Fossés France","4,5",Indienne
+Le Boissy d'Anglas,"41 rue Boissy d'Anglas, 75008 Paris France","4,5",15€ - 50€
+La Crepe Rit Du Clown,"6 Rue des Canettes, 75006 Paris France","4,5",8€ - 20€
+Ripaille,"69 rue des Dames, 75017 Paris France","4,5",27€ - 55€
+Fanfan,"18 Rue Bayen, 75017 Paris France","4,5",35€ - 95€
+Chez Pradel,"168 Rue Ordener, 75018 Paris France","4,5","Française, Européenne"
+La Vache et Le Cuisinier,"18 rue des 3 Freres Montmartre, 75018 Paris France","4,5","Française, Européenne"
+Le Sain Sert,"3 Rue Roque De Fillol, 92800 Puteaux, La Defense France","4,5",18€ - 45€
+Le Carpaccio,"4 Rue de Berri, 75008 Paris France","4,5","Italienne, Européenne, Romana, Latium, Italie du Centre"
+Le Berbère,"62 rue Crozatier, 75012 Paris France","4,5","Algérien, Africaine"
+Supermian,"86 Rue De Richelieu, 75002 Paris France","4,5",Chinoise
+Aux Cerises,"47 Avenue de Suffren, 75007 Paris France","4,5",13€ - 29€
+Restaurant L'Homme Bleu,"Oberkampf 55 B rue Jean Pierre Timbaud, 75011 Paris France","4,5",18€ - 40€
+Les Cèdres du Liban Paris,"5 Av. du Maine, 75015 Paris France","4,5",10€ - 25€
+0039 Ristorante Italiano,"24 Rue des Tournelles Quartier Le Marais, 75004 Paris France","4,5",23€ - 37€
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France","0,0",Française
+New Jawad Richelieu,"95 Rue de Richelieu, 75002 Paris France","4,5","Indienne, Pakistanaise"
+Kashmir House,"36 rue de Chabrol, 75010 Paris France","4,5","Indienne, Saine, Pakistanaise"
+Le Relais des Broc's,"24 Rue Jules Vallès 24 rue jules vallès, 93400 Saint-Ouen France","4,5","Française, Européenne"
+Le Cambodge,"2 rue Leriche, 75015 Paris France","4,5","Asiatique, Vietnamienne, cambodgienne"
+Mavrommatis,"42 rue Daubenton, 75005 Paris France","4,5",34€ - 137€
+Le Vieux Bistrot,"54 rue Mouffetard, 75005 Paris France","4,5",22€ - 35€

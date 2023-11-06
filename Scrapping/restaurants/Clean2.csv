@@ -1,0 +1,624 @@
+name,address,note,price_min,price_max
+Derya,"16 Rue du Faubourg Saint Denis, 75010 Paris France",4.0,15.0,25.0
+Cinq-Mars,"De Verneuil 51 rue de Verneuil, 75007 Paris France",4.0,23.0,43.0
+Murier,"42 rue Olivier de Serres Metro Convention, 75015 Paris France",4.0,21.0,32.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+L'elfe assis,"48 rue Louise Michel, 92300 Levallois-Perret France",4.0,8.0,20.0
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France",4.0,10.0,25.0
+Bar à Iode - Saint Germain,"34 Boulevard Saint Germain, 75005 Paris France",4.0,5.0,50.0
+L'Atelier Roulière,"24 rue des Canettes, 75006 Paris France",4.0,30.0,55.0
+20 Eiffel,"20 Rue De Monttessuy Paris, 75007 Paris France",4.0,24.0,55.0
+Restaurant New Dehli,"4 Passage Brady, 75010 Paris France",4.0,19.0,37.0
+Archibon Bar à Vin,"13 rue Rougemont (Grand Rex, Grands Boulevards, Opéra), 75009 Paris France",4.0,10.0,22.0
+Canard & Champagne,"57 Passage des Panoramas, 75002 Paris France",4.0,12.0,65.0
+A Tavola,"23 rue d Aguesseau, 92100 Boulogne-Billancourt France",4.0,27.0,34.0
+Augusto Pizzeria,"14 Rue Victor Masse, 75009 Paris France",4.0,15.0,35.0
+La Table Des Oliviers,"4, Rue de l'eglise, 92200 Neuilly-sur-Seine France",4.0,40.0,55.0
+Happy Break Libanais,"6 Bis Rue Ernest Renan, 92130 Issy-les-Moulineaux France",4.0,5.0,16.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Dulcinea,"41 Rue Pierre Fontaine, 75009 Paris France",4.0,9.0,45.0
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France",0.0,0.0,0.0
+7ème vin,"68 avenue Bosquet, 75007 Paris France",4.0,38.0,58.0
+Crêpe Avenue,"4 rue de Surene 75008, 75008 Paris France",4.0,5.0,25.0
+Le P'tit Barcelone,"10 Rue de La Boule Rouge, 75009 Paris France",4.0,15.0,30.0
+Matteo Pizza Paris 9 Grands Boulevards,"18 Rue Du Faubourg Montmartre, 75009 Paris France",4.0,14.0,33.0
+Comme à La Campagne,"41 Place Jeanne D'Arc, 75013 Paris France",4.0,15.0,40.0
+Le Picotin,"35 Rue Sibuet, 75012 Paris France",4.0,14.0,30.0
+le Compas,"62 Rue Montorgueil, 75002 Paris France",4.0,14.0,22.0
+Pamela Popo,"15 rue Francois Miron, 75004 Paris France",4.0,30.0,80.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Vivre Ópera Garnier,"3 rue de la Michodière, 75002 Paris France",4.0,19.0,39.0
+Top Chef Le Bistrot,"29 Quai Gallieni, 92150 Suresnes France",4.0,13.0,45.0
+Bistrot Victoires,"6 rue de la Vrilliere, 75001 Paris France",4.0,9.0,15.0
+La Girafe,"6 rue de la République, 92170 Vanves France",4.0,10.0,20.0
+Thaï Nam,"23, rue des Vertus Arts Et Metiers Ou Temple Ou Republique, 75003 Paris France",4.0,10.0,18.0
+Tamarind,"33 rue Francois Miron, 75004 Paris France",4.0,34.0,48.0
+Auberge Pyrénées Cévennes,"106 rue de la Folie Mericourt, 75011 Paris France",4.0,20.0,70.0
+Le 14 Juillet,"99, Rue Didot, 75014 Paris France",4.0,10.0,30.0
+Comme Chai Toi - Notre Dame,"13 quai de Montebello, 75005 Paris France",4.0,25.0,40.0
+La Favorite Turbigo,"75 Rue de Turbigo, 75003 Paris France",4.0,13.0,21.0
+Spezia Piadina & Co,"23 Rue des Mathurins, 75008 Paris France",4.0,13.0,30.0
+Tzeferakos,"24 rue Monge, 75005 Paris France",4.0,,
+Maison Binder,"43 Rue Hallé, 75014 Paris France",5.0,11.0,28.0
+Pleine Terre,"15 Rue de Bassano, 75116 Paris France",4.0,38.0,95.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Le New York,"48 Avenue De New York, 75116 Paris France",4.0,13.0,75.0
+Blueberry Maki Bar,"6, Rue Du Sabot, 75006 Paris France",4.0,10.0,77.0
+Matteo Pizza Paris 9 Grands Boulevards,"18 Rue Du Faubourg Montmartre, 75009 Paris France",4.0,14.0,33.0
+Comme à La Campagne,"41 Place Jeanne D'Arc, 75013 Paris France",4.0,15.0,40.0
+Le Picotin,"35 Rue Sibuet, 75012 Paris France",4.0,14.0,30.0
+le Compas,"62 Rue Montorgueil, 75002 Paris France",4.0,14.0,22.0
+Pamela Popo,"15 rue Francois Miron, 75004 Paris France",4.0,30.0,80.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Vivre Ópera Garnier,"3 rue de la Michodière, 75002 Paris France",4.0,19.0,39.0
+Top Chef Le Bistrot,"29 Quai Gallieni, 92150 Suresnes France",4.0,13.0,45.0
+Bistrot Victoires,"6 rue de la Vrilliere, 75001 Paris France",4.0,9.0,15.0
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France",4.0,10.0,25.0
+La Girafe,"6 rue de la République, 92170 Vanves France",4.0,10.0,20.0
+Thaï Nam,"23, rue des Vertus Arts Et Metiers Ou Temple Ou Republique, 75003 Paris France",4.0,10.0,18.0
+Tamarind,"33 rue Francois Miron, 75004 Paris France",4.0,34.0,48.0
+Auberge Pyrénées Cévennes,"106 rue de la Folie Mericourt, 75011 Paris France",4.0,20.0,70.0
+Le 14 Juillet,"99, Rue Didot, 75014 Paris France",4.0,10.0,30.0
+Restaurant New Dehli,"4 Passage Brady, 75010 Paris France",4.0,19.0,37.0
+Comme Chai Toi - Notre Dame,"13 quai de Montebello, 75005 Paris France",4.0,25.0,40.0
+La Favorite Turbigo,"75 Rue de Turbigo, 75003 Paris France",4.0,13.0,21.0
+Spezia Piadina & Co,"23 Rue des Mathurins, 75008 Paris France",4.0,13.0,30.0
+Tzeferakos,"24 rue Monge, 75005 Paris France",4.0,,
+Maison Binder,"43 Rue Hallé, 75014 Paris France",5.0,11.0,28.0
+Pleine Terre,"15 Rue de Bassano, 75116 Paris France",4.0,38.0,95.0
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France",0.0,0.0,0.0
+Le New York,"48 Avenue De New York, 75116 Paris France",4.0,13.0,75.0
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France",4.0,20.0,47.0
+Blueberry Maki Bar,"6, Rue Du Sabot, 75006 Paris France",4.0,10.0,77.0
+L'Atelier du Parc,"35 boulevard Lefebvre, 75015 Paris France",4.0,25.0,83.0
+Maihak,"102 Rue Jean Jaures Metro 7 Last Stop 2 Minuit Walk Maihak Indian Resto, 94800 Villejuif France",4.0,,
+Bistrot Pas Parisien,"3 Place du Général Leclerc, 92700 Colombes France",4.0,15.0,35.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France",4.0,10.0,25.0
+Atelier Cook And Thi,"35 Chemin De L'ariel, 78430 Louveciennes France",5.0,14.0,45.0
+Chez Jaafar,"22 rue du Sommerard Proche quartier Saint Germain, 75005 Paris France",4.0,6.0,22.0
+Prik Thai Maine,"160 avenue du Maine, 75014 Paris France",4.0,23.0,48.0
+Iovine's,"7Bis Rue du Colonel Driant, 75001 Paris France",4.0,20.0,40.0
+La Place Royale,"2 B Place des Vosges, 75004 Paris France",4.0,17.0,49.0
+La Grille,"13 Rue Michel Charaire, 92330 Sceaux France",4.0,22.0,51.0
+Restaurant New Dehli,"4 Passage Brady, 75010 Paris France",4.0,19.0,37.0
+Kagayaki,"79 Boulevard Beaumarchais, 75003 Paris France",4.0,,
+L'Anvers du Décor,"32 BIS RUE D'ORSEL au pied du sacré coeur, 75018 Paris France",4.0,18.0,45.0
+Le Moulin de la Galette,"15 rue des Moulins, 95110 Sannois France",4.0,60.0,80.0
+Fish La Boissonnerie,"69 rue de Seine, 75006 Paris, 75006 Paris France",4.0,18.0,55.0
+Le Cosy,"50 Avenue Saint-Mandé, 75012 Paris France",4.0,11.0,22.0
+Le Louis Vins,"9 Rue de la Montagne Sainte Genevieve, 75005 Paris France",4.0,20.0,80.0
+Mi Ranchito Paisa,"35, rue Monthlon, 75009 Paris France",4.0,6.0,35.0
+Pizzeria Le Capri,"17 Rue Fernand Combette, 93100 Montreuil France",5.0,13.0,20.0
+Le Temps des cerises,"Marais 31 rue de la Cerisaie, 75004 Paris France",4.0,9.0,37.0
+Restaurant Le Meurice Alain Ducasse,"228 Rue de Rivoli, 75001 Paris France",4.0,0.0,0.0
+Le Christine,"1 rue Christine, 75006 Paris France",4.0,28.0,65.0
+Brasserie Rosie,"53 rue du Faubourg Saint Antoine, 75011 Paris France",4.0,13.0,25.0
+Quinte & Sens,"11 Avenue de l'Arche, 92081 Courbevoie, La Defense France",4.0,,
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+La Cantine du Troquet Pernety,"101 Rue de L’Ouest, 75014 Paris France",4.0,25.0,35.0
+Salento Montmartre,"48 Rue Condorcet, 75009 Paris France",4.0,14.0,35.0
+MERSEA Beaupassage,"53-57 Rue de Grenelle, 75007 Paris France",4.0,12.0,20.0
+La robe de la Girafe,"5 rue Froment, 75011 Paris France",4.0,7.0,16.0
+Plantxa,"58 Rue Gallieni, 92100 Boulogne-Billancourt France",4.0,16.0,45.0
+La table de Cybèle,"38 rue de meudon, 92100 Boulogne-Billancourt France",4.0,24.0,43.0
+Monjul,"28 rue des Blancs Manteaux, 75004 Paris France",4.0,43.0,43.0
+Bonhomme,"58 Rue Du Faubourg Poissonnière, 75010 Paris France",4.0,10.0,28.0
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France",4.0,20.0,47.0
+Le Hérisson,"78 Boulevard de Belleville, 75020 Paris France",5.0,9.0,22.0
+Le Jules Verne,"Avenue Gustave Eiffel Eiffel Tower - 2nd floor, 75007 Paris France",4.0,0.0,0.0
+La Part des Anges,"10 Rue Garreau, 75018 Paris France",4.0,14.0,30.0
+Dandy Kitchen,"86 rue Saint Denis Dandy Hotel & Kitchen, 75001 Paris France",4.0,22.0,51.0
+Le Bon Georges,"45 rue Saint Georges, 75009 Paris France",4.0,17.0,76.0
+Fujiyaki japonais,"15 rue de la roquette Place bastille, 75011 Paris France",4.0,8.0,25.0
+Evi Evane,"10 Rue Guisarde, 75006 Paris France",4.0,21.0,46.0
+Fric Frac Montmartre,"4 Rue Des Trois Frères, 75018 Paris France",4.0,9.0,23.0
+L'imprevu,"94 avenue Anatole France, 94400 Vitry-sur-Seine France",4.0,0.0,0.0
+Afaria,"15 rue Desnouettes, 75015 Paris France",4.0,22.0,48.0
+Sapristi,"20 Boulevard du Maréchal Foch, 92500 Rueil-Malmaison France",4.0,14.0,33.0
+Gandhi Ji's,"12 rue la Fayette, 75009 Paris France",4.0,14.0,19.0
+Le Marjolin,"46, Rue Marjolin, 92300 Levallois-Perret France",4.0,18.0,29.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Le Medaillon,"85, Avenue Republique, 94800 Villejuif France",4.0,28.0,50.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+Le Papillon,"144 Rue de Bagnolet, 75020 Paris France",4.0,11.0,27.0
+Le Speakeasy,"25 rue Jean Giraudoux, 75016 Paris France",4.0,18.0,40.0
+Kohyang,"6 rue Géneral Estienne, 75015 Paris France",4.0,19.0,47.0
+La Cantine de Quentin,"90 Rue de Prony, 75017 Paris France",4.0,17.0,43.0
+Chameleon Restaurant,"70, rue René Boulanger Gare de l'Est ou Strasbourg Saint Denis, 75010 Paris France",4.0,17.0,42.0
+LE RELAIS GASCON,"6 rue des Abesses Montmartre, 75018 Paris France",4.0,9.0,27.0
+Tesoro D'Italia,"65 boulevard Saint Marcel, 75013 Paris France",4.0,9.0,25.0
+Simonetta Restaurant,"32 quai de la Marne, 75019 Paris France",4.0,8.0,18.0
+Brasserie Baroche,"101 rue la Boetie, 75008 Paris France",4.0,22.0,72.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Au Bougnat,"26 rue Chanoinesse, 75004 Paris France",4.0,19.0,39.0
+Dandy Kitchen,"86 rue Saint Denis Dandy Hotel & Kitchen, 75001 Paris France",4.0,22.0,51.0
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France",4.0,20.0,47.0
+La Bourgogne,"164 Rue Jean Jaurès, 94700 Maisons-Alfort France",4.0,40.0,65.0
+Les Tables d'Augustin,"44 rue Guy Moquet, 75017 Paris France",4.0,13.0,39.0
+Nonna et Nonno,"1 Centre Commercial les Arcades Centre Commercial Les Arcades Niveau 2, 93160 Noisy-le-Grand France",4.0,9.0,15.0
+Pause Bobun,"3 rue Buffon, 75005 Paris France",4.0,10.0,22.0
+Tra di Noi Vasco De Gama,"5 rue Vasco de Gama Restaurant, 75015 Paris France",4.0,20.0,40.0
+La Grotte de Chypre,"85 rue Mouffetard, 75005 Paris France",5.0,6.0,10.0
+A l'Endroit,"9 rue du Tunnel, 75019 Paris France",4.0,40.0,60.0
+Le Bistrot de Charenton,"123 Rue de Paris, 94220 Charenton-le-Pont France",4.0,20.0,40.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Ristorante Adaggio,"207 rue la Fayette, 75010 Paris France",4.0,15.0,30.0
+L'Apibo,"31, Rue Tiquetonne, 75002 Paris France",4.0,20.0,55.0
+Gemini Odéon,"9 rue Monsieur le Prince, 75006 Paris France",4.0,10.0,18.0
+Flottes,"2 Rue Cambon, 75001 Paris France",4.0,25.0,50.0
+Tesoro d'Italia,"41 rue de Paradis, 75010 Paris France",4.0,10.0,35.0
+Le Jourdain,"101, Rue Des Couronnes, 75020 Paris France",4.0,20.0,40.0
+L'Abreuvoir,"24 Rue du docteur Finlay, 75015 Paris France",4.0,17.0,19.0
+Bien Bien,"30 bis, rue Bergère, 75009 Paris France",4.0,21.0,28.0
+Le Faubourg,"38 Boulevard De Pesaro, 92000 Nanterre, La Defense France",5.0,14.0,35.0
+Fanfan,"18 Rue Bayen, 75017 Paris France",4.0,35.0,95.0
+Coin-OP Table,"17 Rue de Maubeuge, 75009 Paris France",5.0,9.0,38.0
+Sourire tapas françaises,"27 Rue Galande, 75005 Paris France",4.0,25.0,40.0
+L'Atelier Artisan Crêpier,"10 Rue Mabillon, 75006 Paris France",4.0,4.0,21.0
+Le Soufflé,"36 rue du Mont Thabor, 75001 Paris France",4.0,15.0,45.0
+L’Ours,"10/12, rue de l’Église, 94300 Vincennes France",4.0,0.0,0.0
+Paris-Breizh Place d’Italie,"166 Boulevard Vincent Auriol, 75013 Paris France",4.0,15.0,22.0
+Les petites bouchées,"4 rue du Roi de Sicile, 75004 Paris France",4.0,14.0,20.0
+La Rughetta,"41 rue Lepic Montmartre, Abbeses, 75018 Paris France",4.0,12.0,35.0
+Le Bar de Jarente,"5 Rue de Jarente Marais, 75004 Paris France",4.0,25.0,40.0
+Kaplan Paris,"20 Rue Cherche Midi, 75006 Paris France",5.0,10.0,25.0
+Sur la route de Plouescat,"4 rue Lamarck, 75018 Paris France",4.0,10.0,26.0
+Il Pomod'oro,"340 Rue Saint Jacques 340 rue saint Jacques, 75005 Paris France",4.0,10.0,25.0
+Bistrot de L'Oulette,"38 Rue des Tournelles Bastille, Place des Vosges, Chemin vert, Opera de Bastille, 75004 Paris France",4.0,17.0,45.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Anicia,"97 Rue du Cherche Midi, 75006 Paris France",4.0,29.0,55.0
+Le Coupe Gorge,"2, Rue de la Coutellerie, 75004 Paris France",4.0,18.0,26.0
+Papelli,"74 Rue du Faubourg Saint Denis, 75010 Paris France",4.0,12.0,18.0
+Papy aux Fourneaux,"70 rue de l ouest Montparnasse-Gaîté-Pernety, 75014 Paris France",4.0,19.0,37.0
+Il Farniente,"250 rue du Faubourg Saint Antoine, 75012 Paris France",4.0,15.0,30.0
+Brasserie Bellanger,"140 rue du Faubourg Poissonniere, 75010 Paris France",4.0,10.0,22.0
+Mamie Chérie,"16 Rue De Candie, 75011 Paris France",4.0,17.0,26.0
+Loufoque,"57 rue Galande, 75005 Paris France",5.0,11.0,23.0
+La Vittoria,"173 Rue du Temple, 75003 Paris France",5.0,12.0,20.0
+Bistrot des Vosges,"31 Boulevard Beaumarchais Bastille/Marais, 75004 Paris France",4.0,14.0,45.0
+L'Italien,"40 rue de Ponthieu, 75008 Paris France",4.0,14.0,50.0
+Fanfan,"18 Rue Bayen, 75017 Paris France",4.0,35.0,95.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Le Cornichon,"34 Rue Gassendi, 75014 Paris France",4.0,35.0,55.0
+Les Rupins,"35 boulevard de Magenta Angle Boulevard de Magenta et Rue de Nancy, 75010 Paris France",4.0,20.0,40.0
+Via Del Campo,"22 rue du Champ de Mars Numero de la suite, intersection, place, 75007 Paris France",5.0,25.0,80.0
+Restaurant Karma,"24 rue Traversiere, 75012 Paris France",4.0,10.0,20.0
+IZU,"7 rue Véronèse, 75013 Paris France",4.0,8.0,35.0
+Kémia paris,"1 rue Bergere, 75009 Paris France",5.0,25.0,45.0
+L'Ange 20 Restaurant,"44 Rue des Tournelles, 75004 Paris France",4.0,38.0,42.0
+Astair,"19 Passage des Panoramas Intersection entre la Galerie des Variétés et le Passage des Panoramas, 75002 Paris France",4.0,20.0,50.0
+Palais du Bonheur,"131 Rue Michel-Ange, 75016 Paris France",4.0,15.0,35.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Meriggio,"3 Rue Rougemont, 75009 Paris France",4.0,18.0,45.0
+Et Toque !,"7 rue Emile Duclaux, 92150 Suresnes France",4.0,19.0,60.0
+Baosian,"67 Rue du Faubourg Montmartre, 75009 Paris France",5.0,10.0,20.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+Le Ruisseau Burger Joint,"22 rue Rambuteau, 75003 Paris France",4.0,10.0,15.0
+Colvert,"30 Rue des Grands Augustins, 75006 Paris France",4.0,29.0,60.0
+Papajazzclub,"3, Rue Saint Benoit, 75006 Paris France",4.0,26.0,60.0
+Kuccini,"165 Rue St Denis, 75002 Paris France",4.0,9.0,29.0
+Le Jeroboam,"72 rue Didot, 75014 Paris France",4.0,10.0,30.0
+Le Bayadère,"35 rue de Berri, 75008 Paris France",5.0,27.0,34.0
+Redd,"28 rue Saint Sauveur, 75002 Paris France",4.0,3.0,30.0
+La Vittoria,"173 Rue du Temple, 75003 Paris France",5.0,12.0,20.0
+Neva Cuisine,"2 Rue de Berne, 75008 Paris France",4.0,0.0,0.0
+Le Colimaçon,"44, rue Vieille du Temple Le Marais, 75004 Paris France",4.0,49.0,79.0
+Fanfan,"18 Rue Bayen, 75017 Paris France",4.0,35.0,95.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Damigiana,"56 rue Jean Jacques Rousseau, 75001 Paris France",4.0,16.0,50.0
+Salento Marais,"6 rue de Jarente, 75004 Paris France",4.0,14.0,35.0
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France",4.0,20.0,47.0
+Shiro,"168 Boulevard Saint-Germain, 75006 Paris France",4.0,,
+Phillipe Excoffier,"18 Rue de l'Exposition, 75007 Paris France",4.0,29.0,65.0
+Chez Quyen-Chi,"53 avenue de la Division Leclerc A côté de la caserne des pompiers sur la nationale 20, 92160 Antony France",5.0,10.0,30.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France",4.0,10.0,25.0
+Les Saveurs d'Abyssinie,"1, Rue de L'Arbalete, 75005 Paris France",4.0,12.0,17.0
+Léandrés  Happy Food & Coffee,"78 Rue de Maubeuge Façade Bleu, 75009 Paris France",5.0,9.0,19.0
+Oi Sushi,"8 Rue Mouffetard, 75005 Paris France",4.0,8.0,20.0
+Crêperie Gigi,"4 Rue de la Corderie, 75003 Paris France",4.0,15.0,30.0
+Le Vaisseau Vert,"10, Rue de Parme, 75009 Paris France",4.0,17.0,50.0
+Il Farniente,"1 rue Paul Fort, 75014 Paris France",4.0,15.0,30.0
+La Vittoria,"173 Rue du Temple, 75003 Paris France",5.0,12.0,20.0
+Galette Café,"2 Rue de l'Université Saint Germain des Près, 75007 Paris France",4.0,7.0,15.0
+A La Maison,"128 Avenue du General de Gaulle ., 94500 Champigny-sur-Marne France",4.0,19.0,33.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Lylee,"4 rue Beaugrenelle intersection Rue Linois, 75015 Paris France",5.0,10.0,15.0
+Le Physalis,"47, avenue Henri Ginoux, 92120 Montrouge France",4.0,27.0,33.0
+Don Giovanni,"11 Place du General de Gaulle, 92330 Sceaux France",4.0,21.0,48.0
+L'Orriù di Beauvau,"4 rue des Saussaies, 75008 Paris France",4.0,20.0,47.0
+Nossa Churrasqueira,"1 Rue de l'Ecole Polytechnique, 75005 Paris France",4.0,8.0,15.0
+Le Butcher,"36 Rue de Berri, 75008 Paris France",4.0,9.0,17.0
+Le Saint Joseph,"100 boulevard de la Republique, 92250 La Garenne-Colombes France",4.0,20.0,45.0
+Le Refuge du Passé,"32 Rue du Fer A Moulin Les Gobelins, 75005 Paris France",4.0,17.0,50.0
+La Petite Bretonne,"48 rue Mouffetard Métro: Monge ou Cardinal Lemoine, 75005 Paris France",4.0,12.0,20.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Di Carla,"4, avenue Carnot, 75017 Paris France",4.0,15.0,22.0
+Bistro du terroir,"21 avenue de la Paix, 94260 Fresnes France",4.0,14.0,29.0
+Le Petit Medicis,"13 Rue de Medicis Numero de la Suite, Intersection, Place, 75006 Paris France",4.0,15.0,28.0
+Chez Léon,"32 Rue Legendre, 75017 Paris France",4.0,17.0,32.0
+L'estrapade,"15 Rue Estrapade, 75005 Paris France",4.0,20.0,55.0
+Under The Sea Restaurant - Ephemera,"160 Avenue De France, 75013 Paris France",4.0,7.0,14.0
+La Vittoria,"173 Rue du Temple, 75003 Paris France",5.0,12.0,20.0
+Hugo,"12 Rue Papillon, 75009 Paris France",4.0,16.0,30.0
+Bien Eleve,"47 Rue Richer, 75009 Paris France",4.0,14.0,50.0
+Au Bon Coin,"21 Rue de la Collegiale Gobelins, 75005 Paris France",4.0,20.0,37.0
+Pizzawawa,"35 rue Saint Honore, 75001 Paris France",4.0,20.0,38.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Le Café de Mars,"11 Rue Augereau, 75007 Paris France",4.0,21.0,35.0
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France",0.0,0.0,0.0
+Le Saigon d'Antan,"rue Monsieur le Prince, 75006 Paris France",4.0,15.0,25.0
+Moustache,"3, rue Sainte-Beuve A côté du quartier Vavin et du théâtre du Lucernaire, proche Montparnasse et Jardin du Luxembourg, 75006 Paris France",4.0,25.0,50.0
+Restaurant Florina,"47 boulevard de Port Royal, 75013 Paris France",5.0,18.0,44.0
+Kaplan Paris,"20 Rue Cherche Midi, 75006 Paris France",5.0,10.0,25.0
+Au fil des saisons,"6, Rue des Fontaines du Temple, 75003 Paris France",4.0,25.0,29.0
+L'Antre Amis,"9 Rue Bouchut, 75015 Paris France",4.0,34.0,50.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Elmer,"30 rue Notre Dame de Nazareth, 75003 Paris France",4.0,35.0,65.0
+Ayako Teppanyaki,"67 rue de l ouest, 75014 Paris France",4.0,,
+Au Petit Riche,"25 Rue le Peletier 75009, 75009 Paris France",4.0,26.0,50.0
+Karamna,"77 rue Boissiere, 75116 Paris France",5.0,6.0,23.0
+Le Sens Unique,"47 Rue de Ponthieu, 75008 Paris France",4.0,20.0,50.0
+Le Hide,"10 Rue du General Lanrezac, 75017 Paris France",4.0,0.0,0.0
+6 New York,"6 Avenue de New York, 75016 Paris France",4.0,30.0,70.0
+Hugo&Co,"48 Rue Monge, 75005 Paris France",4.0,20.0,42.0
+Prive de dessert Aligre,"7 rue Theophile Roussel, 75012 Paris France",4.0,14.0,35.0
+Spiga,"4 rue Parrot, 75012 Paris France",4.0,6.0,22.0
+L'Ebauchoir,"43 rue Citeaux, 75012 Paris France",4.0,13.0,45.0
+Les Inséparables,"12, Rue Francoeur Metro Jules Joffrin ou Lamarck Caulaincourt, 75018 Paris France",4.0,25.0,40.0
+Oplato,"69 rue de Charonne, 75011 Paris France",4.0,9.0,47.0
+Restaurant Clémentine,"5, rue St.-Marc, 75002 Paris France",4.0,25.0,50.0
+New Balal,"25 rue Taitbout, 75009 Paris France",4.0,20.0,25.0
+Dandy Kitchen,"86 rue Saint Denis Dandy Hotel & Kitchen, 75001 Paris France",4.0,22.0,51.0
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France",0.0,0.0,0.0
+Creperie Paris Breizh Daumesnil,"177 avenue Daumesnil, 75012 Paris France",4.0,15.0,22.0
+Le Coryllis,"85 Rue Martyrs 85 rue des Martyrs, 75018, Paris, Île-de-France, 75018 Paris France",4.0,13.0,35.0
+Distrito Frances,"10, Rue du Faubourg Saint Martin Restaurant Distrito Francés, 75010 Paris France",4.0,6.0,24.0
+Rouge Bis,"7 Place Blanche 2 Rue de Bruxelles, 75009 Paris France",4.0,20.0,25.0
+Cedars,"101 Avenue Jean Jaurès, 75019 Paris France",4.0,9.0,14.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Guibine,"44 rue Sainte Anne, 75002 Paris France",4.0,21.0,62.0
+A la Biche au bois,"45 Avenue Ledru-Rollin Metro Gare de Lyon sortie numero 1, 75012 Paris France",4.0,19.0,37.0
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France",4.0,10.0,25.0
+La Gazette,"28 Rue Duret, 75116 Paris France",4.0,22.0,75.0
+Le Triskell,"17, Avenue Albert 1er, 95600 Eaubonne France",4.0,10.0,30.0
+Le Refuge des Moines,"85 rue des Moines, 75017 Paris France",4.0,20.0,26.0
+Ty Galettes,"218 rue de Vaugirard, 75015 Paris France",5.0,9.0,15.0
+Ristorante Pizzeria Doni,"45 avenue Paul Doumer, 93330 Neuilly-sur-Marne France",4.0,,
+BAĀGAĀ Trocadéro,"54 rue de Longchamp, 75116 Paris France",4.0,12.0,20.0
+L'Escargot 1903,"18 Rue Charles Lorilleux, 92800 Puteaux, La Defense France",4.0,30.0,80.0
+La Vache Acrobate,"rue Amelot, 75011 Paris France",4.0,27.0,34.0
+Tentazioni,"86 Bis Rue Lepic métro ligne 12 : Abbesses, Lamarck-Caulaincourt ; métro ligne 2 : Blanche, Pigalle, 75018 Paris France",4.0,21.0,34.0
+Sorza,"51 Rue Saint Louis, 75004 Paris France",4.0,20.0,50.0
+Villa Verdi,"42 B avenue de Suffren, 75015 Paris France",4.0,10.0,30.0
+Bissac,"10, Rue de la Bourse 10, Rue de la Bourse, 75002 Paris France",4.0,19.0,50.0
+Melt Oberkampf,"74 Rue de la Folie Méricourt, 75011 Paris France",4.0,15.0,35.0
+Les Retrouvailles,"7 rue du Conservatoire Hotel de Nell, 75009 Paris France",4.0,39.0,39.0
+Kaplan Paris,"20 Rue Cherche Midi, 75006 Paris France",5.0,10.0,25.0
+Chez Germaine,"30 rue Pierre Leroux, 75007 Paris France",4.0,18.0,50.0
+L'Express de Lyon,"1 Rue de Lyon, 75012 Paris France",4.0,13.0,20.0
+Bonpot,"162 rue Montmartre, 75002 Paris France",4.0,15.0,25.0
+Le Verre Galant,"256 rue de la Croix Nivert, 75015 Paris France",4.0,20.0,30.0
+L'Echoppe de Paris,"16 Rue Leon Frot, 75011 Paris France",4.0,10.0,25.0
+Le Petit Pontoise,"9 rue de Pontoise 9 rue de Pontoise, 75005 Paris France",4.0,29.0,50.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+Le Château des Îles,"85 Quai Winston Churchill La Varenne Saint Hilaire, 94210 Saint-Maur-des-Fossés France",4.0,48.0,78.0
+Creperie de Port-Manech,"52 Rue du Montparnasse, 75014 Paris France",4.0,9.0,30.0
+Le Pantruche,"3 Rue Victor Masse SouthPi district, 75009 Paris France",4.0,18.0,35.0
+Restaurant Thaï Moom Mam,"19 Rue de Mogador, 75009 Paris France",4.0,20.0,68.0
+Pratolina,"11 boulevard de Bonne Nouvelle Transports en commun Metro Bonne nouvelle M8 et M9 Sortie 5, 75002 Paris France",4.0,12.0,21.0
+Les Deux Colombes,"4 rue de la Colombe, 75004 Paris France",5.0,12.0,20.0
+Oh my french burger,"25 Rue Lavoisier, 75008 Paris France",5.0,5.0,17.0
+L'Atelier du Marche,"4 Rue Saussier Leroy, 75017 Paris France",4.0,24.0,49.0
+Les Fines Gueules,"43 rue croix des petits champs, 75001 Paris France",4.0,28.0,34.0
+Bensaï,"161, rue du Faubourg Saint-Honoré, 75008 Paris France",4.0,20.0,50.0
+Restaurant Diwali,"21 Avenue de Colmar, 92500 Rueil-Malmaison France",4.0,28.0,46.0
+Via del Gusto,"344 Rue de Vaugirard, 75015 Paris France",4.0,10.0,26.0
+Café Bolivar,"31 avenue Secrétan, 75019 Paris France",4.0,18.0,33.0
+CORETTA,"151 Bis Rue Cardinet 151 Bis rue Cardinet, 75017 Paris France",4.0,29.0,52.0
+Chez Tony,"34 Rue Bois le Vent, 75016 Paris France",4.0,30.0,60.0
+Pedzouille La Grange,"4 Avenue De La Porte De La Plaine Rooftop - 8ème Étage Du Novotel Porte De Versailles, 75015 Paris France",4.0,0.0,0.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+La Caspita,"8 Rue du Château Landon, 75010 Paris France",4.0,9.0,21.0
+Bon Bouquet Café,"29 Rue de Trevise, 75009 Paris France",4.0,8.0,13.0
+Les Artizans,"30 Rue Montorgueil, 75001 Paris France",4.0,25.0,60.0
+Pierre Sang on Gambey,"6 Rue Gambey, 75011 Paris France",4.0,25.0,49.0
+L'Envigne,"9 rue de Moscou Quartier Place Clichy, 75008 Paris France",4.0,20.0,34.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+La Petite Bouclerie,"33 rue de la Harpe, 75005 Paris France",4.0,0.0,0.0
+Ô Soleil de Naples,"56 Rue de Babylone, 75007 Paris France",4.0,10.0,25.0
+L'Artisan Libanais,"91 rue de Belleville, 75019 Paris France",4.0,5.0,20.0
+la Massara,"70 rue de Turbigo, 75003 Paris France",4.0,16.0,35.0
+Cocorico,"5 Rue du Bac, 75007 Paris France",4.0,20.0,40.0
+Aupa Caminito,"48-50 Rue du Dessous des Berges Angle 31 Rue Cantagrel, 75013 Paris France",4.0,5.0,25.0
+Bistrotters,"9 rue Decres, 75014 Paris France",4.0,15.0,45.0
+L'Aller Retour,"5 rue Charles Francois Dupuis, 75003 Paris France",4.0,28.0,55.0
+Comptoir de La Gastronomie,"34, Rue Montmartre, 75001 Paris France",4.0,25.0,40.0
+Le Bistrot Des Campagnes,"6 Rue Léopold Robert, 75014 Paris France",4.0,12.0,32.0
+Cocotte Et Vins,"1 Rue Fulton, 94210 Saint-Maur-des-Fossés France",4.0,16.0,40.0
+Les Antiquaires,"13 Rue du Bac, 75007 Paris France",4.0,11.0,25.0
+Restaurant Issy Guinguette,"113 Bis Avenue de Verdun, 92130 Issy-les-Moulineaux France",4.0,27.0,50.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Popu Bistro à Pizza,"12 rue du Champ de Mars, 75007 Paris France",4.0,7.0,16.0
+A l'Affiche,"48 rue de Moscou, 75008 Paris France",4.0,16.0,35.0
+Dandy Kitchen,"86 rue Saint Denis Dandy Hotel & Kitchen, 75001 Paris France",4.0,22.0,51.0
+La Promenade,"32 Avenue Daumesnil, 75012 Paris France",4.0,12.0,30.0
+Chez Mademoiselle,"16 rue Charlemagne, 75004 Paris France",4.0,15.0,30.0
+tama-sushi,"19 rue d Antin, 75002 Paris France",4.0,14.0,34.0
+Bistro S,"7 rue Saint Nicolas, 75012 Paris France",4.0,20.0,75.0
+Huitrerie Regis,"3 rue Montfaucon, 75006 Paris France",4.0,26.0,35.0
+Bloom Garden Restaurant by Olivier Streiff,"23 Rue du Château Landon Bloom House Hôtel, 75010 Paris France",5.0,25.0,50.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+Tesoro D'italia,"7 Rue Rougemont, 75009 Paris France",4.0,15.0,30.0
+U Mulinu,"28 Boulevard de l'Hôpital, 75005 Paris France",4.0,9.0,22.0
+Restaurant Pourquoi Pas?,"52, Boulevard Alsace-Lorraine, 94170 Le Perreux-sur-Marne France",4.0,9.0,120.0
+La Ferrandaise,"8 rue de Vaugirard, 75006 Paris France",4.0,15.0,61.0
+Black dog,"26, rue des Lombards, 75004 Paris France",4.0,13.0,94.0
+Aux Dés Calés 17,"181 Rue Legendre, 75017 Paris France",4.0,10.0,25.0
+Oh my french burger,"25 Rue Lavoisier, 75008 Paris France",5.0,5.0,17.0
+La Fine Mousse,"6 Avenue Jean Aicard, 75011 Paris France",4.0,24.0,35.0
+Le Petit Gourmet,"59 B avenue du Bac, 94210 Saint-Maur-des-Fossés France",4.0,17.0,39.0
+Laïa,"226 Boulevard Voltaire, 75011 Paris France",4.0,15.0,40.0
+The Place to... Wagram,"47 Avenue De Wagram A 100 m de l'Arc de Triomphe, l'Etoile, 75017 Paris France",4.0,19.0,26.0
+Le P'tit Vélo,"24 Rue de Vintimille, 75009 Paris France",4.0,12.0,30.0
+Ao Izakaya,"12, rue de Caumartin, 75009 Paris France",4.0,19.0,75.0
+Les Petits Plats,"39 rue des Plantes, 75014 Paris France",4.0,15.0,40.0
+Babalou,"4 rue Lamarck, 75018 Paris France",4.0,14.0,22.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Auberge Bressane,"16 avenue de la Motte Picquet, 75007 Paris France",4.0,19.0,37.0
+Les Apotres de Pigalle,"2 Rue Germain Pilon, 75018 Paris France",5.0,5.0,25.0
+Poni,"24 rue Saint Lazare, 75009 Paris France",5.0,12.0,45.0
+Cook' n Saj,"5 Rue Bernard Palissy, 75006 Paris France",5.0,5.0,25.0
+Perlimpinpin,"121 Rue De Rome, 75017 Paris France",5.0,15.0,27.0
+Pizzamore Paris,"121 Avenue Du Maine, 75014 Paris France",5.0,17.0,78.0
+Les Freres Bretons,"117, Boulevard de Grenelle Métro la motte picquet grenelle, 75015 Paris France",4.0,5.0,12.0
+Marche Ou Crêpe,"18 rue des Haies, 75020 Paris France",5.0,8.0,14.0
+Ya Bayte,"1 Rue Des Grands Degrés, 75005 Paris France",5.0,7.0,20.0
+Oriental Bowl - Bar à couscous,"13 rue de la Huchette Quartier latin, 75005 Paris France",5.0,7.0,14.0
+Pizzeria Arrivederci,"47 rue Gay Lussac, 75005 Paris France",5.0,9.0,22.0
+Verse toujours,"3 avenue des Gobelins, 75005 Paris France",5.0,11.0,24.0
+Bistrot Kinzo,"13 rue Rougemont, 75009 Paris France",5.0,18.0,49.0
+Chefs a Table,"15 rue Trousseau, 75011 Paris France",5.0,25.0,65.0
+Chez Arnaud,"16 rue Eugene Jumin, 75019 Paris France",4.0,17.0,23.0
+Au P'tit Curieux,"27 Rue de Sambre et  Meuse, 75010 Paris France",5.0,40.0,70.0
+Bao & ME,"89 Rue du Faubourg Poissonnière, 75009 Paris France",5.0,10.0,23.0
+Le Ju',"16 rue des archives, 75004 Paris France",4.0,9.0,22.0
+Chez Nicos,"44 rue Mouffetard, 75005 Paris France",4.0,4.0,10.0
+Jozi Café,"3, rue Valette, 75005 Paris France",5.0,2.0,15.0
+La Crêperie,"7 Rue Joseph de Maistre Quartier de Montmartre, 75018 Paris France",5.0,2.0,6.0
+Les Bariolés de Maud,"12 Rue Buffault, 75009 Paris France",5.0,10.0,30.0
+The Frog at Bercy Village,"25 Cour Saint Emilion, 75012 Paris France",4.0,11.0,17.0
+Da Giuseppe,"76 rue du Faubourg Poissonniere, 75010 Paris France",5.0,5.0,13.0
+Assanabel Saint-Germain,"38 rue Jacob, 75006 Paris France",4.0,20.0,90.0
+Miura,"15, rue de l'Arc de Triomphe, 75017 Paris France",5.0,59.0,85.0
+Assanabel,"6 Rue Pierre Chausson, 75010 Paris France",5.0,30.0,60.0
+L'Empreinte,"5 Rue Mouton Duvernet, 75014 Paris France",4.0,29.0,49.0
+Frog XVI,"110 Bis Avenue Kleber, 75116 Paris France",4.0,11.0,17.0
+Le Confidentiel,"6 rue Robert Estienne, 75008 Paris France",4.0,20.0,40.0
+Il Grano,"212 B boulevard Pereire, 75017 Paris France",4.0,15.0,35.0
+Chez Cleopatre,"46 Rue Condorcet, 75009 Paris France",5.0,6.0,23.0
+Pizza Presto,"avenue Paul Vaillant Couturier, 93330 Neuilly-sur-Marne France",5.0,10.0,30.0
+Bistrot Instinct,"19 Rue de Picardie, 75003 Paris France",5.0,35.0,63.0
+Midi 12,"12, Rue La Fayette, 75009 Paris France",4.0,8.0,25.0
+EatWith: Odile of Paris,Paris France,5.0,0.0,0.0
+Joyti Restaurant,"148, Rue de Vaugirard, 75015 Paris France",4.0,19.0,37.0
+La Veraison,"64 Rue de la Croix Nivert, 75015 Paris France",4.0,45.0,60.0
+Savannah Cafe,"27 rue Descartes 75005, 75005 Paris France",4.0,15.0,19.0
+Alix et Mika,"37 Rue Lamarck, 75018 Paris France",5.0,15.0,35.0
+Pastamore,"37 Boulevard du Montparnasse, 75006 Paris France",5.0,17.0,25.0
+Le Comptoir Boutary,"32 Rue Catherine De La Rochefoucauld, 75009 Paris France",5.0,19.0,47.0
+HABILE.,"16 Rue de Lancry À l'angle de la rue de Lancry et de la rue Château d'eau, 75010 Paris France",5.0,17.0,75.0
+La Réserve Du Terroir,"13 Rue Quincampoix, 75004 Paris France",5.0,15.0,35.0
+Orgueil,"6 rue Popincourt, 75011 Paris France",5.0,20.0,55.0
+Petit Boutary,"16 rue Jacquemont, 75017 Paris France",5.0,46.0,60.0
+Grains Nobles et Plus,"8 rue Boutebrie, 75005 Paris France",4.0,19.0,43.0
+Nell'Arte,"58 Rue Marguerite De Rochechouart, 75009 Paris France",5.0,11.0,19.0
+L'Atelier Ramey,"23 Rue Ramey, 75018 Paris France",4.0,18.0,42.0
+Le 27 Gourmand,"27 boulevard des Batignolles, 75008 Paris France",4.0,0.0,0.0
+Poni,"24 rue Saint Lazare, 75009 Paris France",5.0,12.0,45.0
+Pizzamore Paris,"121 Avenue Du Maine, 75014 Paris France",5.0,17.0,78.0
+Verse toujours,"3 avenue des Gobelins, 75005 Paris France",5.0,11.0,24.0
+Nectar,"7 rue Mayran Hôtel Maison mère, 75009 Paris France",5.0,15.0,69.0
+Bistro Chez Pradel,"3 rue du Pasteur Wagner, 75011 Paris France",5.0,12.0,40.0
+Le Village Russe,"21 quai D Austerlitz 1-2 Place Holmes, 75013 Paris France",4.0,25.0,80.0
+Can Alegria Paris,"73 rue Jean Baptiste Pigalle, 75009 Paris France",5.0,19.0,33.0
+Chez Arnaud,"16 rue Eugene Jumin, 75019 Paris France",4.0,17.0,23.0
+Mây Bay,"Rue Des Laitières, 94300 Vincennes France",5.0,4.0,30.0
+Terra Mia,"118 Boulevard Montparnasse, 75014 Paris France",5.0,10.0,30.0
+Pardi,"85 B boulevard de Magenta Marché Saint Quentin, 75010 Paris France",5.0,15.0,30.0
+JJ Beaumarchais,"92 boulevard Beaumarchais, 75011 Paris France",5.0,18.0,50.0
+Domenico's,"8 rue Saint Lazare, 75009 Paris France",5.0,20.0,29.0
+Chez Cleopatre,"46 Rue Condorcet, 75009 Paris France",5.0,6.0,23.0
+Granite,"6 Rue Bailleul, 75001 Paris France",5.0,0.0,0.0
+Comptoir Gourmet,"51 Rue du Temple Metro Ligne 1 - Station Hotel de Ville, Metro Ligne 11 - Station Rambuteau, 75004 Paris France",4.0,10.0,50.0
+La Table de Colette,"17 rue Laplace La Table de colette, 75005 Paris France",5.0,39.0,89.0
+La Maison Du Boulevard,"40 Boulevard de l'Hôpital, 75005 Paris France",5.0,0.0,0.0
+Crêperie du Landy,"3 rue du Landy, 92110 Clichy France",5.0,4.0,10.0
+Le Bistrot d'Yves,"33,rue Cardinet, 75017 Paris France",5.0,20.0,40.0
+La Sorbonne,"78 Av. Du Dr Arnold Netter, 75012 Paris France",5.0,9.0,19.0
+Marche Ou Crêpe,"18 rue des Haies, 75020 Paris France",5.0,8.0,14.0
+Ya Bayte,"1 Rue Des Grands Degrés, 75005 Paris France",5.0,7.0,20.0
+La Bonne Franquette,"18 Rue Saint Rustique Angle 2, Rue des Saules, 75018 Paris France",4.0,10.0,60.0
+La Grange Aux Canards,"23 rue Frederic Sauton, 75005 Paris France",5.0,18.0,58.0
+AlKaram,"15 Rue Ferdinand Fabre, 75015 Paris France",5.0,17.0,32.0
+TATA Burger,"54 Rue Sainte Croix de la Bretonnerie, 75004 Paris France",4.0,11.0,17.0
+Issa Paris,"4 rue du petit Moine, 75005 Paris France",5.0,20.0,40.0
+Le Faham by Kelly Rangama,"108 rue Cardinet, 75017 Paris France",5.0,47.0,61.0
+Passione,"123 Avenue Parmentier, 75011 Paris France",5.0,0.0,0.0
+Les Bariolés de Maud,"12 Rue Buffault, 75009 Paris France",5.0,10.0,30.0
+Selva,"22 Rue Du Sommerard, 75005 Paris France",5.0,20.0,50.0
+Restaurant L'INITIAL,"9 Rue de Bievre, 75005 Paris France",5.0,48.0,98.0
+Le Confidentiel,"6 rue Robert Estienne, 75008 Paris France",4.0,20.0,40.0
+Il Grano,"212 B boulevard Pereire, 75017 Paris France",4.0,15.0,35.0
+Diggity,"32 rue Saint Maur Diggity restaurant, 75011 Paris France",5.0,20.0,55.0
+Signature Montmartre,"12 Rue des Trois Frères, 75018 Paris France",5.0,38.0,78.0
+Midi 12,"12, Rue La Fayette, 75009 Paris France",4.0,8.0,25.0
+Frog & Underground,"176 Rue Montmartre, 75002 Paris France",5.0,12.0,19.0
+Le vent d'Armor,"25 Quai De La Tournelle, 75005 Paris France",5.0,30.0,70.0
+L'Atelier Ramey,"23 Rue Ramey, 75018 Paris France",4.0,18.0,42.0
+Frog & Rosbif,"116 rue Saint Denis, 75002 Paris France",4.0,11.0,17.0
+Les Freres Bretons,"117, Boulevard de Grenelle Métro la motte picquet grenelle, 75015 Paris France",4.0,5.0,12.0
+L'Annexe,"13 rue des Trois Frères, 75018 Paris France",4.0,20.0,40.0
+La Réserve des Initiés,"44 Rue Léon Frot, 75011 Paris France",4.0,15.0,40.0
+Desvouges,"6 Rue des Fossés Saint Marcel, 75005 Paris France",5.0,20.0,32.0
+The Frog Revolution,"9 rue de la Bastille, 75004 Paris France",4.0,11.0,20.0
+Restaurant Biscotte,"22 rue Desnouettes, 75015 Paris France",5.0,45.0,65.0
+India StreEAT,"105 Rue Monge, 75005 Paris France",5.0,12.0,15.0
+Le 217 Brasserie Restaurant,"217 avenue Daumesnil, 75012 Paris France",4.0,11.0,30.0
+Le Reciproque,"14 Rue Ferdinand Flocon, 75018 Paris France",5.0,21.0,47.0
+Terronia,"11 Rue des Boulangers Pas de parking dans la rue, 75005 Paris France",5.0,13.0,35.0
+1000 & 1 Signes,"76 rue de Charonne, 75011 Paris France",5.0,6.0,40.0
+L'Oliveto,"38 rue de Buci, 75006 Paris France",4.0,20.0,45.0
+L'Atelier Saisonnier,"58 Rue La Fayette, 75009 Paris France",4.0,20.0,32.0
+Joyti Restaurant,"148, Rue de Vaugirard, 75015 Paris France",4.0,19.0,37.0
+Le Cherine,"74, Rue de la Croix Nivert, 75015 Paris France",5.0,35.0,60.0
+Chez Pitou,"28 rue Tholoze, 75018 Paris France",5.0,10.0,25.0
+GRUPPOMIMO - Paris 2,"157 rue Montmartre, 75008 Paris France",4.0,,
+Grains Nobles et Plus,"8 rue Boutebrie, 75005 Paris France",4.0,19.0,43.0
+Chez Abda,"77, Avenue Pierre Brossolette 77 Avenue Pierre Brossolette, 94170, Le Perreux-sur-Marne, Val-de-Marne, Île-de-France, 94170 Le Perreux-sur-Marne France",4.0,25.0,35.0
+Le Bouclard,"1 Rue Cavallotti, 75018 Paris France",4.0,25.0,75.0
+Marclee,"10 Rue Saulnier, 75009 Paris France",4.0,69.0,69.0
+L'Escudella,"41 avenue de Segur, 75007 Paris France",4.0,24.0,55.0
+Mian Fan,"15 boulevard Montmartre, 75002 Paris France",4.0,9.0,22.0
+Sacrée fleur,"50 Rue de Clignancourt, 75018 Paris France",4.0,20.0,40.0
+Ristorante Al Caratello,"5 rue Audran, 75018 Paris France",4.0,15.0,23.0
+Chez Ajia,"4 Rue du Roi de Sicile Rez-de Chausee, 75004 Paris France",5.0,6.0,30.0
+La Trattoria dell'Isola,"40 rue Rodier, 75009 Paris France",4.0,15.0,30.0
+Flesh Restaurant Canal Saint Martin,"23 Rue Louis Blanc, 75010 Paris France",4.0,10.0,40.0
+Mayfair Garden,"33 Rue Longchamps Champs eylees trocadero, 75116 Paris France",5.0,30.0,60.0
+Buzkashi,"Rue des Dames, 75017 Paris France",4.0,11.0,31.0
+Le Bélisaire,"2 rue Marmontel, 75015 Paris France",4.0,0.0,0.0
+FOODI Jia-Ba-Buay,"2, Rue Du Nil Entrée par 3 Rue Damiette, 75002 Paris France",4.0,14.0,35.0
+Hebe,"15 rue Frederic Sauton, 75005 Paris France",4.0,16.0,70.0
+Bistro V,"56 Boulevard de Port Royal, 75005 Paris France",4.0,78.0,78.0
+Picotte,"42 rue de Malte, 75011 Paris France",5.0,27.0,40.0
+Le Bistrot d'Indochine,"49 Rue de Dantzig, 75015 Paris France",4.0,12.0,35.0
+Frog Hop House,"10 rue des Capucines, 75002 Paris France",4.0,10.0,20.0
+Restaurant Friends & Family,"St 18 Cité Bergère Entrée du passage via le 6 rue du Fbg Montmartre ou le 21-23 rue Bergère, 75009 Paris France",4.0,25.0,50.0
+Tadam Paris,"14 Rue du Jura, 75013 Paris France",5.0,25.0,50.0
+Bodega Potxolo,"7, rue de Forge Royale, 75011 Paris France",4.0,19.0,35.0
+Le Clos Y,"27 avenue du Maine, 75015 Paris France",4.0,42.0,93.0
+Chào bà,"14 Rue Coypel près de la place d'Italie, 75013 Paris France",4.0,11.0,30.0
+The Frog and Princess,"9 rue Princesse, 75006 Paris France",4.0,11.0,17.0
+L'Hommage,"36 avenue de Choisy, 75013 Paris France",4.0,27.0,58.0
+Phebe,"190 Rue de Courcelles, 75017 Paris France",4.0,20.0,50.0
+L'Acolyte de L'Insolite,"49 rue de la Folie-Méricourt, 75011 Paris France",4.0,17.0,35.0
+Au P'tit Zinc,"2 rue des Plantes Angle du 174 avenue du Maine, 75014 Paris France",4.0,0.0,0.0
+Le Sanglier Bleu,"102 Boulevard de Clichy, 75018 Paris France",4.0,16.0,45.0
+RESTAURANT DE LA CORDONNERIE,"20 rue Saint Roch 20 Rue Saint Roch, 75001 Paris France",4.0,23.0,30.0
+La Boite Aux Lettres,"108 Rue Lepic, 75018 Paris France",4.0,13.0,39.0
+TRADI,"4 Rue Du Mail, 75002 Paris France",4.0,35.0,62.0
+Figuig,"Rue Brey 13, 75017 Paris France",5.0,15.0,25.0
+B.Better,"26 Rue Beautreillis, 75004 Paris France",5.0,15.0,30.0
+Les Crêpes de Louis-Marie,"1, Rue de l'Arbalète, 75005 Paris France",4.0,4.0,16.0
+A-TABLE,"92 rue de la Reunion, 75020 Paris France",4.0,15.0,20.0
+Aux Délices du Liban,"3 rue de l'Estrapade, 75005 Paris France",4.0,17.0,30.0
+La Petite Rose des Sables,"6 rue de Lancry, 75010 Paris France",4.0,15.0,30.0
+Restaurant La Pie Noir,"5 Rue de la Montagne Sainte Genevieve, 75005 Paris France",4.0,20.0,32.0
+La Table Du Caviste Bio,"55 Rue de Prony, 75017 Paris France",4.0,35.0,90.0
+"Respiro, Trattoria - Pizzeria","18 rue Maitre Albert, 75005 Paris France",4.0,7.0,43.0
+24 Le Restaurant,"24 Rue Jean Mermoz Champs-Elysées, 75008 Paris France",5.0,39.0,59.0
+La Puce,"17 rue Ernest Renan, 93400 Saint-Ouen France",4.0,15.0,36.0
+Sathees,"Marche Alimentaire Saint-Germain 4 - 8 rue Lobineau, 75006 Paris France",4.0,12.0,17.0
+Restaurant de la Tour,"6 Rue Desaix, 75015 Paris France",4.0,25.0,50.0
+Aux 2 Saveurs,"6 Rue Emile Gilbert, 75012 Paris France",4.0,30.0,45.0
+La Pépinière,"6 Place Saint Augustin 6 Place Saint-Augustin, 75008 Paris France",2.0,25.0,35.0
+La Cassolette,"44 Avenue du Mesnil, 94210 Saint-Maur-des-Fossés France",4.0,15.0,30.0
+Cantina Chic,"14 rue de l'Etoile 75017 Paris, 75017 Paris France",4.0,15.0,25.0
+Arnaud Nicolas,"46, Avenue de la Bourdonnais 46, Avenue de la Bourdonnais, 75007 Paris France",4.0,25.0,50.0
+Huîtres et Saumons de Passy,"17 Rue de l'Annonciation, 75016 Paris France",4.0,24.0,65.0
+Le 975,"185 Rue Marcadet, 75017 Paris France",4.0,23.0,43.0
+Zia,"22 Avenue de Tourville, 75007 Paris France",4.0,10.0,35.0
+Jackpot,"10 Rue des Haudriettes près du croisement , Rue des Haudriettes / Rue du Temple, 75003 Paris France",4.0,19.0,31.0
+Pop's,"38 Rue du Ranelagh, 75016 Paris France",4.0,12.0,25.0
+Pane olio e pomodoro,"46 rue de la Fontaine au Roi, 75011 Paris France",4.0,10.0,25.0
+L'Escale Caraibéenne,"3 Galerie de la Fontaine, 92360, Meudon France",4.0,10.0,18.0
+Flesh Restaurant Pigalle,"25 Rue de Douai, 75009 Paris France",4.0,19.0,37.0
+Monterosso,"7 Rue Georges Bouzerait, 92120 Montrouge France",4.0,,
+LaHaut,"70 avenue Franklin Roosevelt, 92150 Suresnes France",4.0,32.0,33.0
+Cabane,"8-10 rue du Dr Foucault, 92000 Nanterre, La Defense France",4.0,0.0,0.0
+Lucette fait des Crepes,"4 Rue De Milan, 75009 Paris France",4.0,3.0,24.0
+Le Cherine,"74, Rue de la Croix Nivert, 75015 Paris France",5.0,35.0,60.0
+Il Padrino,"49 rue Custine, 75018 Paris France",4.0,,
+Buddha Restaurant,"13 rue Saint Hippolyte, 75013 Paris France",4.0,10.0,25.0
+HABILE.,"16 Rue de Lancry À l'angle de la rue de Lancry et de la rue Château d'eau, 75010 Paris France",5.0,17.0,75.0
+Astair,"19 Passage des Panoramas Intersection entre la Galerie des Variétés et le Passage des Panoramas, 75002 Paris France",4.0,20.0,50.0
+Mobster Diner,"20 rue des Boulangers 75005, 75005 Paris France",4.0,9.0,13.0
+La Bécane À Gaston,"24, Rue Lucien Sampaix, 75010 Paris France",4.0,19.0,56.0
+BMK Paris-Bamako,"14 Rue de la Fidélité, 75010 Paris France",4.0,10.0,16.0
+Olympe Sports Cafe,"46 avenue du General de Gaulle, 94300 Vincennes France",4.0,17.0,27.0
+Ze Kitchen Galerie,"4, Rue Des Grands Augustins, 75006 Paris France",4.0,41.0,98.0
+Le Ju',"16 rue des archives, 75004 Paris France",4.0,9.0,22.0
+Le Petit Vendome,"8 rue des Capucines, 75002 Paris France",4.0,16.0,32.0
+46 & 3rd,"46 rue de Turbigo, 75003 Paris France",4.0,9.0,17.0
+Chez Marcel,"7 rue Stanislas, 75006 Paris France",4.0,25.0,60.0
+Lilane,"8 rue Gracieuse, 75005 Paris France",4.0,0.0,0.0
+Bellini,"140 Avenue de la République, 92120 Montrouge France",4.0,,
+Bistrot Côté Seine,"12, Quai Georges Clemenceau, 78380 Bougival France",4.0,15.0,30.0
+Eataly Paris Marais,"37 Rue Sainte-Croix de la Bretonnerie, 75004 Paris France",4.0,10.0,40.0
+Le Sâotico,"96 Rue de Richelieu, 75002 Paris France",4.0,18.0,50.0
+Les Cuivres,"68 avenue de la Republique, 75011 Paris France",4.0,12.0,35.0
+Sourire Le Restaurant,"15 rue de la Santé, 75013 Paris France",4.0,39.0,69.0
+Nirvana Inde,"6 rue de Moscou, 75008 Paris France",4.0,20.0,40.0
+Lorette,"Rue Saint Lazare, 75009 Paris France",4.0,14.0,40.0
+Le Berkeley,"7 avenue Matignon, 75008 Paris France",4.0,19.0,75.0
+La Ripaille,"22 Place Louis XIII, 94150 Rungis France",4.0,0.0,0.0
+La Réserve Du Terroir,"13 Rue Quincampoix, 75004 Paris France",5.0,15.0,35.0
+Lea,"152 rue de Paris, 94220 Charenton-le-Pont France",4.0,14.0,35.0
+Pizza Pasta Cosy,"63 Boulevard Lefebvre, 75015 Paris France",4.0,14.0,40.0
+Bonpot,"162 rue Montmartre, 75002 Paris France",4.0,15.0,25.0
+L'Envie du Jour,"106 Rue Nollet, 75017 Paris France",4.0,16.0,44.0
+LE LOUIS,"31 Rue Coquilliere, 75001 Paris France",4.0,20.0,50.0
+La Baignoire,"7 Rue Notre Dame de Bonne Nouvelle, 75002 Paris France",5.0,14.0,32.0
+Petite fleur,"5 Rue Damrémont, 75018 Paris France",4.0,23.0,50.0
+Les Trublions,"34 Rue De La Montagne Sainte Genevieve, 75005 Paris France",4.0,19.0,34.0
+Brutus - Batignolles,"99 rue des Dames, 75017 Paris France",4.0,12.0,20.0
+Chez Toinette,"20, rue Germain Pilon, 75018 Paris France",4.0,19.0,40.0
+LOCO,"31 bis Rue du Faubourg Montmartre, 75009 Paris France",4.0,16.0,30.0
+A modo mio,"4 rue de Turenne, 75004 Paris France",4.0,13.0,35.0
+Restaurant Japonais La Marina,"18 Rue de la Michodière, 75002 Paris France",4.0,8.0,28.0
+Oh my french burger,"25 Rue Lavoisier, 75008 Paris France",5.0,5.0,17.0
+Kitchen Galerie Bis,"25 Rue des Grands Augustins, 75006 Paris France",4.0,29.0,66.0
+La Vittoria,"173 Rue du Temple, 75003 Paris France",5.0,12.0,20.0
+Desi Road,"14, Rue Dauphine, 75006 Paris France",4.0,14.0,37.0
+L'Atelier Artisan Crêpier,"10 Rue Mabillon, 75006 Paris France",4.0,4.0,21.0
+Lakshmi Bhavan,"57 rue Rodier, 75009 Paris France",4.0,,
+La Vie d'Ange,"41 boulevard Saint Jacques Montparnasse, 75014 Paris France",4.0,28.0,66.0
+La Jacobine,"59-61 Rue Saint-André des Arts Passage du commerce saint andré des arts, 75006 Paris France",4.0,13.0,34.0
+La Pause Libanaise,"8 Rue De L'Isly, 75008 Paris France",4.0,20.0,45.0
+Little Breizh,"11 rue Gregoire de Tours Métro Odéon, 75006 Paris France",4.0,10.0,16.0
+Loubnane,"29 Rue Galande, 75005 Paris France",4.0,25.0,45.0
+Pizza Pasta Cosy,"63 Boulevard Lefebvre, 75015 Paris France",4.0,14.0,40.0
+Crêpe Avenue,"4 rue de Surene 75008, 75008 Paris France",4.0,5.0,25.0
+La Forge,"14 Rue Pascal Métro Censier Daubenton, 75005 Paris France",4.0,18.0,60.0
+Racina,"43 rue Descartes, 75005 Paris France",4.0,6.0,20.0
+MARDI - Crêperie Urbaine,"137 Rue Montmartre, 75002 Paris France",4.0,2.0,15.0
+Bistrot Paul Chêne,"123 rue Lauriston, 75116 Paris France",4.0,18.0,60.0
+Jeannot et Colin,"51 Boulevard Voltaire, 75011 Paris France",4.0,15.0,45.0
+Rajpoot,"210 bd de Créteil, 94100 Saint-Maur-des-Fossés France",4.0,,
+Le Boissy d'Anglas,"41 rue Boissy d'Anglas, 75008 Paris France",4.0,15.0,50.0
+La Crepe Rit Du Clown,"6 Rue des Canettes, 75006 Paris France",4.0,8.0,20.0
+Ripaille,"69 rue des Dames, 75017 Paris France",4.0,27.0,55.0
+Fanfan,"18 Rue Bayen, 75017 Paris France",4.0,35.0,95.0
+Le Sain Sert,"3 Rue Roque De Fillol, 92800 Puteaux, La Defense France",4.0,18.0,45.0
+Supermian,"86 Rue De Richelieu, 75002 Paris France",4.0,,
+Aux Cerises,"47 Avenue de Suffren, 75007 Paris France",4.0,13.0,29.0
+Restaurant L'Homme Bleu,"Oberkampf 55 B rue Jean Pierre Timbaud, 75011 Paris France",4.0,18.0,40.0
+Les Cèdres du Liban Paris,"5 Av. du Maine, 75015 Paris France",4.0,10.0,25.0
+0039 Ristorante Italiano,"24 Rue des Tournelles Quartier Le Marais, 75004 Paris France",4.0,23.0,37.0
+Paris Pyla,"4 Place du 18 Juin 1940, 75006  Paris France",0.0,0.0,0.0
+Le Vieux Bistrot,"54 rue Mouffetard, 75005 Paris France",4.0,22.0,35.0

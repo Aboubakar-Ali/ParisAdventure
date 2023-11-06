@@ -18,4 +18,8 @@
     overflow: scroll;
     height: 200px;
 }
-  
+
+.sep {
+    color: #ffffff;
+    background: #ff7787;
+}

@@ -1,0 +1,777 @@
+Nom,price,time,adress,Open,Close
+Square Charles Péguy,0.0,0.0,"21 Rue de Rottembourg, 75012 Paris France",9.0,21.0
+Théâtre Guichet Montparnasse,0.0,0.0,"15 rue du Maine 14th, 75014 Paris France",9.0,18.0
+"La statue ""Annibal""",0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Monument du Corps Expeditionnaire Russe,0.0,0.0,"1 Place du Canada, 75008 Paris France",9.0,21.0
+Statue de la Liberté,0.0,0.0,"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Buste de Gustave Eiffel,0.0,0.0,"5 avenue Anatole France à proximité du pilier nord de la Tour Eiffel, 75007 Paris France",9.0,21.0
+Statue du capitaine Dreyfus,0.0,0.0,"Place Pierre Lafue, 75006 Paris France",9.0,21.0
+Monument Jules Ferry,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Cité Véron,0.0,0.0,Tout afficher,9.0,21.0
+Marché de la Nation,0.0,0.0,Tout afficher,9.0,21.0
+Statue Equestre de Jeanne d'Arc,0.0,0.0,"Place Saint-Augustin, 75008 Paris France",0.0,23.59
+Eglise Saint Jacques Saint Christophe de la Villette,0.0,0.0,"6 Place de Bitche, 75019 Paris France",9.0,21.0
+Square Marcel Pagnol,0.0,0.0,"12 rue de Laborde, 75008 Paris France",9.0,21.0
+Fontaine des Ambassadeurs,0.0,0.0,"Avenue des Champs-Élysées, 75008 Paris France",9.0,21.0
+Piscine Georges Vallerey,0.0,0.0,"148 avenue Gambetta 20th Arrondissement, 75020 Paris France",9.0,21.0
+Fontaine des Quatre Saisons,0.0,0.0,"57 rue de Grenelle, 75007 Paris France",9.0,21.0
+Statue Etienne Marcel,0.0,0.0,"1341 Quai de l'Hôtel de ville, 75004 Paris France",9.0,21.0
+Eglise Notre Dame du Perpétuel Secours,0.0,0.0,"55 Boulevard de Menilmontant, 75011 Paris France",9.0,21.0
+Le Défenseur du Temps,0.0,0.0,"8 rue Bernard de Clairvaux, 75003 Paris France",9.0,21.0
+Statue de Foch,0.0,0.0,"Place du Trocadero, 75016 Paris France",0.0,23.59
+Médiathèque Françoise Sagan,0.0,0.0,"8 Rue Léon Schwartzenberg, 75010 Paris France",9.0,21.0
+Jardins d'Éole,0.0,0.0,"56 rue d Aubervilliers rue Riquet, 75018 Paris France",9.0,21.0
+Hôtel de Matignon,0.0,0.0,"57 rue de Varenne, 75007 Paris France",9.0,21.0
+Statue L'Abondance,0.0,0.0,Tout afficher,9.0,21.0
+Immeuble 3 Square Rapp,0.0,0.0,"3 Square Rapp, 75007 Paris France",9.0,21.0
+Fresque Accident à la Gare Montparnasse,0.0,0.0,"66 avenue du Maine, 75014 Paris France",9.0,21.0
+Eglise Saint Dominique,0.0,0.0,"Rue de la Tombe Issoire, 75014 Paris France",9.0,21.0
+Square Claude Charpentier,0.0,0.0,"14 rue du Mont-Cenis, 75108 Paris France",9.0,21.0
+Theatre de L'Archipel,0.0,2.0,"17 boulevard de Strasbourg, 75010 Paris France",9.0,21.0
+Square Suzanne-Buisson,0.0,0.0,"7Bis Rue Girardon, 75018 Paris France",9.0,21.0
+La Statue de Sainte-Geneviève,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+Centr’Halles Park,0.0,0.0,"117 rue Rambuteau Forum des Halles, 75001 Paris France",9.0,21.0
+Buste d'Antoine de Saint-Exupéry,0.0,0.0,"Square Santiago du Chili - 1 avenue de la Motte Picquet, 75007 Paris France",9.0,21.0
+Eglise Sainte Marie des Batignolles,0.0,0.0,"77 Place Felix Lobligeois, 75017 Paris France",9.0,21.0
+Fondation Calouste Gulbenkian - Délégation en France,0.0,2.0,"39 boulevard de la Tour Maubourg, 75007 Paris France",9.0,18.0
+Église Saint Jean Baptiste de Grenelle,0.0,0.0,"23 Place Etienne Pernet, 75015 Paris France",9.0,21.0
+Fontaines de Pol Bury,0.0,0.0,"Rue de Valois Galerie d'Orléans, 75001 Paris France",9.0,21.0
+Statue de Benjamin Franklin,0.0,0.0,"Square Yorktown, 75016 Paris France",9.0,21.0
+Immeuble du 61 rue Réaumur,0.0,0.0,"61 rue de Réaumur, 75002 Paris France",9.0,21.0
+Fontaine Cite Trevise,0.0,0.0,"Cite Trevise, 75009 Paris France",9.0,21.0
+Espace Sportif Pailleron,0.0,3.0,"32 Rue Édouard Pailleron 32 Rue Édouard Pailleron, 75019 Paris France",7.0,22.3
+Statue équestre de Washington,0.0,0.0,"Place d'Iena, 75016 Paris France",9.0,21.0
+Square du Général Morin,0.0,0.0,"Rue Réaumur, 75003 Paris France",9.0,21.0
+Monument a Jean Moulin,0.0,0.0,"Avenue de Marigny Jardin des Champs Elysées, 75008 Paris France",0.0,23.59
+Square d'Ajaccio,0.0,0.0,"127 Rue de Grenelle, 75007 Paris France",9.0,21.0
+Statue de Strasbourg,0.0,0.0,"Place de la Concorde, 75008 Paris France",0.0,23.59
+Galerie J. Kugel,0.0,2.0,"25 Quai Anatole, 75007 Paris France",9.0,21.0
+Le Village Suisse,0.0,2.0,"78 Avenue de Suffren, 75015 Paris France",11.0,19.0
+Statue Minerve à la Chouette,0.0,0.0,"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Cimetière des Batignolles,0.0,0.0,"8 rue Saint Just, 75017 Paris France",9.0,21.0
+Ambassade d'Italie,0.0,0.0,"47 rue de Varenne, 75343 Paris France",9.0,21.0
+Le Poète ou Hommage à Paul Eluard,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+Église Saint-Charles-de-Monceau,0.0,0.0,"22 Bis Rue Legendre, 75017 Paris France",9.0,21.0
+Statue de Brest,0.0,0.0,"Place de la Concorde, 75008 Paris France",9.0,21.0
+Eglise Notre-Dame de la Croix de Ménilmontant,0.0,0.0,"3 Place de Menilmontant, 75020 Paris France",9.0,21.0
+Statue Jeune fille allongée,0.0,0.0,"Jardin du Carrousel, 75001 Paris France",9.0,21.0
+Peniche Anako,0.0,0.0,"Quai de la Seine, 75013 Paris France",9.0,21.0
+Eglise Saint Bernard de la Chapelle,0.0,0.0,"6 Rue Saint-Luc, 75018 Paris France",9.0,21.0
+Lafayette Anticipations,0.0,2.0,"9 rue du Platre, 75004 Paris France",11.0,19.0
+Passage Couvert Vendôme Paris III,0.0,0.0,"16 Rue Béranger, 75003 Paris France",9.0,21.0
+La statue La Seine,0.0,0.0,Tout afficher,9.0,21.0
+La Statue Diane,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Carré d'artistes Saint Germain,0.0,0.0,"66 rue St André des Arts, 75006 Paris France",11.0,0.0
+La Comédie Saint-Michel,0.0,0.0,"95 Boulevard Saint Michel, 75005 Paris France",10.0,23.3
+La Bruyère,0.0,0.0,"5 rue la Bruyere 9th, 75009 Paris France",9.0,21.0
+Square Maurice Kriegel Valrimont,0.0,0.0,"1 Square de Clignancourt, 75018 Paris France",9.0,21.0
+Eglise Notre Dame d'Esperance,0.0,0.0,"47 rue de la Roquette, 75011 Paris France",9.0,21.0
+Sculpture La Foule,0.0,0.0,"1 Jardin des Tuileries Au Pied des Escaliers Menant au Jeu de Paume, 75001 Paris France",9.0,21.0
+Ecole des danses latines tropicales,0.0,0.0,"40 rue de Citeaux, 75012 Paris France",10.3,22.3
+Statue Thomas Paine,0.0,0.0,"2 rue Gazan Parc Montsouris, 75014 Paris France",9.0,21.0
+La Statue d'Edouard VII,0.0,0.0,"10 Place Edouard VII, 75009 Paris France",9.0,21.0
+Emilio Robba,0.0,0.0,"29 Galerie Vivienne 29/33 Galerie Vivienne, 75002 Paris France",9.0,21.0
+Fontaine de la Croix-du-Trahoir,0.0,0.0,"Rue de l'Arbre Sec Rue Saint-Honoré, 75001 Paris France",9.0,21.0
+"Statue ""Les Continents"" : ""L'Océanie""",0.0,0.0,"Rue de Lille Parvis du Musée d'Orsay, 75007 Paris France",9.0,21.0
+Statue Cassandre se mettant sous la protection de Pallas,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Universités Pierre et Marie Curie,0.0,0.0,"4 Place Jussieu, 75252 Paris France",9.0,21.0
+"La statue ""Diane à la biche""",0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Monument au General Mangin,0.0,0.0,"Place du President Mithouard, 75007 Paris France",9.0,21.0
+La Cariatide,0.0,0.0,"57 rue de Turbigo, 75003 Paris France",0.0,23.59
+Le Monument aux Étudiants Résistants,0.0,0.0,"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Sculpture Standing Woman,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+"La statue ""Tigresse apportant un paon à ses petits""",0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Cathédrale Notre-Dame-du-Liban,0.0,0.0,"15-17 Rue d'Ulm, 75005 Paris France",9.0,21.0
+Quartier de l'Ancien Cloître,0.0,0.0,"Rue du Cloître-Notre-Dame, 75004 Paris France",7.45,18.45
+Statue de Lille,0.0,0.0,"Place de la Concorde, 75008 Paris France",9.0,21.0
+Stèle en hommage aux Goumiers marocains,0.0,0.0,"1 Place Denys Cochin, 75007 Paris France",9.0,21.0
+La Statue La Loire Et Le Loiret,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Monument Waldeck Rousseau,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Théâtre La Cachette,0.0,2.0,"124, avenue d’Italie, 75013 Paris France",9.0,17.3
+Palais d'Iéna,0.0,0.0,"9 Place d'Iéna, 75116 Paris France",9.0,21.0
+Fontaine de la Place Saint Georges,0.0,0.0,"Place Saint Georges, 75009 Paris France",9.0,21.0
+Fresque d'Ernesto Novo,0.0,0.0,"64 rue du Moulin des Pres, 75013 Paris France",9.0,21.0
+Statue l'Hiver,0.0,0.0,"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Église Saint-Philippe-du-Roule,0.0,0.0,"Rue du Faubourg Saint-Honore North of a Paris Metro station on Line 9 that bears the same name as the church, Saint-Philippe-du-Roule, 75008 Paris France",9.0,21.0
+La Colonne Médicis,0.0,0.0,"2 Rue de Viarmes, 75001 Paris France",9.0,21.0
+Monument Fontaine Eugene Delacroix,0.0,0.0,"Jardin du Luxembourg cote Orangerie, 75006 Paris France",9.0,21.0
+Théâtre de Poche-Montparnasse,0.0,0.0,"75 boulevard du Montparnasse, 75006 Paris France",9.0,21.0
+Statue de Bernard Palissy,0.0,0.0,"Square Felix Desruelles, 75006 Paris France",9.0,21.0
+Fontaine de Jarente,0.0,0.0,"2 impasse de la Poissonnerie, 75004 Paris France",9.0,21.0
+Statue de Flore,0.0,0.0,"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Bassin Octogonal,0.0,0.0,"Jardin des Tuilleries, 75001 Paris France",9.0,21.0
+Fontaine La Seine et ses Affluents,0.0,0.0,"Avenue du Général Eisenhower, 75008 Paris France",9.0,21.0
+"Statue ""La Seine et la Marne""",0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Sentier Nature du 16 eme,0.0,0.0,"Boulevard de Beauséjour, 75016 Paris France",9.0,21.0
+Square Alban Satragne,0.0,2.0,"11 Square Alban Satragne, 75010 Paris France",9.0,21.0
+Chateau de la Reine Blanche,0.0,2.0,"6 rue Gustave Geffroy, 75013 Paris France",9.0,21.0
+La Statue de Blanche de Castille,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+La Statue Cincinnatus,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+La Nymphe,0.0,0.0,"Jardin du Carrousel, 75001 Paris France",9.0,21.0
+Bas-relief de la rue du Faubourg Montmartre,0.0,0.0,"21 rue du Faubourg Montmartre, 75009 Paris France",9.0,21.0
+La Comédie Statue,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Église Notre Dame de Bonne Nouvelle,0.0,0.0,"25 rue de la Lune, 75002 Paris France",9.0,21.0
+Statue d'Alfred de Musset,0.0,0.0,Tout afficher,9.0,21.0
+Eglise Saint André de l'Europe,0.0,0.0,"24 Bis Rue de Saint Petersbourg, 75008 Paris France",9.0,21.0
+La Fontaine Louvois,0.0,0.0,Visiter le site web,9.0,21.0
+Statue Honore de Balzac,0.0,0.0,"1 Place Georges Guillaumin, 75008 Paris France",9.0,21.0
+Les Fontaines du Rond-point des Champs-Elysées,0.0,0.0,"Rond-Point des Champs-Élysées, 75008 Paris France",0.0,23.59
+Eglise Saint Jacques du Haut Pas,0.0,2.0,"252 rue Saint Jacques, 75005 Paris France",9.0,21.0
+Cloître des Billettes,0.0,0.0,"24 rue des Archives, 75004 Paris France",9.0,21.0
+Bibliothèque américaine,0.0,0.0,"10 rue du General Camou 7th, 75007 Paris France",13.0,19.0
+Jardin du Ranelagh,0.0,2.0,"1 Avenue Prudhon, 75016 Paris France",9.0,21.0
+Institut Suédois,0.0,0.0,"11 rue Payenne, 75003 Paris France",9.0,21.0
+Hôtel Drouot,0.0,3.0,"9 rue Drouot, 75009 Paris France",9.0,21.0
+Lost in Frenchlation,0.0,3.0,Visiter le site web,9.0,21.0
+Place des Fêtes,0.0,0.0,Visiter le site web,9.0,21.0
+Statue Equestre d'Albert 1 er,0.0,0.0,"Cours la Reine, 75008 Paris France",9.0,21.0
+Boom Boom Villette,0.0,0.0,"30 Avenue Corentin Cariou, 75019 Paris France",10.0,1.0
+Péniche café librairie L'eau Et Les Rêves,0.0,0.0,"Face au 9 Quai de l'Oise, 75019 Paris France",12.0,20.0
+Goutte d'or,0.0,3.0,Tout afficher,9.0,21.0
+Statue d'Haussmann,0.0,0.0,"Angle Boulevard Haussmann Angle boulevard Haussmann et rue de Laborde, 75008 Paris France",0.0,23.59
+Quartier des Batignolles,0.0,3.0,"Rue De Levis 77 Place du Dr Felix Lobligeois, 75017 Paris France",9.0,21.0
+Supreme,0.0,0.0,"20 Rue Barbette, 75003 Paris France",0.0,18.0
+Bourse du Commerce,18.5,2.0,"2 Rue de Viarmes, 75001 Paris France",11.0,19.0
+Passage des Princes,0.0,0.0,"5 Boulevard des Italiens 97 Rue de Richelieu, 75002 Paris France",9.0,21.0
+Théâtre des Bouffes du Nord,0.0,0.0,"37 B boulevard de la Chapelle, 75010 Paris France",9.0,21.0
+Théâtre Hébertot/Petit Hébertot,0.0,0.0,"78 B boulevard des Batignolles 17th, 75017 Paris France",11.0,15.0
+Rue Mallet-Stevens,0.0,0.0,Tout afficher,9.0,21.0
+La France Renaissante,0.0,0.0,Tout afficher,9.0,21.0
+Galerie de Medicis,0.0,0.0,"18 Place des Vosges Place des Vosges, 75004 Paris France",9.0,21.0
+La Ruche,0.0,0.0,"2 Passage de Dantzig, 75015 Paris France",9.0,21.0
+Place Stalingrad,0.0,0.0,Tout afficher,9.0,21.0
+Pont au Double,0.0,0.0,"Promenade Maurice Careme, 75004 Paris France",9.0,21.0
+Marché Popincourt,0.0,2.0,"Boulevard Richard Lenoir noordelijk van Metro station Richard Lenoir, 75016 Paris France",9.0,21.0
+Square Édouard VII,0.0,0.0,"Pl. Édouard VII, 75009 Paris France",9.0,21.0
+UNESCO Building,0.0,0.0,"7 Place de Fontenoy Unesco, 75007 Paris France",9.0,21.0
+Eglise Notre Dame des Champs,0.0,0.0,"91 boulevard du Montparnasse, 75006 Paris France",9.0,21.0
+La Galerie Royale,0.0,0.0,"11 rue Royale, 75008 Paris France",9.0,21.0
+Musée de la Sculpture en Plein Air,0.0,0.0,"Jardin Tino Rossi, 75005 Paris France",9.0,21.0
+Monument à Pasteur,0.0,0.0,"Place de Breteuil Sur l'emplacement de l'ancienne tour du puits artésien de Breteuil, 75007 Paris France",0.0,23.59
+Église Saint Honore d'Eylau,0.0,2.0,"66 Bis Avenue Raymond Poincare, 75116 Paris France",9.0,21.0
+Église Saint Michel des Batignolles,0.0,2.0,"3 Place Saint-Jean, 75017 Paris France",9.0,21.0
+BAPBAP  Bière Artisanale,0.0,2.0,"79 rue Saint Maur Métro: Rue Saint-Maur, ligne 3, 75011 Paris France",9.0,21.0
+La Petite Ceinture du 12th arrondissement,0.0,0.0,"21 Rue Rottembourg Accessible from 21 Rue Rottembourg, 75012 Paris France",9.0,21.0
+Bibliothèque Nationale de France - Richelieu Site,0.0,2.0,"58 Rue de Richelieu, 75002 Paris France",9.0,21.0
+Jardin Villemin Paris X,0.0,2.0,"14 Rue des Récollets, 75010 Paris France",9.0,21.0
+Mairie du 1er Arrondissement de Paris,0.0,0.0,"4 Place du Louvre, 75042 Paris France",9.0,21.0
+Monument des Droits de l'Homme,0.0,0.0,"Avenue Charles Risler Champs de Mars, 75007 Paris France",9.0,21.0
+Cité Florale,0.0,0.0,"Rue Brillat-Savarin, 75013 Paris France",9.0,21.0
+Les Atlantes de l'avenue Daumesnil,0.0,0.0,"Rue de Rambouillet, 75012 Paris France",9.0,21.0
+Préfecture de Police,0.0,0.0,"1 Rue de Lutèce Place Louis Lépine, 75004 Paris France",9.0,21.0
+Théâtre du Gymnase,0.0,0.0,"38 boulevard de Bonne Nouvelle, 75010 Paris France",9.0,21.0
+Square Paul-Painlevé,0.0,0.0,"2 Place Paul Painlevé, 75005 Paris France",9.0,21.0
+Monument au Maréchal Galliéni,0.0,0.0,"2 avenue de Tourville Pl. Vauban, 75007 Paris France",9.0,21.0
+Cité des Fleurs Paris XVII,0.0,0.0,"154 ave de Clichy, 75017 Paris France",9.0,21.0
+Statue De Thomas Jefferson,0.0,0.0,Visiter le site web,9.0,21.0
+La Congrégation du Saint-Esprit,0.0,0.0,"30 rue Lhomond, 75005 Paris France",9.0,21.0
+Statue Mercure Chevauchant Pégase,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Stade Sebastien Charlety,0.0,0.0,"99 Boulevard Kellermann 17 Avenue Pierre de Coubertin, 75013 Paris France",9.0,21.0
+Fontaine du Palmier,0.0,0.0,"1 Place du Chatelet, 75001 Paris France",9.0,21.0
+Eglise Notre Dame de Consolation,0.0,0.0,"23 rue Jean Goujon, 75008 Paris France",9.0,21.0
+Statue Venus Callipyge,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Le Buste de Charles Garnier,0.0,0.0,"Rue Scribe Rampe de l'Opéra Garnier, 75009 Paris France",9.0,21.0
+Pont Louis Philippe,0.0,0.0,"Quai de l'Hotel de Ville, 75004 Paris France",9.0,21.0
+Square Nadar Paris XVIII,0.0,0.0,"2, rue Saint-Éleuthère Accès Rue Azaïs, 75018 Paris France",9.0,21.0
+Square Barye,0.0,0.0,"2 Boulevard Henri IV Ile Saint Louis, 75004 Paris France",9.0,21.0
+Jardin Sauvage de St-Vincent,0.0,2.0,"17 rue Saint Vincent, 75018 Paris France",9.0,21.0
+Maison de Robespierre,0.0,0.0,"398 rue Saint Honore, 75001 Paris France",9.0,21.0
+Temple du Marais - Eglise Reformée du Marais,0.0,0.0,"17 rue Saint Antoine, 75004 Paris France",9.0,21.0
+Jardin de l'Intendant Paris VII,0.0,0.0,"Avenue de Tourville Boulevard de Latour Maubourg, 75007 Paris France",9.0,21.0
+À la Gloire de l’Armée Française 1914-1918,0.0,0.0,"Place du Trocadero, 75016 Paris France",9.0,21.0
+Statue de Beaumarchais,0.0,0.0,"Rue des Tournelles, 75004 Paris France",9.0,21.0
+Galerie de Botanique - Jardin des Plantes Paris V,0.0,2.0,En savoir plus sur le bien-être animal dans le tourisme,10.0,18.0
+Musée Edith Piaf,0.0,0.0,"5 rue Crespin du Gast, 75011 Paris France",13.0,18.0
+Jardin Flottant Niki de Saint Phalle,0.0,0.0,"Quai d'Orsay. 5 Îles Péniches Bord de Seine Port du Gros Caillou, Berges de Seine, 75007 Paris France",9.0,21.0
+Square Richard Lenoir Paris XI,0.0,2.0,"35 Boulevard Richard Lenoir Entre Bastille et L'avenue de la République, 75011 Paris France",9.0,21.0
+Pont d'Austerlitz,0.0,0.0,Visiter le site web,9.0,21.0
+Pavillon de l'Eau,0.0,0.0,"77 avenue de Versailles, 75016 Paris France",9.0,21.0
+Monument à Adam Mickiewicz,0.0,0.0,Visiter le site web,9.0,21.0
+Musée de la Contrefaçon,0.0,0.0,"16 rue de la Faisanderie, 75116 Paris France",14.0,17.3
+Enceinte de Philippe Auguste,0.0,0.0,"Rue Clovis, 75004 Paris France",9.0,21.0
+Statue du Maréchal Moncey,0.0,0.0,"Place Clichy, 75008 Paris France",9.0,21.0
+Art 42,0.0,0.0,"96 Boulevard Bessières, 75017 Paris France",9.0,21.0
+Statue de Voltaire,0.0,0.0,"2 rue de Seine Square Honore Champion, 75006 Paris France",9.0,21.0
+Musée François Tillequin,0.0,3.0,"4 avenue de l Observatoire Faculté de Pharmacie de Paris, 75006 Paris France",9.0,21.0
+Dynamo Cycling,0.0,2.0,"14 rue Saint Agustin, 75002 Paris France",9.0,21.0
+Square de la Tour Saint Jacques,0.0,0.0,"39 Rue de Rivoli, 75004 Paris France",9.0,21.0
+Square Emile Chautemps,0.0,0.0,"98Bbis Boulevard de Sébastopol, 75003 Paris France",9.0,21.0
+Le Pletzl,0.0,0.0,Tout afficher,9.0,21.0
+Theatre Michel,0.0,0.0,"38 rue des Mathurins, 75008 Paris France",9.0,21.0
+Passage Couvert du Bourg-l'Abbé Paris II,0.0,2.0,"Entre 120 Rue Saint-Denis et 3 Rue de Palestro, 75002 Paris France",9.0,21.0
+Piscine Joséphine Baker,0.0,0.0,"Port de la Gare Quai François Mauriac, 75013 Paris France",7.0,0.0
+Centre Culturel Irlandais,0.0,0.0,"5 rue des Irlandais, 75005 Paris France",14.0,18.0
+Eglise Saint Pierre de Chaillot,0.0,0.0,"31 Avenue Marceau, 75116 Paris France",7.45,19.0
+Le Groupe Sculpté La Poésie,0.0,0.0,"Place de l'Opéra l’Opéra Garnier, 75009 Paris France",0.0,23.59
+Rue Etienne Marcel,0.0,0.0,Tout afficher,9.0,21.0
+Théatre Comédie Caumartin,0.0,0.0,"25 rue de Caumartin, 75009 Paris France",11.3,18.3
+Fontaine Gaillon,0.0,0.0,"Place Gaillon, 75002 Paris France",9.0,21.0
+Statue Cheval a la Herse,0.0,0.0,"Quai Anatole France Musée d'Orsay, 75007 Paris France",9.0,21.0
+La Statue de l'Acteur Grec,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+Les Blancs Manteaux,0.0,0.0,"15 rue des Blancs Manteaux, 75004 Paris France",18.3,21.0
+Jardins de l'Hôpital Saint Louis,0.0,0.0,"12 Rue de la Grange aux Belles, 75010 Paris France",9.0,21.0
+Petit Bain,0.0,3.0,"7 Port de la Gare, 75013 Paris France",9.0,21.0
+Le Messager Zadkine,0.0,0.0,"Quay d'Orsay, 75007 Paris France",9.0,21.0
+Artcurial,0.0,0.0,"7 Rond-Point des Champs-Élysées, 75008 Paris France",9.0,21.0
+Square des Poètes Paris XVI,0.0,0.0,"1 Avenue du Général Sarrail, 75016 Paris France",9.0,21.0
+Eglise Saint Joseph des Carmes,0.0,0.0,"70 Rue de Vaugirard, 75006 Paris France",9.0,21.0
+Eglise Saint Antoine des Quinze Vingts,0.0,0.0,Tout afficher,9.0,21.0
+American Musical Theatre LIVE! Paris,0.0,0.0,"24 rue Louis Blanc Diva's Kabaret, 75004 Paris France",9.0,21.0
+La Statue d'Auguste Comte,0.0,0.0,"7 Place de la Sorbonne, 75005 Paris France",9.0,21.0
+Rue de Lappe,0.0,0.0,"Rue de Lappe, 75011 Paris France",9.0,21.0
+La Statue César,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Lampadaires Colonnes Rostrales,0.0,0.0,"Place de la Concorde, 75008 Paris France",9.0,21.0
+Theatre Le Bout,0.0,2.0,"6 rue Frochot, 75009 Paris France",9.0,21.0
+Square Félix-Desruelles,0.0,2.0,"168 bis Boulevard Saint-Germain, 75006 Paris France",9.0,21.0
+Statue Le Centaure Nessus Enlevant Dejanire,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+RER,0.0,0.0,Tout afficher,9.0,21.0
+Statue de Jean Jacques Rousseau,0.0,0.0,"Place du Pantheon, 75005 Paris France",0.0,23.59
+Angel Bear,0.0,0.0,"Place Napoleon III Gare du Nord, 75010 Paris France",9.0,21.0
+Chapelle des Missions Étrangères de Paris,0.0,0.0,"128 R%ue de Bac, 75007 Paris France",9.0,21.0
+Monument à Danton,0.0,0.0,"97 boulevard Saint Germain Place Henri Mondor, 75006 Paris France",9.0,21.0
+Statue de Saint Denis,0.0,0.0,"7 Bis Rue Girardon, 75018 Paris France",9.0,21.0
+Fontaines de la Place des Vosges,0.0,0.0,"Place des Vosges, 75004 Paris France",9.0,21.0
+Square Boucicaut,0.0,0.0,"1 Rue de Babylone, 75007 Paris France",9.0,21.0
+Statue de Marie Emile Fayolle,0.0,0.0,"Place Vauban, 75007 Paris France",9.0,21.0
+Statue Le Nil,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Institut d’Art et d’Archéologie,0.0,0.0,"3, rue Michelet Université de Paris, 75006 Paris France",9.0,21.0
+Marché Buci,0.0,0.0,"Rue de Buci, 75006 Paris France",9.0,21.0
+Square Alex Biscarre Paris IX,0.0,0.0,"31 Rue Notre Dame de Lorette, 75009 Paris France",9.0,21.0
+Monument en hommage à Komitas,0.0,0.0,Tout afficher,9.0,21.0
+Monument a Frederic Chopin,0.0,0.0,Tout afficher,9.0,21.0
+Square Saint Eloi,0.0,0.0,"11 rue du Colonel Rozanoff, 75012 Paris France",9.0,21.0
+Cour de L'industrie,0.0,0.0,"37 Bis Rue Montreuil, 75011 Paris France",9.0,21.0
+Eglise Saint Leon,0.0,0.0,"1 Place du Cardinal Amette, 75015 Paris France",9.0,21.0
+Galerie Bartoux,0.0,0.0,"5, avenue Matignon, 75008 Paris France",10.3,20.0
+Bouquet de tulipes - Jeff Koons,0.0,0.0,"1 avenue Dutuit, 75008 Paris France",9.0,21.0
+Lion de Belfort,0.0,0.0,"2 M Place Denfert Rochereau, 75014 Paris France",9.0,21.0
+"La statue ""La Renommée Chevauchant Pégase""",0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Sculpture La Jeunesse,0.0,0.0,Tout afficher,9.0,21.0
+Théatre de la Pépinière,0.0,2.0,"7 Rue Louis le Grand, 75002 Paris France",9.0,21.0
+Cathédrale grecque Saint-Étienne de Paris,0.0,0.0,"7 Rue Georges Bizet, 75116 Paris France",9.0,21.0
+La Statue de Marguerite de Navarre,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+Observatoire de Paris,0.0,0.0,"61 avenue de l'Observatoire, 75014 Paris France",9.0,21.0
+Cite de la Mode Et du Design,0.0,2.0,"28 quai D Austerlitz, 75013 Paris France",10.0,0.0
+Esplanade Habib-Bourguiba,0.0,0.0,Tout afficher,9.0,21.0
+Théâtre Tristan Bernard,0.0,2.0,"64 rue du Rocher, 75008 Paris France",9.0,21.0
+Passage du Caire,0.0,2.0,"Place du Caire 239 Rue Saint Denis, 75002 Paris France",7.0,18.3
+Théâtre de Dix Heures,0.0,0.0,"36 boulevard de Clichy, 75018 Paris France",14.0,23.3
+Commanderie du Clos-Montmartre,0.0,0.0,"9 rue Norvins, 75018 Paris France",9.0,21.0
+Fontaine des Fleuves,0.0,0.0,"Place de la Concorde, 75008 Paris France",0.0,23.59
+Espace Fondation EDF,0.0,2.0,"6 rue Récamier, 75007 Paris France",9.0,21.0
+Place du Caire,0.0,0.0,"Rue des Petits-Carreaux, 75002 Paris France",0.0,23.59
+La Fontaine aux Lions,0.0,0.0,"Place Felix Eboue, 75019 Paris France",9.0,21.0
+Carré Marigny,0.0,0.0,Tout afficher,9.0,21.0
+Église Roumaine Orthodoxe des Saints-Archanges,0.0,0.0,"9 B rue Jean de Beauvais, 75005 Paris France",9.0,21.0
+Arbre des Voyelles,0.0,0.0,"Jardin des Tuileries, 75001 Paris France",7.0,21.0
+Eglise Saint Thomas d'Aquin,0.0,0.0,Visiter le site web,9.0,21.0
+Le Zèbre de Belleville,0.0,0.0,"63 boulevard de Belleville, 75011 Paris France",9.0,21.0
+Fontaine Cuvier,0.0,0.0,"20 rue Cuvier, 75005 Paris France",9.0,21.0
+Petite Ceinture du 13ème,0.0,0.0,"60 Rue Damesme, 75013 Paris France",9.0,21.0
+Eglise Saint Louis de la Salpêtrière,0.0,2.0,"47 boulevard de l Hopital, 75013 Paris France",10.3,0.0
+Les Guichets du Palais du Louvre,0.0,0.0,"Quai François Mitterrand, 75001 Paris France",9.0,21.0
+Sculpture Joie de Vivre,0.0,0.0,"Jardins du Trocadero, 75016 Paris France",0.0,23.59
+Parc Sainte-Périne,0.0,2.0,"41 rue Mirabeau avenue de Versailles, 75016 Paris France",8.0,21.0
+Petit-Pont-Cardinal-Lustiger,0.0,0.0,"Quai du Marché Neuf, 75004 Paris France",9.0,21.0
+Les Docks,0.0,0.0,"34 quai D Austerlitz, 75013 Paris France",10.0,0.0
+Parc des Pelouses d'Auteuil,0.0,2.0,"Place de la Porte d'Auteuil, 75016 Paris France",9.0,21.0
+La Statue de Laure de Noves,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+L'Immortalité Devançant le Temps,0.0,0.0,"Avenue Winston Churchill Cour La Reine, 75008 Paris France",0.0,23.59
+Église Saint-Jean-Baptiste de Belleville,0.0,0.0,"139 Rue de Belleville, 75019 Paris France",9.0,21.0
+Fontaine de la Porte Dorée,0.0,2.0,"Place Edouard-Renard, 75012 Paris France",9.0,21.0
+Cimetière Saint-Vincent,0.0,0.0,"6 rue Lucien Gaulard 18e, 75018 Paris France",8.0,17.0
+Chevalier de La Barre,0.0,0.0,"1 rue Saint Eleuthere Square Nadar, 75018 Paris France",9.0,21.0
+"La statue ""Flore Farnèse""",0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Cavalier romain,0.0,0.0,Tout afficher,9.0,21.0
+Parc de Choisy,0.0,0.0,"2 Rue du Docteur Magnan, 75013 Paris France",9.0,21.0
+L'ile Aux Images,0.0,0.0,"51 Rue Saint-Louis en l'Île, 75004 Paris France",14.0,19.0
+Square Paul-Langevin,0.0,0.0,"20 Rue Monge, 75005 Paris France",9.0,21.0
+La Statue de la Louve Capitoline,0.0,0.0,"56 Rue des Écoles Carré Paul Painlevé, 75005 Paris France",9.0,21.0
+Passage Lhomme,0.0,0.0,"Rue de Charonne, 75011 Paris France",9.0,21.0
+Statue La Grisette,0.0,0.0,"Boulevard Jules Ferry, 75011 Paris France",9.0,21.0
+Hôtel de Beauharnais,0.0,2.0,"78 rue de Lille, 75007 Paris France",9.0,21.0
+Port Autonome de Paris,0.0,2.0,"2 quai de Grenelle, 75732 Paris France",9.0,21.0
+Theatre Les Feux de la Rampe,0.0,0.0,Visiter le site web,9.0,21.0
+Square des Missions Étrangères Paris VII,0.0,0.0,"105 Rue du Bac, 75007 Paris France",9.0,21.0
+Turenne Enfant,0.0,0.0,"110 rue de Turenne, 75003 Paris France",9.0,21.0
+Le Monument A Charles Perrault,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Jardin de l'Hôtel Lamoignon Paris IV,0.0,0.0,"25 Rue des Francs Bourgeois, 75003 Paris France",9.0,21.0
+La Statue Equestre de La Fayette,0.0,0.0,"Cours La Reine, 75008 Paris France",9.0,21.0
+Lac Inférieur du Bois de Boulogne,0.0,2.0,Tout afficher,9.0,21.0
+La Pyramide du Parc Monceau,0.0,0.0,Visiter le site web,9.0,21.0
+Square Saint-Gilles Grand Veneur - Pauline-Roland Paris III,0.0,0.0,"9 Rue du Grand Veneur, 75003 Paris France",9.0,21.0
+Les Six Continents: L'Afrique,0.0,0.0,"Rue de Lille Parvis du Musée d'Orsay, 75007 Paris France",9.0,21.0
+Passage Couvert du Prado Paris X,0.0,0.0,"12 Rue du Faubourg Saint Denis, 75010 Paris France",9.0,21.0
+Galerie des Enfants,0.0,2.0,"36 rue Geoffroy Saint Hilaire, 75005 Paris France",0.0,0.0
+Le viaduc d'Austerlitz,0.0,0.0,"85 Quai d'Austerlitz, 75013 Paris France",9.0,21.0
+Fontaine des Arts et Métiers,0.0,0.0,Tout afficher,9.0,21.0
+Collection de Mineraux,0.0,2.0,"4 Place Jussieu Universite Pierre Et Marie Curie, 75005 Paris France",9.0,21.0
+"La statue ""Jules César""",0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Synagogue Buffault,0.0,0.0,"28 rue Buffault, 75009 Paris France",9.0,21.0
+Le Poète Chevauchant Pégase,0.0,0.0,"6 Sq. de l'Opéra-Louis Jouvet, 75009 Paris France",9.0,21.0
+Statue Le Rhinocéros,0.0,0.0,"Quai Anatole France, 75007 Paris France",9.0,21.0
+Galerie Joseph - 7 Bachaumont,0.0,0.0,"7 rue Bachaumont, 75002 Paris France",9.0,21.0
+Statue Tigre Terrassant un Crocodile,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Esplanade Gaston Monnerville Paris VI,0.0,0.0,"7 Place André Honnorat, 75006 Paris France",9.0,21.0
+Paris Rive Gauche,0.0,3.0,Visiter le site web,9.0,21.0
+Paroisse Saint Ferdinand des Ternes,0.0,0.0,"27 rue d Armaille, 75017 Paris France",9.0,21.0
+Bibliothèque historique de la ville de Paris,0.0,0.0,"24 Rue Pavée, 75004 Paris France",10.0,18.0
+Comedie Tour Eiffel,0.0,0.0,"14 rue Desaix, 75015 Paris France",9.0,21.0
+Le Répit du Travailleur,0.0,0.0,"94 rue Jean Pierre Timbaud, 75011 Paris France",9.0,21.0
+Galerie Valérie Valentini,0.0,0.0,"27 rue Gabrielle, 75018 Paris France",9.0,21.0
+Le monument a Washington et La Fayette,0.0,0.0,"Place des Etats-Unis, 75016 Paris France",9.0,21.0
+Statue Rhinocéros attaqué par un Tigre,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Fontaine du Trocadero,0.0,0.0,"avenue Gustave V de Suede, 75116 Paris France",9.0,21.0
+Église Sainte-Jeanne-de-Chantal,0.0,0.0,"96 Boulevard Murat, 75016 Paris France",9.0,21.0
+Fontaine de la Vierge,0.0,0.0,"Quai de l'Archeveche, 75004 Paris France",9.0,21.0
+La Statue de Clémence Isaure,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+Statue du Maréchal Lyautey,0.0,0.0,"1 Place Denys Cochin, 75007 Paris France",0.0,23.59
+Chapelle de la Sorbonne,0.0,0.0,"1 rue Victor Cousin, 75005 Paris France",9.0,21.0
+Fontaine de Georges Jeanclos,0.0,0.0,"Square Rene Viviani, 75005 Paris France",9.0,21.0
+Gagosian Gallery,0.0,0.0,"4 rue de Ponthieu, 75008 Paris France",9.0,21.0
+Square Montholon,0.0,0.0,"2 rue Mayran, 75009 Paris France",9.0,21.0
+5ème arrondissement,0.0,0.0,Tout afficher,9.0,21.0
+Pavillon de l'Ermitage,0.0,0.0,"148 rue de Bagnolet, 75020 Paris France",9.0,21.0
+Theatre Rive Gauche,0.0,2.0,"6 rue de la Gaite, 75014 Paris France",9.0,21.0
+Sculptures Taureau et Daim,0.0,0.0,"Fontaines des Jardins du Trocadéro, 75016 Paris France",0.0,23.59
+Mémorial National de la Guerre d'Algérie et des Combats du Maroc et de la Tunisie,0.0,0.0,Tout afficher,9.0,21.0
+Théâtre de l'Atelier,0.0,0.0,"Place Charles Dullin, 75018 Paris France",9.0,21.0
+Square Claude Debussy,0.0,0.0,"Avenue du Marechal Fayolle, 75016 Paris France",9.0,21.0
+Paris dans la tête Mural,0.0,0.0,"171 rue la Fayette 4 rue de l’Aqueduc, 75010 Paris France",0.0,23.59
+Jardin de l'Hôtel Salomon de Rothschild Paris VIII,0.0,0.0,"12 Avenue de Friedland, 75008 Paris France",9.0,21.0
+Société Générale,0.0,0.0,"29 boulevard Haussmann, 75421 Paris France",9.0,21.0
+Statue de Valentine de Milan,0.0,0.0,"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Theatre Mélo d'Amélie,0.0,2.0,"4 rue Marie Stuart, 75002 Paris France",9.0,21.0
+Jardin d'Erevan,0.0,0.0,"19X Cours la Reine, 75008 Paris France",9.0,21.0
+Synagogue Agoudas Hakehilos,0.0,0.0,"10 Rue Pavée, 75004 Paris France",9.0,21.0
+Yvon Lambert Bookshop,0.0,0.0,"14 rue des Filles du Calvaire, 75003 Paris France",9.0,21.0
+Square de l'Opéra Louis-Jouvet,0.0,0.0,"5 rue Boudreau 10 Bis rue Édouard VII, 75009 Paris France",9.0,21.0
+Monument à Francis Garnier,0.0,0.0,"Place Camille Julian at the intersection of Boulevard Saint-Michel and the Avenue of the Observatory, 75006 Paris France",9.0,21.0
+L'Embâcle,0.0,0.0,Tout afficher,9.0,21.0
+Galerie Montmartre,0.0,0.0,"11 Place du Tertre, 75018 Paris France",11.0,18.0
+FrogPubs,0.0,2.0,"110 Bis Avenue Kleber, 75116 Paris France",9.0,21.0
+Hotel-Dieu de Paris,0.0,0.0,"1 Parvis Notre-Dame, 75004 Paris France",9.0,21.0
+L'homme et sa misère,0.0,0.0,"Rue de rivoli Jardin des tuileries, 75001 Paris France",9.0,21.0
+Cheval Cabré,0.0,0.0,"3 Place Lucien Herr, 75005 Paris France",9.0,21.0
+Statue Cain Venant de Tuer son Frère,0.0,0.0,"1 Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Eglise Saint Jean Baptiste de la Salle,0.0,0.0,"9 rue du Docteur Roux, 75015 Paris France",9.0,21.0
+Église Sainte-Anne de la Butte-aux-Cailles,0.0,0.0,"188 Rue de Tolbiac, 75013 Paris France",9.0,21.0
+Parc de Passy,0.0,0.0,"32 Avenue du Président Kennedy, 75016 Paris France",9.0,21.0
+Les Enfants du Monde,0.0,0.0,"128 quai de Bercy Parc de Bercy, 75012 Paris France",0.0,23.59
+Fontaine Martin,0.0,0.0,"Rue des Recollets Jardin Villemin, 75010 Paris France",9.0,21.0
+Le Monument aux Combattants Polonais,0.0,0.0,Tout afficher,9.0,21.0
+Galerie de la Madeleine,0.0,0.0,"9 Place de la Madeleine, 75008 Paris France",9.0,21.0
+La Statue de Lamarck,0.0,0.0,"2 Place Valhubert, 75005 Paris France",9.0,21.0
+Fontaine de la Nymphe Marine,0.0,0.0,"176 rue Saint Honore, 75001 Paris France",0.0,23.59
+Galerie GADCOLLECTION,0.0,0.0,"4 rue du Pont Louis Philippe, 75004 Paris France",9.0,21.0
+Institut des Cultures d'Islam,0.0,0.0,"19-23 rue Léon, 75018 Paris France",9.0,21.0
+Statue de Mihai Eminescu,0.0,0.0,"intersection Rue des Ecoles et Rue Jean-de-Beauvais, 75005 Paris France",9.0,21.0
+Statue de Condorcet,0.0,0.0,Tout afficher,9.0,21.0
+Statue La Nymphe,0.0,0.0,"Rue du Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Statue de Blaise Pascal,0.0,0.0,"Square de la Tour Saint Jacques, 75004 Paris France",9.0,21.0
+L'Harmonie Triomphant de la Discorde,0.0,0.0,"Avenue Winston Churchill Sur le toit du Grand Palais, 75008 Paris France",0.0,23.59
+Square du Serment de Koufra Paris XIV,0.0,0.0,"187 Rue de la Légion Étrangère, 75014 Paris France",9.0,21.0
+Aux Negociants,0.0,0.0,"27 rue Lambert, 75018 Paris France",12.0,0.0
+Immeuble BNP Paribas,0.0,0.0,"14 rue Bergère, 75009 Paris France",9.0,21.0
+Monument au Maréchal Juin,0.0,0.0,"Place d'Italie, 75013 Paris France",9.0,21.0
+"Statue ""Lion et Lionne se Disputant un Sanglier""",0.0,0.0,"1 Jardin des Tuileries near rue de Rivoli at the entrance near the Tuileries metro station, 75001 Paris France",9.0,21.0
+Hôtel des Ambassadeurs de Hollande,0.0,0.0,"47 Rue Vieille du Temple, 75004 Paris France",9.0,21.0
+Monument à Balzac par Rodin,0.0,0.0,"136 Boulevard Raspail, 75006 Paris France",9.0,21.0
+Galerie  du Credit Municipal  de Paris,0.0,0.0,"55 rue des Francs Bourgeois, 75181 Paris France",9.0,18.0
+La Statue La Marchande de Masques,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+La Statue de Charles Leconte de Lisle,0.0,0.0,"69 boulevard Saint Michel À l'intérieur du Jardin du Luxembourg, 75005 Paris France",9.0,21.0
+Théâtre Libre,0.0,0.0,"4, Boulevard de Strasbourg, 75010 Paris France",9.0,21.0
+Immeuble Art-Nouveau,0.0,0.0,"14 rue d Abbeville, 75010 Paris France",9.0,21.0
+Cavalier Gaulois,0.0,0.0,Tout afficher,9.0,21.0
+Théâtre Le Passage vers les Etoiles,0.0,2.0,"17 Cite Joly, 75011 Paris France",9.0,21.0
+Square Sarah Bernhardt,0.0,0.0,"2 Rue de Buzenval, 75020 Paris France",9.0,21.0
+La statue de Léon Serpollet,0.0,0.0,"Place Saint-Ferdinand, 75017 Paris France",9.0,21.0
+Fresque Chuuuttt !!!,0.0,0.0,"1 Place Igor Stravinsky, 75004 Paris France",0.0,23.59
+Jardins des Archives Nationales Paris III,0.0,2.0,"60 Rue des Francs Bourgeois, 75003 Paris France",9.0,21.0
+Statue L'Industrie,0.0,0.0,Tout afficher,9.0,21.0
+Marché Auguste Blanqui,0.0,0.0,"Boulevard Auguste Blanqui Entre Place D'Italie et rue Barrault, 75013 Paris France",9.0,21.0
+Fontaine Wallace Murale,0.0,0.0,"Rue Geoffroy Saint-Hilaire Angle rue Cuvier, 75005 Paris France",9.0,21.0
+Église Saint Germain de Charonne Paris XX,0.0,0.0,"122 Rue de Bagnolet, 75020 Paris France",9.0,21.0
+Eglise Saint Joseph Artisan,0.0,0.0,"214 Rue Lafayette, 75010 Paris France",9.0,21.0
+Statue Retour de Chasse,0.0,0.0,"Rue do Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Château d'Eau de Montmartre,0.0,0.0,"14 rue du Mont Cenis, 75018 Paris France",9.0,21.0
+Les Étoiles,0.0,3.0,"61 Rue du Château d'Eau, 75010 Paris France",9.0,21.0
+Statue Le faune dansant,0.0,0.0,"Rue Auguste Comte Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Le 13ème Art,0.0,2.0,"Place d'Italie Centre Commercial Italie 2, 75013 Paris France",9.0,21.0
+Monument a Guy de Maupassant,0.0,0.0,Tout afficher,9.0,21.0
+Bibliothèque-musée de l'Opéra,0.0,0.0,"Palais Garnier  8 rue Scribe Accès Angle des Rues Scribe et Auber, 75009 Paris France",10.0,17.0
+Monument à la France La Belgique reconnaissante.,0.0,0.0,"1 Place de la Reine Astrid, 75008 Paris France",9.0,21.0
+Faubourg Saint-Germain,0.0,0.0,Tout afficher,9.0,21.0
+Auteuil,0.0,0.0,Tout afficher,9.0,21.0
+Chapelle de l'Hôpital Lariboisière,0.0,0.0,"2, rue Ambroise Paré, 75010 Paris France",9.0,21.0
+Rue Saint-Martin,0.0,2.0,Tout afficher,9.0,21.0
+Maison Eymonaud,0.0,0.0,"7 impasse Marie Blanche, 75018 Paris France",9.0,21.0
+Les Fils de Caïn,0.0,0.0,"1 Jardin des Tuileries Terrasse du Bord de l'Eau, 75001 Paris France",9.0,21.0
+Monument à Aristide Briand,0.0,0.0,"35 quai D Orsay, 75007 Paris France",9.0,21.0
+Café de la danse,0.0,0.0,"5 Passage Louis Philippe, 75011 Paris France",9.0,21.0
+Lock Busters,0.0,2.0,"2 Rue Crillon, 75004 Paris France",17.3,23.45
+Max Rumeau Photography,0.0,0.0,Visiter le site web,9.0,21.0
+Christopher's Paris,0.0,0.0,Envoyer un e-mail,9.0,21.0
+Family Focus Tours Paris,0.0,0.0,Envoyer un e-mail,9.0,21.0
+"Paris Wine Co, Paris wine tasting Experience",0.0,0.0,Envoyer un e-mail,9.0,21.0
+Art-Tour Ramona Rorvik,0.0,0.0,Visiter le site web,9.0,21.0
+Pont de Sully,0.0,0.0,"Quai de la Tournelle, 75005 Paris France",9.0,21.0
+Arboretum Du Bois De Vincennes,0.0,2.0,"4 route de la Pyramide, 75012 Paris France",9.0,21.0
+Statue Équestre De Simon Bolivar,0.0,0.0,"1910 Port des Champs-Élysées Cours la Reine, 75008 Paris France",0.0,23.59
+Le Temple Protestant De L'Oratoire Du Louvre,0.0,0.0,"145 Rue Saint Honoré 160 Rue de Rivoli, 75001 Paris France",9.3,11.3
+Église Sainte-Marguerite,0.0,0.0,"36 rue Saint Bernard Paris 11, 75011 Paris France",8.3,0.0
+Moulin Radet,0.0,0.0,"83 Rue Lepic, 75018 Paris France",9.0,21.0
+Square René-Le Gall et Obélisque Paris XIII,0.0,0.0,"28 Rue de Croulebarbe, 75013 Paris France",9.0,21.0
+Ateliers-musée Chana Orloff,0.0,2.0,"7 B Villa Seurat, 75014 Paris France",9.0,21.0
+Statue de Michel de Montaigne,0.0,0.0,"place Paul Painleve rue des Ecoles, 75005 Paris France",9.0,21.0
+Tramway T3,0.0,2.0,Visiter le site web,9.0,21.0
+Chapelle Notre-Dame du Saint Sacrement,0.0,0.0,"20 rue Cortambert, 75116 Paris France",9.0,21.0
+La Butte Bergeyre,0.0,0.0,"70 rue Georges Lardennois, 75019 Paris France",9.0,21.0
+École Du Breuil,0.0,3.0,"Route de la Ferme, 75012 Paris France",9.0,21.0
+Monument d'Alexandre Dumas,0.0,0.0,"Place du Général Catroux, 75017 Paris France",9.0,21.0
+Parc Clichy-Batignolles - Martin-Luther-King,0.0,0.0,"147 Rue Cardinet Rue Bernard Buffet, Rue Gilbert Cesbron, Allée Colette Heilbronner, 75017 Paris France",9.0,21.0
+Élysée Palace,0.0,2.0,"55 Rue du Faubourg Saint-Honoré, 75008 Paris France",9.0,21.0
+20ème arrondissement,0.0,0.0,Tout afficher,9.0,21.0
+Parc de la Butte-du-Chapeau-Rouge,0.0,2.0,"Boulevard d'Algérie, 75019 Paris France",9.0,21.0
+Maison de la Culture du Japon a Paris,0.0,0.0,"101 B quai Branly, 75015 Paris France",9.0,21.0
+Eglise Saint-Leu-Saint-Gilles,0.0,0.0,"92 rue Saint-Denis, 75001 Paris France",9.0,12.3
+Tombe de Dalida,0.0,0.0,"20 avenue Rachel Cimetière de Montmartre, 75018 Paris France",9.0,21.0
+Place du Marché Saint Honoré,0.0,2.0,"Place du Marché Saint Honoré, 75001 Paris France",9.0,21.0
+Le Mur de la Paix,0.0,0.0,Visiter le site web,9.0,21.0
+Pavillon de l'Arsenal,0.0,0.0,"21 boulevard Morland, 75004 Paris France",11.0,19.0
+Eglise orthodoxe Saint Serge de Radonège,0.0,0.0,"93 rue de Crimee, 75019 Paris France",9.0,21.0
+Théâtre de la Madeleine,0.0,0.0,"19 rue de Surene, 75008 Paris France",14.0,16.0
+Pont Saint-Michel,0.0,0.0,Tout afficher,9.0,21.0
+Musée National de la Marine,0.0,2.0,"17 Place du Trocadéro et du 11 Novembre, 75116 Paris France",11.0,19.0
+Eglise Saint Christophe de Javel,0.0,0.0,"4 rue Saint Christophe, 75015 Paris France",10.0,20.0
+Eglise Notre-Dame de l'Assomption,0.0,0.0,"263 Rue Saint-Honoré, 75001 Paris France",9.0,21.0
+Essaion Theatre,0.0,0.0,"6 rue Pierre au Lard, 75004 Paris France",18.0,20.0
+Castel Beranger,0.0,0.0,"14 rue Jean de la Fontaine, 75016 Paris France",9.0,21.0
+Eglise Saint-Ambroise,0.0,0.0,"2 rue Saint Ambroise, 75011 Paris France",9.0,21.0
+Grand Bassin du Luxembourg Paris VI,0.0,0.0,"26 Rue de Vaugirard Dans le Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Bibliothèque Mazarine,0.0,2.0,"23 Quai de Conti Place de l'Institut, 75006 Paris France",9.0,21.0
+Les Arcades des Champs Elysées,0.0,0.0,"78 Champs Elysées, 75008 Paris France",9.0,21.0
+Musée de la Poste Paris XV,0.0,0.0,"34 Boulevard de Vaugirard, 75015 Paris France",11.0,18.0
+Jardin Nelson-Mandela,0.0,0.0,"32 rue Berger Au-Dessus De La Dalle Du Forum Des Halles, 75001 Paris France",0.0,23.59
+Les Folies Gruss,0.0,0.0,"Carrefour des Cascades, 75016 Paris France",9.0,21.0
+Théâtre du Rond-Point,0.0,2.0,"2 B avenue Franklin Delano Roosevelt, 75008 Paris France",9.0,21.0
+Marché couvert Saint Martin,0.0,0.0,"31-33 rue du Château d'Eau, 75010 Paris France",9.0,21.0
+Musée du Service de Santé des Armées au Val-de-Grâce,0.0,2.0,"1 Place Alphonse Laveran, 75005 Paris France",12.0,18.0
+Place des Pyramides,0.0,0.0,"Rue de Rivoli, 75001 Paris France",9.0,21.0
+Statue Équestre de Louis XIV,0.0,2.0,"Cour Napoléon Dans La Pyramide du Louvre, 75010 Paris France",0.0,23.59
+Lac des Minimes Paris XII,0.0,0.0,Visiter le site web,9.0,21.0
+Église Saint-Pierre-du-Gros-Caillou,0.0,2.0,"92 Rue Saint-Dominique, 75007 Paris France",9.0,21.0
+Fondation Jerome Seydoux-Pathe,0.0,0.0,"73 avenue des Gobelins, 75013 Paris France",9.0,21.0
+Église Saint-Ignace,0.0,0.0,"33 rue de Sevres, 75006 Paris France",9.0,21.0
+Conseil d'État,0.0,0.0,"1 Place du Palais Royal, 75100 Paris France",9.0,21.0
+Pont de la Tournelle,0.0,0.0,"Ile Saint-Louis, 75004 Paris France",9.0,21.0
+Pont Notre Dame,0.0,0.0,"77 quai de la Corse 12 Quai de Gesvres, 75004 Paris France",0.0,23.59
+Square Georges-Cain Paris III,0.0,0.0,"Rue Payenne, 75003 Paris France",9.0,21.0
+Thesee combattant le Minotaure,0.0,0.0,"Rue de Rivoli Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Musee Art Nouveau Collection 1900 - Maxim's,0.0,0.0,"3 Rue Royale, 75008 Paris France",9.0,21.0
+Le Centaure de César,0.0,0.0,"Place Michel Debré Carrefour de la Croix-Rouge, 75006 Paris France",9.0,21.0
+Marché aux Puces de Montreuil,0.0,0.0,"Ave. de la Porte de Montreuil, 75020 Paris France",8.0,18.3
+Appartement-Atelier de Le Corbusier,0.0,2.0,"24 rue Nungesser Et Coli, 75016 Paris France",9.0,21.0
+Porte Saint Martin Paris X,0.0,0.0,"1 Rue du Faubourg Saint Martin, 75010 Paris France",0.0,23.59
+Église du Saint-Esprit,0.0,2.0,"186 Avenue Daumesnil, 75012 Paris France",9.0,21.0
+Parc Kellermann Paris XIII,0.0,2.0,"19 Rue de la Poterne des Peupliers, 75013 Paris France",9.0,21.0
+Galerie Perrotin,0.0,0.0,"76 Rue de Turenne 75003, 75003 Paris France",9.0,21.0
+Théâtre le Ranelagh,0.0,2.0,"5 rue des Vignes, 75016 Paris France",9.0,21.0
+Eglise Saint Pierre Montrouge,0.0,0.0,"Rue Maine/Rue Alesia, 75014 Paris France",9.0,21.0
+Marche Edgar Quinet,0.0,0.0,"Boulevard Edgar Quinet Sur le terre-plein entre le numéro 36 et la Rue du Départ, 75014 Paris France",9.0,21.0
+La Tropicale,0.0,0.0,"180 boulevard Vincent Auriol, 75013 Paris France",15.0,20.0
+Place Saint André des Arts,0.0,0.0,"Rue Danton, 75006 Paris France",9.0,21.0
+Église Notre-Dame de Compassion,0.0,0.0,"Place du Général Koenig, 75017 Paris France",9.0,18.0
+Musée de l'Illusion PARIS,18.0,2.0,"rue Saint Denis, 75001 Paris France",10.0,20.0
+Espace d'Animation des Blancs Manteaux,0.0,0.0,"48 rue Vieille du Temple, 75004 Paris France",9.0,21.0
+La Porte des Lions,0.0,0.0,"Quai Francois Mitterrand, 75001 Paris France",0.0,23.59
+Square du Palais Galliera,0.0,0.0,"10 Avenue Pierre 1er de Serbie, 75116 Paris France",9.0,21.0
+Statue Gaspard de Coligny,0.0,0.0,"160 rue de Rivoli, 75001 Paris France",9.0,21.0
+Point Zero,0.0,0.0,"Parvis Notre-Dame - Place Jean-Paul II, 75004 Paris France",9.0,21.0
+Statue Le Denicheur D'ours,0.0,0.0,"40 rue Geoffroy Saint Hilaire Jardin des Plantes, 75005 Paris France",9.0,21.0
+Cours de la Reine,0.0,0.0,"Place de la Concorde s'étend jusqu'à la Place du Canada, 75008 Paris France",9.0,21.0
+Eglise Notre-Dame des Blancs-Manteaux,0.0,0.0,"12 rue des Blancs Manteaux, 75004 Paris France",9.0,21.0
+"Statue ""Eléphant pris au piège""",0.0,0.0,"Quai Anatole France Parvis du Musée d'Orsay, 75007 Paris France",9.0,21.0
+Ménilmontant Paris XX,0.0,0.0,Tout afficher,9.0,21.0
+Église Saint-Louis d'Antin,0.0,0.0,"63 rue de Caumartin, 75009 Paris France",8.45,0.0
+Theatre Le Palace,0.0,0.0,"8 rue du Faubourg Montmartre Montmartre, 75009 Paris France",11.0,20.0
+Théâtre Antoine-Simone Berriau,0.0,3.0,"14 boulevard de Strasbourg, 75010 Paris France",9.0,21.0
+Fondation Henri Cartier-Bresson,0.0,0.0,"79 rue des Archives, 75003 Paris France",11.0,19.0
+Statue de Louis XIII,0.0,0.0,"Place des Vosges, 75004 Paris France",9.0,21.0
+Rue du Faubourg Saint-Antoine,0.0,0.0,Tout afficher,9.0,21.0
+Colonnes du Trone,0.0,2.0,"Place de la Nation, 75011 Paris France",9.0,21.0
+Jardin de l'Hôtel de Sens,0.0,0.0,"7 Rue des Nonnains d'Hyères, 75004 Paris France",9.0,21.0
+Square de la Roquette,0.0,0.0,"143 Rue de la Roquette, 75011 Paris France",9.0,21.0
+Eglise Sainte Elisabeth,0.0,0.0,"195 rue du Temple, 75003 Paris France",9.0,21.0
+Le Louvre des Antiquaires,0.0,0.0,"2 pl du Palais Royal, 75001 Paris France",14.3,19.0
+Theatre de la porte saint martin,0.0,2.0,"17 rue Rene Boulanger, 75010 Paris France",15.0,19.0
+Statue Maréchal Joffre,0.0,0.0,"Place Joffre, 75007 Paris France",0.0,23.59
+Galerie Sakura,0.0,0.0,"21 rue du Bourg Tibourg, 75004 Paris France",9.0,21.0
+Pont de Bercy Paris XIII,0.0,0.0,"800 Port de la Rapée, 75012 Paris France",0.0,23.59
+Place d'Italie,0.0,0.0,"Place d'Italie, 75013 Paris France",9.0,21.0
+Marché Poncelet,0.0,0.0,"Rue Poncelet Metro: Place des Ternes, 75017 Paris France",9.0,21.0
+Eglise Saint-Médard,0.0,0.0,Visiter le site web,7.3,0.0
+Théâtre Bourvil,0.0,0.0,"13 rue des Boulets 11th, 75011 Paris France",9.0,21.0
+Rue Norvins,0.0,0.0,Tout afficher,9.0,21.0
+Théâtre de la Boussole,0.0,3.0,"29 rue de Dunkerque, 75010 Paris France",9.3,18.0
+Statue l'Harmonie,0.0,0.0,"Place de l'Opera Toit du Palais Garnier, 75009 Paris France",0.0,23.59
+Jardin Atlantique Gare Montparnasse Paris XIV,0.0,0.0,"11 Place des 5 Martyrs du Lycée Buffon Au-Dessus de la Gare Montparnasse, 75697 Paris France",9.0,20.3
+Montparnasse Market,0.0,0.0,Tout afficher,9.0,21.0
+Rue du commerce,0.0,2.0,"Rue du commerce near Eiffel tower, 75015 Paris France",0.0,23.59
+Theatre de l'Oeuvre,0.0,2.0,"55, Rue de Clichy, 75009 Paris France",9.0,21.0
+Statue Jean Paul II,0.0,0.0,"6 Pl Jean Paul II Parv Notre Dame, 75004 Paris France",9.0,21.0
+Les Chevaux de Marly,0.0,0.0,"1 avenue des Champs Elysées, 75008 Paris France",9.0,21.0
+Gare de Austerlitz,0.0,0.0,"85 Quai d'Austerlitz, 75013 Paris France",9.0,21.0
+Marché Barbès,0.0,2.0,"Boulevard de la Chapelle, 75010 Paris France",9.0,21.0
+Monument à la République,0.0,0.0,"Place de la République, 75011 Paris France",9.0,21.0
+Square Louvois Paris II,0.0,0.0,"69 B Rue de Richelieu, 75002 Paris France",9.0,21.0
+Playground Duperré,0.0,0.0,"22 Rue Duperré, 75009 Paris France",9.0,21.0
+Eglise Sainte-Odile,0.0,0.0,"2 avenue Stephane Mallarme, 75017 Paris France",9.0,21.0
+Square Maurice-Gardette Paris XI,0.0,0.0,"2 Rue Général Blaise, 75011 Paris France",9.0,21.0
+Rue Dénoyez,0.0,0.0,"Rue Dénoyez, 75020 Paris France",9.0,21.0
+Monument à La Fontaine,0.0,0.0,"Square du Ranelagh, 75016 Paris France",9.0,21.0
+Sculpture Écoute,0.0,0.0,"Place René Cassin Face à l'Église Saint-Eustache, 75001 Paris France",9.0,21.0
+A La Folie Théâtre,0.0,2.0,"6 rue de la Folie Mericourt, 75011 Paris France",14.0,20.0
+Basilique du Sacré-Cœur de Montmartre,0.0,2.0,"35 Rue du Chevalier-De-La-Barre, 75018 Paris France",8.3,20.0
+Musée Nissim de Camondo Paris VIII,0.0,0.0,"63 Rue de Monceau, 75008 Paris France",9.0,21.0
+Petit Palais,0.0,3.0,"Avenue Winston Churchill, 75008 Paris France",9.0,21.0
+Librairie Shakespeare and Company Paris V,0.0,0.0,"37 Rue de la Bûcherie Latin Quarter, 75005 Paris France",12.3,20.0
+Jardin du Luxembourg,0.0,3.0,"Rue de Médicis Rue de Vaugirard, 75006 Paris France",7.3,16.3
+Musée du Louvre,32.9,3.0,"99 Rue de Rivoli, 75001 Paris France",9.0,18.0
+Quartier Saint-Germain-des-Prés Paris VI,0.0,0.0,"Place St-Germain-des-Pres, 75006 Paris France",0.0,23.59
+Cimetière du Père-Lachaise,0.0,3.0,"8 Boulevard de Menilmontant, 75020 Paris France",8.0,18.0
+Musée de l’Orangerie,18.7,0.0,"Jardin des Tuileries - Côté Seine Place de la Concorde, 75058 Paris France",9.0,18.0
+Île de la Cité,0.0,0.0,"Île de la Cité Palais de la Cité, 75001 Paris France",9.0,21.0
+Musée des Arts Forains Paris XII,0.0,2.0,"53 Avenue des Terroirs de France, 75012 Paris France",9.0,21.0
+La Tour Eiffel,29.9,3.0,"5 Avenue, 75007 Paris France",9.0,23.45
+Quartier Latin,0.0,3.0,"Quartier Latin, 75005 Paris France",0.0,23.59
+Musée de l’Armée des Invalides,21.0,3.0,"129 Rue de Grenelle Hôtel National des Invalides, 75007 Paris France",10.0,18.0
+Jardin des Tuileries Paris I,0.0,3.0,"Place de la Concorde, 75001 Paris France",7.0,21.3
+Musée Marmottan Monet,0.0,2.0,"2 Rue Louis Boilly 16ème  Arrondissement, 75016 Paris France",9.0,21.0
+Cathédrale Notre-Dame de Paris,0.0,2.0,"6 Parvis Notre-Dame Place Jean-Paul II, 75004 Paris France",9.0,21.0
+Sainte-Chapelle,15.5,0.0,"8 Boulevard du Palais, 75001 Paris France",9.0,17.0
+Parc des Buttes-Chaumont Paris XIX,0.0,2.0,"1 Rue Botzaris, 75019 Paris France",7.0,22.0
+Montmartre,0.0,0.0,Tout afficher,9.0,21.0
+Musée Rodin Paris VII,18.2,2.0,"79 Rue de Varenne close to Bois de Boulogne, 75007 Paris France",9.0,21.0
+Place des Vosges Paris IV,0.0,2.0,"Place des Vosges 4th Arrondissement, 75004 Paris France",0.0,23.59
+Musée d'Orsay,32.0,3.0,"1 Rue De La Légion d'Honneur, 75007 Paris France",9.0,21.0
+Champs-Élysées Paris VIII,0.0,0.0,"Avenue des Champs Elysees, 75008 Paris France",0.0,23.59
+Arc de Triomphe,17.5,0.0,"Place Charles de Gaulle Place de L'Étoile, 75008 Paris France",10.0,23.0
+Pont Alexandre-III,0.0,0.0,"Pont Alexandre III Quai d'Orsay, 75008 Paris France",9.0,21.0
+Rue Cler Paris VII,0.0,0.0,"Rue Cler Near Eiffel Tower, 75007 Paris France",9.0,21.0
+Musée Carnavalet - Histoire de Paris et Habitants - Paris III,0.0,3.0,"16 rue des Francs-Bourgeois, 75003 Paris France",9.0,21.0
+Le Trocadero et son esplanade,0.0,0.0,"Place du Trocadéro et du 11 Novembre, 75016 Paris France",9.0,21.0
+Rue Montorgueil Paris I,0.0,0.0,"Rue Montorgueil, 75001 Paris France",0.0,23.59
+Musée National des Arts Asiatiques - Guimet - Paris XVI,0.0,0.0,"6 Place d'Iéna, 75116 Paris France",10.0,18.0
+Hôtel de Ville,0.0,0.0,"Place de l'Hôtel de Ville Entrée au 5 Rue Lobeau ou au 29 Rue de Rivoli, 75004 Paris France",9.0,21.0
+Eglise de la Madeleine Paris VIII,0.0,0.0,"Place de la Madeleine, 75008 Paris France",9.0,21.0
+Place de la Concorde Paris VIII,0.0,0.0,"Place de la Concorde, 75008 Paris France",0.0,23.59
+Marché Bastille,0.0,0.0,"Boulevard Richard Lenoir, 75011 Paris France",9.0,21.0
+Église Saint-Eustache,0.0,0.0,"2 impasse Saint Eustache, 75001 Paris France",9.3,19.0
+Panthéon,11.5,3.0,"Pl. du Panthéon Mont Sainte Geneviève, 75005 Paris France",10.0,18.0
+Musée du quai Branly - Jacques Chirac,15.5,3.0,"37 Quai Branly, 75007 Paris France",9.0,21.0
+Musée Jacquemart-André,250.0,3.0,"158 Boulevard Haussmann, 75008 Paris France",10.0,20.3
+Musée de Montmartre Paris XVIII,0.0,2.0,"12 Rue Cortot, 75018 Paris France",10.0,19.0
+Musée du Parfum - Fragonard Paris IX,0.0,0.0,"9, Rue Scribe, 75009 Paris France",9.0,17.0
+Palais du Luxembourg,0.0,0.0,"15 Rue de Vaugirard 6th arrondissement, 75006 Paris France",7.0,23.0
+Parc Monceau Paris VIII,0.0,0.0,"35 Boulevard de Courcelles, 75008 Paris France",7.0,22.0
+Chapelle Notre Dame de la Medaille Miraculeuse,0.0,0.0,"140 rue du Bac, 75007 Paris France",7.45,0.0
+Tours de la Cathedrale Notre-Dame,0.0,0.0,"Rue du Cloître Notre-Dame, 75004 Paris France",9.0,21.0
+Mémorial De La Shoah,0.0,0.0,"17 Rue Geoffroy L'Asnier, 75004 Paris France",10.0,18.0
+Jardins du Palais Royal Paris I,0.0,0.0,"6 Rue de Montpensier, 75001 Paris France",9.0,21.0
+Observatoire Panoramique de la Tour Montparnasse,0.0,2.0,"33 Avenue Du Maine, 75015 Paris France",11.0,22.3
+Atelier des Lumières Paris XI,0.0,0.0,"38 Rue Saint Maur, 75011 Paris France",10.0,18.0
+Galeries Lafayette Paris Haussmann,0.0,3.0,"40 Boulevard Haussmann, 75009 Paris France",1.0,20.3
+1er arrondissement,0.0,0.0,"Entre Rues Étienne Marcel, des Petits Champs, Daniele Casanova, des Capucines et Quais des Tuileries, François Miterrand, du Louvre, de La Mégisserie, 75001 Paris France",0.0,23.59
+Église Saint-Étienne-du-Mont de Paris,0.0,0.0,"6 Place Sainte Geneviève, 75005 Paris France",9.0,21.0
+Coulée Verte René-Dumont,0.0,2.0,"1 Coulée Verte René-Dumont Gare de Lyon - Bercy, 75012 Paris France",7.3,20.3
+Musée De Cluny,0.0,0.0,"28 Rue du Sommerard, 75005 Paris France",9.0,21.0
+Musée des Arts et Métiers Paris III,0.0,0.0,"60 Rue Réaumur, 75003 Paris France",9.0,21.0
+Centre Georges Pompidou Paris IV,0.0,3.0,"Place Georges Pompidou Quartier Beaubourg - Le Marais, 75004 Paris France",11.0,21.0
+Musée de la Chasse et de la Nature,0.0,0.0,"62 Rue des Archives Le Marais, 75003 Paris France",9.0,21.0
+8ème Arrondissement Paris VIII,0.0,0.0,Tout afficher,0.0,23.59
+Église Saint-Sulpice,0.0,0.0,"2 Rue Palatine, 75006 Paris France",7.3,19.3
+Le Foodist,0.0,0.0,"59 Rue du Cardinal Lemoine, 75005 Paris France",18.0,23.0
+Abbaye de Saint-Germain-des-Prés,0.0,0.0,"3 Place Saint Germain des Prés, 75006 Paris France",9.0,20.0
+Wave In Paris,0.0,2.0,"107 Rue De La Croix-nivert, 75015 Paris France",8.3,23.0
+Théâtre de Mogador Paris IX,0.0,3.0,"23 Rue de Mogador, 75009 Paris France",9.0,21.0
+Musée Bourdelle Paris XV,0.0,0.0,"18 Rue Antoine Bourdelle 15e, 75015 Paris France",9.0,21.0
+Rive Gauche Paris V,0.0,0.0,Tout afficher,9.0,21.0
+Galerie Dior,0.0,0.0,"11 Rue François 1er, 75008 Paris France",9.0,21.0
+Café Théâtre Le Petit Casino Paris III,0.0,0.0,"17 Rue Chapon, 75003 Paris France",0.0,23.59
+Le Bon Marché Rive Gauche,0.0,3.0,"24 Rue de Sevres, 75007 Paris France",10.0,20.0
+Parc Montsouris,0.0,0.0,"2 Rue Gazan, 75014 Paris France",8.0,21.3
+Quartier Montparnasse,0.0,0.0,Visiter le site web,9.0,21.0
+Eglise Saint-Severin,0.0,0.0,"Rue des Prêtres Saint Séverin Quartier Latin, 75005 Paris France",11.0,19.3
+Musée de la Musique Paris XIX,0.0,0.0,"Cité de la Musique 221 Avenue Jean-Jaurès, 75019 Paris France",9.0,21.0
+6e Arrondissement,0.0,0.0,Tout afficher,9.0,21.0
+7ème Arrondissement Paris VII,0.0,0.0,Tout afficher,9.0,21.0
+Domaine National du Palais-Royal,0.0,2.0,"8 Rue de Montpensier, 75001 Paris France",7.3,20.0
+BT-Transfer,0.0,0.0,Tout afficher,6.0,23.45
+59 Rivoli,0.0,2.0,"59 Rue de Rivoli Centre Artistique et Culturel, 75001 Paris France",9.0,21.0
+"Expositions Galeries, Jardins, et Zoo Paris V",0.0,0.0,En savoir plus sur le bien-être animal dans le tourisme,8.0,18.3
+Marché d'Aligre Paris XI,0.0,2.0,"Place d'Aligre, 75011 Paris France",9.0,21.0
+Pont-Neuf,0.0,0.0,Tout afficher,9.0,21.0
+One Hour – Live Escape Game,0.0,2.0,"24 rue Emile Lepeu, 75011 Paris France",10.0,22.0
+Dôme des Invalides,0.0,0.0,"129, rue de Grenelle Hôtel national des Invalides, 75007 Paris France",10.0,20.0
+Place Vendôme Paris I,0.0,0.0,"Place Vendôme, 75001 Paris France",0.0,23.59
+iFLY Paris,0.0,2.0,"30 Avenue Corentin Cariou Vill'Up à La Villette, 75019 Paris France",9.0,0.0
+Cimetière de Montmartre,0.0,2.0,"20 Avenue Rachel, 75018 Paris France",8.0,17.3
+Obélisque de Louxor,0.0,0.0,"Place de la Concorde, 75008 Paris France",0.0,23.59
+Théâtre Le Grand Point Virgule Paris XV,0.0,0.0,"8Bis Rue de L'Arrivée, 75015 Paris France",11.0,19.0
+Dalí Paris,0.0,2.0,"11 Rue Poulbot, 75018 Paris France",10.0,18.0
+Eglise Saint-Germain l'Auxerrois,0.0,0.0,"2 Place du Louvre 1er Arrondissement, 75001 Paris France",8.0,19.0
+Jardins du Trocadéro Paris XVI,0.0,2.0,"Place du Trocadéro, 75016 Paris France",9.0,21.0
+Place Dauphine Paris I,0.0,0.0,Tout afficher,9.0,21.0
+Quiz Room Paris Odeon,0.0,2.0,"9 Rue Guenegaud, 75006 Paris France",10.0,23.3
+Palais de Chaillot Paris XVI,0.0,0.0,"1 Place Trocadéro et du 11 Novembre, 75116 Paris France",9.0,21.0
+Fontaine Médicis Jardin du Luxembourg Paris VI,0.0,0.0,"Rue de Médicis Jardin du Luxembourg, 75006 Paris France",9.0,21.0
+Mundolingua Paris VI,0.0,2.0,"10 Rue Servandoni, 75006 Paris France",10.0,19.0
+Easy Go Shuttle,0.0,0.0,"34 Av. des Champs-Élysées, 75008 Paris France",5.0,23.0
+Stade Roland Garros Paris XVI,16.27,0.0,Visiter le site web,9.0,21.0
+Grande Galerie de l'Évolution,0.0,2.0,En savoir plus sur le bien-être animal dans le tourisme,10.0,18.0
+Quartier de l'Opéra,0.0,0.0,"Place de l'Opéra, 75009 Paris France",9.0,21.0
+Passage Jouffroy,0.0,0.0,"10-12 Boulevard Montmartre, 75009 Paris France",9.0,21.0
+Mémorial des Martyrs de la Déportation,0.0,0.0,"Square de l'Île de France, 75004 Paris France",9.0,21.0
+Bois de Vincennes Paris XII,0.0,0.0,"293 Avenue Dausmenil, 75012 Paris France",9.0,21.0
+Virtual Room,0.0,2.0,"35 Boulevard Richard Lenoir Ground floor, RDC, 75011 Paris France",10.0,22.0
+Théâtre La Grande Comédie Paris IX,0.0,0.0,"40 Rue de Clichy, 75009 Paris France",15.0,22.0
+4ème arrondissement,0.0,0.0,Tout afficher,0.0,23.59
+Voie Triomphale,0.0,0.0,Appeler,9.0,21.0
+Ban Sin Thai,0.0,2.0,"134 rue de Vaugirard, 75015 Paris France",11.0,20.0
+Pont de Bir-Hakeim Paris XV,0.0,0.0,Tout afficher,9.0,21.0
+Paris Disney Best Transfer,0.0,0.0,Visiter le site web,9.0,21.0
+"Boulevard Saint-Germain Paris V, VI et VII",0.0,0.0,Tout afficher,9.0,21.0
+Panik Room,0.0,2.0,"38 rue Croix des Petits Champs, 75001 Paris France",10.0,23.3
+Marché Mouffetard,0.0,0.0,"139 Rue Mouffetard, 75005 Paris France",0.0,23.59
+Rashomon Escape,0.0,2.0,"26 Rue Breguet, 75011 Paris France",10.0,23.3
+Quiz Room Paris Opéra,0.0,2.0,"76 Rue De La Victoire, 75009 Paris France",10.0,23.3
+Arc de Triomphe du Carrousel Paris I,0.0,0.0,"Place du Carrousel Entre Le Louvre et Jardin des Tuileries, 75001 Paris France",9.0,21.0
+Quiz Room Paris La Villette,0.0,2.0,"30 Av. Corentin Cariou, 75019 Paris Centre Vill'up, 75019 Paris France",10.0,0.0
+Team Break Paris 9 (Paris IX),0.0,2.0,"44 Rue de Dunkerque, 75009 Paris France",10.0,0.0
+O'Kari Hammam,0.0,0.0,"22 rue Dussoubs, 75002 Paris France",10.0,20.0
+Sensation spa,0.0,2.0,"8 villa de saxe, 75007 Paris France",10.0,22.0
+Église Saint-Pierre de Montmartre Paris XVIII,0.0,0.0,"2 Rue du Mont Cenis, 75018 Paris France",9.3,19.0
+Moulin Rouge,148.0,3.0,"82 Boulevard de Clichy, 75018 Paris France",19.0,1.0
+Les Cognées,0.0,2.0,"5 Rue Stephenson, 75018 Paris France",9.0,21.0
+Esplanade des Invalides,0.0,0.0,"129 Rue de Grenelle Les Invalides, 75007 Paris France",9.0,21.0
+Gamescape,0.0,2.0,"17 Rue de la Pierre Levée, 75011 Paris France",12.0,22.0
+Musee Gustave Moreau,0.0,0.0,"14 Rue Catherine de la Rochefoucauld, 75009 Paris France",10.0,18.0
+AbiTransport,0.0,3.0,Visiter le site web,0.0,23.59
+Musée Maillol Paris VII,0.0,2.0,"61 Rue de Grenelle, 75007 Paris France",10.3,18.3
+La Butte Aux Cailles,0.0,3.0,"Rue de la Butte Aux Cailles, 75013 Paris France",9.0,21.0
+Crack The Egg,0.0,2.0,"46 avenue daumesnil, 75012 Paris France",10.0,23.3
+Lock Academy,0.0,2.0,"25 rue Coquillière, 75001 Paris France",10.0,0.0
+Cimetière du Montparnasse,0.0,0.0,"3 Boulevard Edgar Quinet 14ème Arrondissement, 75014 Paris France",8.0,17.3
+Cathédrale Saint-Louis des Invalides Paris VII,0.0,2.0,"53 Boulevard de la Tour Maubourg, 75007 Paris France",9.0,21.0
+La Sorbonne,0.0,0.0,Visiter le site web,9.0,21.0
+Tour Saint-Jacques Paris IV,0.0,0.0,Visiter le site web,9.0,21.0
+Le Bureau des Legendes : L'Escape Game Immersif,0.0,2.0,Visiter le site web,16.0,23.45
+The Live Thriller,0.0,3.0,Visiter le site web,16.3,22.3
+The Trip,0.0,2.0,"Rue de la Folie Méricourt, 75011 Paris France",13.45,22.3
+Assemblée Nationale Paris VII,0.0,0.0,"33 Quai D'Orsay, 75007 Paris France",9.0,21.0
+Transport Barthelot,0.0,0.0,Tout afficher,0.0,23.59
+Lok Siam Spa - Ternes,0.0,2.0,"17 Rue Guersant, 75017 Paris France",11.0,20.0
+TEAM-TIME : Live Escape Game,0.0,2.0,"26 rue Richer, 75009 Paris France",17.3,0.0
+Spa by Clarins,0.0,2.0,"8 avenue de la Porte Molitor Hôtel Molitor Paris, 75016 Paris France",10.0,20.0
+Hammam Pacha,0.0,3.0,"17 Rue Mayet, 75006 Paris France",11.0,19.0
+Elegant Transfers,0.0,0.0,Tout afficher,9.0,19.0
+Les Secrets Gourmands de Noémie,0.0,0.0,"92 Rue Nollet, 75017 Paris France",9.0,21.0
+La Nouvelle Ève,0.0,2.0,"25 rue Pierre Fontaine 9th, 75009 Paris France",18.3,0.0
+Nuxe Spa,0.0,2.0,"32 rue Montorgueil, 75001 Paris France",10.0,21.0
+Secrets Hunters,0.0,2.0,"17 Place De La Nation, 75011 Paris France",9.0,21.0
+HintHunt Paris,0.0,2.0,"62 rue Beaubourg, 75003 Paris France",10.0,22.0
+Private Taxi Disney Paris,0.0,0.0,Tout afficher,0.0,23.59
+Pandore & Associés,0.0,2.0,"102 boulevard Voltaire, 75011 Paris France",10.0,0.0
+École Ritz Escoffier Paris I,0.0,3.0,"15 Place Vendôme Hôtel Ritz, 75001 Paris France",9.0,18.0
+Horizon of Khufu - Immersive Expedition,0.0,2.0,"1 rue des Fosses Saint Bernard Institut du Monde Arabe, 75005 Paris France",9.0,21.0
+AviaSim Paris,0.0,2.0,"16 rue Raymond Aron, 75013 Paris France",9.0,21.0
+BAM Karaoke Box Richer,0.0,3.0,"30, Rue Richer, 75009 Paris France",18.15,2.0
+Massage Concept Paris,0.0,2.0,"15 rue de la Grande Truanderie, 75001 Paris France",10.0,20.0
+Spa THÉMAÉ Paris,0.0,3.0,"20 Rue Croix des Petits Champs, 75001 Paris France",11.0,20.0
+Wildness,0.0,2.0,"79 rue de Patay, 75013 Paris France",9.0,21.0
+Par'ici,0.0,0.0,"52 rue Mouffetard, 75005 Paris France",10.0,19.3
+Top Paris Transfer,0.0,3.0,"157 rue Vercingetorix, 75014 Paris France",0.0,23.59
+Le Paradis Latin,0.0,3.0,"28 Rue du Cardinal Lemoine, 75005 Paris France",19.3,0.0
+The Quest Factory,0.0,2.0,"4 Rue des Petits Hôtels, 75010 Paris France",10.0,23.0
+La Beer Fabrique - Ateliers Bière,0.0,3.0,"6 Rue Guillaume Bertrand, 75011 Paris France",9.0,21.0
+BAM Karaoke Box Parmentier,0.0,3.0,"40 Avenue de la République, 75011 Paris France",9.0,21.0
+Flight in Paris,0.0,0.0,"97 Boulevard Soult, 75012 Paris France",14.0,19.0
+Phobia Escape Game Paris,0.0,2.0,"127 Rue Jeanne d'Arc, 75013 Paris France",10.0,22.0
+L'Oasis Meïsō - Le Centre de Flottaison,0.0,2.0,"51 Boulevard de la Chapelle ( Fond de la Cour a Gauche ), 75010 Paris France",10.3,0.0
+La Kitchenette de Miss Tâm,0.0,3.0,"55 rue Traversière, 75012 Paris France",9.0,21.0
+How to become Parisian in one hour?,0.0,2.0,"24 Boulevard Poissonniere Theatre des Nouveautes, 75009 Paris France",9.0,22.0
+Inter Service Prestige,0.0,0.0,"58 Rue des Garennes 92160 Antony, 92160 Paris France",0.0,23.59
+Quiveutpister Paris,0.0,3.0,Visiter le site web,9.0,21.0
+You Have Sixty Minutes,0.0,2.0,"57 rue de Maubeuge, 75009 Paris France",9.0,21.0
+TioShuttle,0.0,0.0,Tout afficher,0.0,23.59
+Paris Eagle Cab,0.0,3.0,Visiter le site web,9.0,21.0
+California Limousines,0.0,2.0,"Place Vendôme, 75001 Paris France",9.0,21.0
+Le 4 Mains - Paris,0.0,2.0,"40 bis rue du Faubourg Poissonière, 7510 Paris France",9.0,21.3
+Escape Hunt - Escape Game Paris,0.0,2.0,"5 rue de Hanovre, 75002 Paris France",10.0,22.0
+Bijoux Blues,0.0,0.0,"30 rue Saint Paul, 75004 Paris France",0.0,0.0
+Spa de La Belle Juliette,0.0,2.0,"92 rue du Cherche Midi, 75006 Paris France",11.0,19.3
+Artishow Cabaret,0.0,3.0,"3 cité Souzy, 75011 Paris France",9.0,21.0
+ARTIMUS Escape Game,0.0,2.0,"161 Rue des Pyrénées, 75020 Paris France",10.0,23.45
+Langue Appart',0.0,3.0,"10 Rue Gambey, 75011 Paris France",9.0,17.0
+Apaches De Paris,0.0,2.0,"8 Bd Montmartre, 75009 Paris France",9.0,21.0
+Les Petites Flèches,0.0,3.0,"rue Jean Pierre Timbaud, 75011 Paris France",18.0,0.0
+Incarna,0.0,2.0,"25 rue du Petit Musc, 75004 Paris France",17.0,0.0
+Bar Hemingway Paris I,0.0,0.0,"15 Place Vendôme, 75001 Paris France",17.3,0.3
+Candora,0.0,2.0,"1 Rue du Pont Louis-Philippe, 75004 Paris France",9.0,21.0
+Chez Michou Paris XVIII,0.0,0.0,"80 Rue des Martyrs 18ème Arrondissement, 75018 Paris France",20.0,0.3
+Just Art! Paris,0.0,3.0,"3 Rue de Sévigné, 75004 Paris France",12.0,22.0
+BAM Karaoke Box Sentier,0.0,3.0,"50 Rue d'Aboukir, 75002 Paris France",17.3,2.0
+Deep Inside,0.0,2.0,"7 Quai De La Seine, 75019 Paris France",10.0,23.0
+Lok Siam Spa Auteuil,0.0,2.0,"61 rue Chardon Lagache, 75016 Paris France",11.0,20.0
+Bam Karaoke Box Etoile,0.0,0.0,"69 Avenue De Wagram, 75017 Paris France",9.0,21.0
+BAM Karaoke Box Madeleine,0.0,3.0,"4 rue de Caumartin, 75009 Paris France",9.0,21.0
+Welcome Pickups,0.0,0.0,Tout afficher,9.0,21.0
+Paris Private Transfer Cabs,0.0,3.0,Tout afficher,9.0,21.0
+Airport Prestige Transfer,0.0,0.0,Visiter le site web,9.0,21.0
+"The Spa at Mandarin Oriental, Paris",0.0,0.0,"251 Rue Saint-Honoré, 75001 Paris France",9.0,21.0
+GG Escape Game,0.0,2.0,"72 bd de Charonne, 75020 Paris France",10.0,23.45
+Cirque d'Hiver Bouglione Paris XI,0.0,3.0,"110 Rue Amelot 11ème Arrondissement, 75011 Paris France",9.0,21.0
+LeavinRoom,0.0,2.0,"28 B boulevard Pereire, 75017 Paris France",10.0,22.0
+Paris Ma Belle,0.0,3.0,Visiter le site web,9.0,20.0
+E. Dehillerin,0.0,0.0,"18-20 Rue Coquillière Proche du Louvre, de l'Église Saint-Eustache, des Halles, 75001 Paris France",9.0,0.0
+"THATLou, Treasure Hunt at the Louvre",0.0,0.0,"The Louvre, rue de Rivoli, 75001 Paris France",9.0,21.0
+Edwart Chocolatier,0.0,0.0,"244 Rue de Rivoli, 75001 Paris France",11.0,20.0
+Majestic Escape Game,0.0,0.0,"2 Rue Française, 75001 Paris France",10.0,23.0
+Le Double Fond,0.0,0.0,"1 Place du Marche Sainte Catherine, 75004 Paris France",9.0,21.0
+A World in A Pan,0.0,3.0,"75 Boulevard De Montmorency, 75016 Paris France",9.0,21.0
+Prizoners,0.0,2.0,"15 Rue Quincampoix, 75004 Paris France",10.0,22.0
+Le Spa Dans le Noir ?,0.0,2.0,"65 Rue Montmartre, 75002 Paris France",12.0,20.0
+Oh My God She's Parisian !,0.0,2.0,"19 boulevard Saint-Martin Théâtre BO Saint-Martin, 75003 Paris France",9.0,21.0
+Cinevasion,0.0,2.0,"147 rue de Vaugirard, 75015 Paris France",9.0,21.0
+Les Caves du Louvre - Make Your Own Wine Workshop,0.0,2.0,"52 rue de l Arbre Sec, 75001 Paris France",14.0,18.0
+La French Beauty,0.0,0.0,"24 Rue du Temple, 75004 Paris France",10.3,19.3
+Berthillon,0.0,0.0,"31-46 Rue St.-Louis-en-l'Île Île Saint Louis, 75004 Paris France",9.0,21.0
+Bel Canto Paris,0.0,0.0,Visiter le site web,9.0,21.0
+Palais Maillot,0.0,0.0,"2 Place de la Porte Maillot Palais des Congrès, 75017 Paris France",9.0,21.0
+Caveau de la Huchette Paris V,0.0,3.0,"5 Rue de la Huchette Le Club De Jazz Du Film La La Land, 75005 Paris France",9.0,21.0
+Victory Escape Game Opéra,0.0,2.0,"21 Rue de la Victoire, 75009 Paris France",10.0,23.45
+ClueZ Paris,0.0,2.0,"103, rue Saint-Antoine Le Marais, 75004 Paris France",10.0,19.0
+Kairos Escape,0.0,2.0,"42 Rue Sedaine, 75011 Paris France",9.3,23.0
+Mystery Bag,0.0,2.0,"Place Saint Catherine, 75004 Paris France",9.0,21.0
+Isaan Thaï Spa,0.0,2.0,"26 Rue Paul Barruel, 75015 Paris France",11.0,20.0
+Grey Shuttle,0.0,3.0,Tout afficher,9.0,21.0
+Le Studio des Parfums,0.0,2.0,"7 Rue des Francs Bourgeois, 75004 Paris France",11.0,20.0
+Royal Transfer,0.0,2.0,Visiter le site web,0.0,23.59
+DS Prestige,0.0,0.0,Visiter le site web,9.0,21.0
+Les Bulles À Flotter,0.0,2.0,"32 Boulevard de la Bastille, 75012 Paris France",10.0,22.3
+The Escape Agency,0.0,2.0,"36 Rue du Faubourg Saint Martin, 75010 Paris France",11.0,22.3
+Amour en Cuisine - Cooking Classes,0.0,3.0,"rue Louis Codet, 75007 Paris France",9.0,21.0
+PhotoProf - Cours de photographie,0.0,3.0,"6 place des Vosges, 75004 Paris France",9.3,20.0
+Room Rush,0.0,2.0,"100 avenue Philippe Auguste, 75011 Paris France",10.0,22.0
+Le Calbar,0.0,2.0,"82 rue de Charenton, 75012 Paris France",9.0,21.0
+Visite Paris En Bateau,0.0,0.0,Visiter le site web,9.0,21.0
+Zen Thai Spa,0.0,0.0,"12 rue du Pic de Barrette, 75015 Paris France",11.0,20.0
+Passage des Panoramas,0.0,0.0,"11 Bd Montmartre, 75002 Paris France",9.0,21.0
+Le Cheese Geek,0.0,3.0,"31 rue Sainte-Marthe Inside a beautiful cheese shop, 75005 Paris France",9.0,21.0
+60 Minutes Escape,0.0,2.0,"130 rue du Faubourg Saint Martin, 75010 Paris France",0.0,22.0
+Catherine Reed Cooking Classes,0.0,0.0,"11 B rue Amelie, 75007 Paris France",9.0,21.0
+L'Antichambre,0.0,2.0,"55 Boulevard Saint Martin Face à la Porte Saint Martin, 75003 Paris France",10.0,23.0
+Darcos Arc de Triomphe,0.0,0.0,"53 Avenue de la Grande Armée Métro ligne 1 Sortie Argentine, 75016 Paris France",9.0,17.0
+Villa Thalgo Club & Spa,0.0,0.0,"8 avenue Raymond Poincare, 75116 Paris France",8.15,20.0
+Victory Escape Game Marais,0.0,2.0,"37 Rue des Gravilliers, 75003 Paris France",10.0,23.3

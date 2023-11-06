@@ -36,8 +36,24 @@ try {
               const address2 = response.bestItinerary[1].address
               const depart = document.getElementById('depart').value
 
+              var userPos = {lat: 48.856614, lng: 2.3522219}
+              if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    userPos = {
+                        lat: position.coords.latitude,
+                        lng: position.coords.longitude
+                    };
+                    map.setCenter(userPos);
+                }, function() {
+                    handleLocationError(true, map.getCenter());
+                });
+              } else {
+                  // Le navigateur ne supporte pas la géolocalisation
+                  handleLocationError(false, map.getCenter());
+              }
+
               // add itinerary to map
-              calculateAndDisplayRoute(address1, address2, depart);
+              calculateAndDisplayRoute(address1, address2, depart, userPos);
             }
             
             positionSelector.value = ""

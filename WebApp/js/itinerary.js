@@ -42,10 +42,10 @@ try {
                 response.priceSpent = Math.round(response.priceSpent)
 
               //set span with id total-price
-              document.getElementById('total-price').innerHTML = response.priceSpent
+              document.getElementById('total-price').innerHTML = response.priceSpent + "€"
 
               //set span with id total-time
-              document.getElementById('full-time').innerHTML = response.hoursSpent
+              document.getElementById('full-time').innerHTML = response.hoursSpent + "h"
                 
 
               var userPos = {lat: 48.856614, lng: 2.3522219}

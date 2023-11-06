@@ -12,6 +12,24 @@
 	/* transform: translateY(-50%); */
 }
 
+.map-container {
+	/* Hide the container until the map is loaded */
+	display: none;
+	background-color: #ffffff; /* Add a white background to the container */
+  }
+
+  .sep {
+	/* Add a border to the separator */
+	border-top: 1px solid #ccc;
+	padding: 10px 0;
+  }
+
+  #directions-panel-1, #directions-panel-2 {
+	/* Add a light gray background to the two directions panels */
+	background-color: #f9f9f9;
+	padding: 10px;
+  }
+
 #booking {
     font-family: 'Montserrat', sans-serif;
     background-image: url('../img/background.jpg');

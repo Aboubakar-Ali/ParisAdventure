@@ -33,10 +33,12 @@ export default {
             //randomize restaurants order that have the same rating OR CHOOSE THE ONE THAT ARE THE CLOSEST TO THE POSITION OF THE USER AT EACH STEP
             restaurants.sort((a, b) => (a.note == b.note ? Math.random() - 0.5 : 0));
 
+            var hoursLeft = hours;
+            var priceLeft = price;
             // for each activity, check if it fits the user's preferences (hours, price)
             for (const activity of activities) {
                 // Check if the activity fits the user's preferences
-                if (activity.time > hours-2 || activity.price*adults > price || activity.time == 0) {
+                if (activity.time > hoursLeft-2 || activity.price*adults > priceLeft || activity.time == 0) {
                     continue;
                 }
 
@@ -44,8 +46,8 @@ export default {
                 bestItinerary.push(activity as any);
 
                 // Calculate the remaining hours and price
-                hours -= activity.time;
-                price -= activity.price*adults;
+                hoursLeft -= activity.time;
+                priceLeft -= activity.price*adults;
 
                 break;
             }
@@ -61,19 +63,22 @@ export default {
                 bestItinerary.push(restaurant as any);
 
                 // Calculate the remaining price
-                price -= restaurant.price_min*adults;
+                priceLeft -= restaurant.price_min*adults;
                 // Calculate the remaining hours
-                hours -= 2;
+                hoursLeft -= 2;
 
                 break;
             }
             console.log(bestItinerary)
 
+            var hoursSpent = hours - hoursLeft;
+            var priceSpent = price - priceLeft;
+
             if (!bestItinerary) throw "No best itinerary found";
 
             Logger.info(`Best itinerary found: ${bestItinerary}`);
             res.status(200);
-            res.send({bestItinerary, hours, price});
+            res.send({bestItinerary, hoursSpent, priceSpent});
         } catch (err) {
             res.status(400);
             res.send("An error occured");

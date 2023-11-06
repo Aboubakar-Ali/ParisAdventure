@@ -13,11 +13,17 @@
 }
 
 #booking {
-	font-family: 'Montserrat', sans-serif;
-	background-image: url('../img/background.jpg');
-	background-size: cover;
-	background-position: center;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Ajout de cette ligne */
+    height: 100vh; /* Assurez-vous que #booking prend au moins toute la hauteur de la fenêtre */
+    width: 100%; /* Pour couvrir toute la largeur */
+    min-height: 100%; /* S'assurer qu'il couvre toute la hauteur de la page */
+    overflow: auto; /* Ajouter le défilement à l'intérieur de #booking si le contenu dépasse */
 }
+
 
 #booking::before {
 	content: '';

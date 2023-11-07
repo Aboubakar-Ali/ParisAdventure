@@ -11,6 +11,7 @@ df = df[~df['Geocode'].str.contains('Non g�ocod�')]
 df = df[~df['Address'].str.contains('Tout afficher')]
 df = df[~df['Address'].str.startswith('Appeler')]
 df = df[~df['Address'].str.startswith('En savoir plus')]
+df = df[~df['Address'].str.startswith('Paris')]
 
 
 # Sauvegarder le résultat dans un nouveau fichier CSV

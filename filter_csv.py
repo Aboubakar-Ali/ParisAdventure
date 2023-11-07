@@ -6,7 +6,7 @@ output_file = 'resultats_geocodage_filtre.csv'
 # Lire le fichier CSV en utilisant pandas
 df = pd.read_csv(input_file, encoding='utf-8')
 
-# Filtrer les lignes de la colonne 'Address' qui commencent et se terminent par des guillemets
+# Filtrer les lignes qui continennent les valeurs suivantes
 df = df[~df['Geocode'].str.contains('Non g�ocod�')]
 df = df[~df['Address'].str.contains('Tout afficher')]
 

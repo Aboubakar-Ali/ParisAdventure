@@ -46,6 +46,12 @@ try {
 
               //set span with id total-time
               document.getElementById('full-time').innerHTML = response.hoursSpent + "h"
+
+              // set div with id "address1"
+              document.getElementById('address-1').innerHTML = response.bestItinerary[0].name
+
+              // set div with id "address2"
+              document.getElementById('address-2').innerHTML = response.bestItinerary[1].name
                 
 
               var userPos = {lat: 48.856614, lng: 2.3522219}

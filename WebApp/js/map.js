@@ -57,6 +57,9 @@ function initMap() {
 // Fonction calcul iti
 function calculateAndDisplayRoute(address1, address2, depart) {
     var start = userPosition; // Utilisez la position de l'utilisateur comme point de départ
+    while (userPosition == null) {
+        setInterval(function(){ console.log("wait"); }, 3000);
+    }
     var via = address1;    //document.getElementById('via').value;
     var end = address2; //document.getElementById('via').value;
     var departureTime1 = new Date();

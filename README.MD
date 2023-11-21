@@ -1,4 +1,4 @@
-# PARISPROJECT
+# ParisProject
 
 ![image](/img.png)
 
